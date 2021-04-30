@@ -8,7 +8,7 @@
 * **[Charades](http://ai2-website.s3.amazonaws.com/publications/hollywood-homes.pdf)**: Hollywood in Homes: Crowdsourcing Data
 Collection for Activity Understanding (ECCV 2016) [Homepage](https://prior.allenai.org/projects/charades)
 * **[Charades-Ego](https://arxiv.org/pdf/1804.09627.pdf)**: Actor and Observer: Joint Modeling of First and Third-Person Videos (CVPR 2018) [Homepage](https://prior.allenai.org/projects/charades-ego)
-* **[Moments in Time Dataset](http://moments.csail.mit.edu/TPAMI.2019.2901464.pdf)**: one million videos for event understanding [Homepage](http://moments.csail.mit.edu/)
+* **[Moments in Time Dataset](http://moments.csail.mit.edu/TPAMI.2019.2901464.pdf)**: one million videos for event understanding (TPAMI 2019) [Homepage](http://moments.csail.mit.edu/)
 * **[Multi-Moments in Time](https://arxiv.org/pdf/1911.00232.pdf)**: Learning and Interpreting Models for Multi-Action Video Understanding [Homepage](http://moments.csail.mit.edu/)
 * **[EPIC-KITCHENS](https://openaccess.thecvf.com/content_ECCV_2018/papers/Dima_Damen_Scaling_Egocentric_Vision_ECCV_2018_paper.pdf)**: Scaling Egocentric Vision: The EPIC-KITCHENS Dataset [Homepage](https://epic-kitchens.github.io/2021)
 * **HOMAGE**: Home Action Genome: Cooperative Compositional Action Understanding (CVPR 2021) [Homepage](https://homeactiongenome.org/)</br> 
