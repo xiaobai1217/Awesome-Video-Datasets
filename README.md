@@ -25,3 +25,7 @@ Collection for Activity Understanding (ECCV 2016) [Homepage](https://prior.allen
 * **[EEV](https://arxiv.org/abs/2001.05488)**: A Large-Scale Dataset for Studying Evoked Expressions from Video [Homepage](https://github.com/google-research-datasets/eev)
 * **[MUSES](https://arxiv.org/pdf/2012.09434.pdf)**: Multi-shot Temporal Event Localization: a Benchmark (CVPR 2021) [Homepage](https://songbai.site/muses/)
 
+## Audiovisual Learning
+* **[LLP](https://arxiv.org/pdf/2007.10558.pdf)**: Unified Multisensory Perception: Weakly-Supervised Audio-Visual Video Parsing [Homepage](https://github.com/YapengTian/AVVP-ECCV20)
+* **[VGG-Sound](https://arxiv.org/abs/2004.14368)**: A large scale audio-visual dataset [Homepage](https://www.robots.ox.ac.uk/~vgg/data/vggsound/)
+* **[VGG-SS](https://arxiv.org/pdf/2104.02691.pdf)**: Localizing Visual Sounds the Hard Way (CVPR 2021) [Homepage](https://www.robots.ox.ac.uk/~vgg/research/lvs/)
