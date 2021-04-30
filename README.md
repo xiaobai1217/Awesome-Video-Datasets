@@ -3,16 +3,20 @@
 ## Action Recognition
 
 * **HMDB**: A Large Video Database for Human Motion Recognition (ICCV 2011)</br> 
-[[Paper](https://serre-lab.clps.brown.edu/wp-content/uploads/2012/08/Kuehne_etal_iccv11.pdf)][[Homepage](https://serre-lab.clps.brown.edu/resource/hmdb-a-large-human-motion-database/)]
+[[Paper](https://serre-lab.clps.brown.edu/wp-content/uploads/2012/08/Kuehne_etal_iccv11.pdf)][[Homepage](https://serre-lab.clps.brown.edu/resource/hmdb-a-large-human-motion-database/)]</br>
+51 classes, 7,000 clips
 
 * **UCF101**: A Dataset of 101 Human Actions Classes From Videos in The Wild </br> 
-[[Paper](https://www.crcv.ucf.edu/papers/UCF101_CRCV-TR-12-01.pdf)][[Homepage](https://www.crcv.ucf.edu/data/UCF101.php)]
+[[Paper](https://www.crcv.ucf.edu/papers/UCF101_CRCV-TR-12-01.pdf)][[Homepage](https://www.crcv.ucf.edu/data/UCF101.php)]</br> 
+101 classes, 13k clips
 
 * **ActivityNet**: A Large-Scale Video Benchmark for Human Activity Understanding (CVPR 2015)</br> 
-[[Paper](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Heilbron_ActivityNet_A_Large-Scale_2015_CVPR_paper.pdf)][[Homepage](http://activity-net.org/index.html)]
+[[Paper](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Heilbron_ActivityNet_A_Large-Scale_2015_CVPR_paper.pdf)][[Homepage](http://activity-net.org/index.html)]</br>
+203 classes, 137 untrimmed videos per class, 1.41 activity instances per video
 
 * **Kinetics** </br>
-[[Kinetics-400](https://arxiv.org/abs/1705.06950)] [[Kinetics-600](https://arxiv.org/abs/1808.01340)] [[Kinetics-700](https://arxiv.org/abs/1907.06987)] [[Homepage](https://deepmind.com/research/open-source/kinetics)]
+[[Kinetics-400](https://arxiv.org/abs/1705.06950)] [[Kinetics-600](https://arxiv.org/abs/1808.01340)] [[Kinetics-700](https://arxiv.org/abs/1907.06987)] [[Kinetics-700-2020](https://arxiv.org/pdf/2010.10864.pdf)] [[Homepage](https://deepmind.com/research/open-source/kinetics)]</br>
+400/600/700/700 classes, at least 400/600/600/700 clips per class
 
 * **Charades**: Hollywood in Homes: Crowdsourcing Data
 Collection for Activity Understanding (ECCV 2016)</br> 
