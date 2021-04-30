@@ -33,7 +33,7 @@ Collection for Activity Understanding (ECCV 2016)</br>
 [[Paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Dima_Damen_Scaling_Egocentric_Vision_ECCV_2018_paper.pdf)][[Homepage](https://epic-kitchens.github.io/2021)]
 
 * **HOMAGE**: Home Action Genome: Cooperative Compositional Action Understanding (CVPR 2021) </br> 
-[[Paper]()][[Homepage](https://homeactiongenome.org/)]
+[[Paper]()][[Homepage](https://homeactiongenome.org/)]</br> 
 :pencil2: *27 participants, 12 sensor types, 75 activities, 453 atomic actions, 1,752 synchronized sequences, 86 object classes, 29 relationship classes, 497,534 bounding boxes, 583,481 relationships.*
 
 * **MMAct**: A Large-Scale Dataset for Cross Modal Human Action Understanding (ICCV 2019) </br> 
@@ -55,22 +55,22 @@ Collection for Activity Understanding (ECCV 2016)</br>
 [[Paper](https://openaccess.thecvf.com/content_cvpr_2014/papers/Kuehne_The_Language_of_2014_CVPR_paper.pdf)][[Homepage](https://serre-lab.clps.brown.edu/resource/breakfast-actions-dataset/)]
 
 ## Action/Event Localization
-* **[AVA](https://arxiv.org/abs/1705.08421)**: A Video Dataset of Spatio-temporally Localized Atomic Visual Actions </br> 
-[Homepage](http://research.google.com/ava/)
-* **[EEV](https://arxiv.org/abs/2001.05488)**: A Large-Scale Dataset for Studying Evoked Expressions from Video </br> 
-[Homepage](https://github.com/google-research-datasets/eev)
-* **[MUSES](https://arxiv.org/pdf/2012.09434.pdf)**: Multi-shot Temporal Event Localization: a Benchmark (CVPR 2021) </br> 
-[Homepage](https://songbai.site/muses/)
+* **AVA**: A Video Dataset of Spatio-temporally Localized Atomic Visual Actions </br> 
+[[Paper](https://arxiv.org/abs/1705.08421)][[Homepage](http://research.google.com/ava/)]
+* **EEV**: A Large-Scale Dataset for Studying Evoked Expressions from Video </br> 
+[[Paper](https://arxiv.org/abs/2001.05488)][[Homepage](https://github.com/google-research-datasets/eev)]
+* **MUSES**: Multi-shot Temporal Event Localization: a Benchmark (CVPR 2021) </br> 
+[[Paper](https://arxiv.org/pdf/2012.09434.pdf)][[Homepage](https://songbai.site/muses/)]
 
 ## Audiovisual Learning
-* **[AVE](https://openaccess.thecvf.com/content_ECCV_2018/papers/Yapeng_Tian_Audio-Visual_Event_Localization_ECCV_2018_paper.pdf)**: Audio-Visual Event Localization in Unconstrained Videos </br> 
-[Homepage](https://sites.google.com/view/audiovisualresearch)
+* **AVE**: Audio-Visual Event Localization in Unconstrained Videos </br> 
+[[Paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Yapeng_Tian_Audio-Visual_Event_Localization_ECCV_2018_paper.pdf)][[Homepage](https://sites.google.com/view/audiovisualresearch)]
 
-* **[LLP](https://arxiv.org/pdf/2007.10558.pdf)**: Unified Multisensory Perception: Weakly-Supervised Audio-Visual Video Parsing </br> 
-[Homepage](https://github.com/YapengTian/AVVP-ECCV20)
+* **LLP**: Unified Multisensory Perception: Weakly-Supervised Audio-Visual Video Parsing </br> 
+[[Paper](https://arxiv.org/pdf/2007.10558.pdf)][[Homepage](https://github.com/YapengTian/AVVP-ECCV20)]
 
-* **[VGG-Sound](https://arxiv.org/abs/2004.14368)**: A large scale audio-visual dataset </br> 
-[Homepage](https://www.robots.ox.ac.uk/~vgg/data/vggsound/)
+* **VGG-Sound**: A large scale audio-visual dataset </br> 
+[[Paper](https://arxiv.org/abs/2004.14368)][[Homepage](https://www.robots.ox.ac.uk/~vgg/data/vggsound/)]
 
-* **[VGG-SS](https://arxiv.org/pdf/2104.02691.pdf)**: Localizing Visual Sounds the Hard Way (CVPR 2021)</br> 
-[Homepage](https://www.robots.ox.ac.uk/~vgg/research/lvs/)
+* **VGG-SS**: Localizing Visual Sounds the Hard Way (CVPR 2021)</br> 
+[[Paper](https://arxiv.org/pdf/2104.02691.pdf)][[Homepage](https://www.robots.ox.ac.uk/~vgg/research/lvs/)]
