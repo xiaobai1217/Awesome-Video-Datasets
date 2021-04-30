@@ -64,10 +64,10 @@ Collection for Activity Understanding (ECCV 2016)</br>
 [[Paper](https://arxiv.org/pdf/2012.09434.pdf)][[Homepage](https://songbai.site/muses/)]
 
 ## Audiovisual Learning
-* **AVE**: Audio-Visual Event Localization in Unconstrained Videos </br> 
+* **AVE**: Audio-Visual Event Localization in Unconstrained Videos (ECCV 2018) </br> 
 [[Paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Yapeng_Tian_Audio-Visual_Event_Localization_ECCV_2018_paper.pdf)][[Homepage](https://sites.google.com/view/audiovisualresearch)]
 
-* **LLP**: Unified Multisensory Perception: Weakly-Supervised Audio-Visual Video Parsing </br> 
+* **LLP**: Unified Multisensory Perception: Weakly-Supervised Audio-Visual Video Parsing (ECCV 2020) </br> 
 [[Paper](https://arxiv.org/pdf/2007.10558.pdf)][[Homepage](https://github.com/YapengTian/AVVP-ECCV20)]
 
 * **VGG-Sound**: A large scale audio-visual dataset </br> 
