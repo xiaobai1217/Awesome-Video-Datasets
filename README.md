@@ -15,7 +15,7 @@
 *203 classes, 137 untrimmed videos per class, 1.41 activity instances per video*
 
 * **Kinetics** </br>
-[[Kinetics-400](https://arxiv.org/abs/1705.06950)] [[Kinetics-600](https://arxiv.org/abs/1808.01340)] [[Kinetics-700](https://arxiv.org/abs/1907.06987)] [[Kinetics-700-2020](https://arxiv.org/pdf/2010.10864.pdf)] [[Homepage](https://deepmind.com/research/open-source/kinetics)]</br>
+[[Kinetics-400](https://arxiv.org/abs/1705.06950)]/[[Kinetics-600](https://arxiv.org/abs/1808.01340)]/[[Kinetics-700](https://arxiv.org/abs/1907.06987)]/[[Kinetics-700-2020](https://arxiv.org/pdf/2010.10864.pdf)] [[Homepage](https://deepmind.com/research/open-source/kinetics)]</br>
 *400/600/700/700 classes, at least 400/600/600/700 clips per class*
 
 * **Charades**: Hollywood in Homes: Crowdsourcing Data
