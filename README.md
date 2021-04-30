@@ -2,6 +2,7 @@
 
 ## Action Recognition
 
+* **[HMDB](https://serre-lab.clps.brown.edu/wp-content/uploads/2012/08/Kuehne_etal_iccv11.pdf)**: A Large Video Database for Human Motion Recognition (ICCV 2011) [Homepage](https://serre-lab.clps.brown.edu/resource/hmdb-a-large-human-motion-database/)
 * **[UCF101](https://www.crcv.ucf.edu/papers/UCF101_CRCV-TR-12-01.pdf)**: A Dataset of 101 Human Actions Classes From Videos in The Wild [Homepage](https://www.crcv.ucf.edu/data/UCF101.php)
 * **[ActivityNet](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Heilbron_ActivityNet_A_Large-Scale_2015_CVPR_paper.pdf)**: A Large-Scale Video Benchmark for Human Activity Understanding (CVPR 2015)[Homepage](http://activity-net.org/index.html)
 * **Kinetics**: [Kinetics-400](https://arxiv.org/abs/1705.06950) [Kinetics-600](https://arxiv.org/abs/1808.01340) [Kinetics-700](https://arxiv.org/abs/1907.06987) [Homepage](https://deepmind.com/research/open-source/kinetics)
