@@ -16,7 +16,7 @@
 * **[TITAN](https://openaccess.thecvf.com/content_CVPR_2020/papers/Malla_TITAN_Future_Forecast_Using_Action_Priors_CVPR_2020_paper.pdf)**: Future Forecast using Action Priors (CVPR 2020) [Homepage](https://usa.honda-ri.com/titan)
 * **[PKU-MMD](https://arxiv.org/abs/1703.07475)**: A Large Scale Benchmark for Continuous Multi-Modal Human Action Understanding (ACM Multimedia Workshop) [Homepage](https://github.com/ECHO960/PKU-MMD#pku-mmd-a-large-scale-benchmark-for-continuous-multi-modal-human-action-understanding)
 
-
+* **[Breakfast](https://openaccess.thecvf.com/content_cvpr_2014/papers/Kuehne_The_Language_of_2014_CVPR_paper.pdf)** The Language of Actions: Recovering the Syntax and Semantics of Goal-Directed Human Activities [Homepage](https://serre-lab.clps.brown.edu/resource/breakfast-actions-dataset/)
 
 ## Action/Event Localization
 * [EEV](https://github.com/google-research-datasets/eev) (EEV: A Large-Scale Dataset for Studying Evoked Expressions from Video, 2020)
