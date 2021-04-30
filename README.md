@@ -26,6 +26,7 @@ Collection for Activity Understanding (ECCV 2016) [Homepage](https://prior.allen
 * **[MUSES](https://arxiv.org/pdf/2012.09434.pdf)**: Multi-shot Temporal Event Localization: a Benchmark (CVPR 2021) [Homepage](https://songbai.site/muses/)
 
 ## Audiovisual Learning
+* **[AVE](https://openaccess.thecvf.com/content_ECCV_2018/papers/Yapeng_Tian_Audio-Visual_Event_Localization_ECCV_2018_paper.pdf)**: Audio-Visual Event Localization in Unconstrained Videos [Homepage](https://sites.google.com/view/audiovisualresearch)
 * **[LLP](https://arxiv.org/pdf/2007.10558.pdf)**: Unified Multisensory Perception: Weakly-Supervised Audio-Visual Video Parsing [Homepage](https://github.com/YapengTian/AVVP-ECCV20)
 * **[VGG-Sound](https://arxiv.org/abs/2004.14368)**: A large scale audio-visual dataset [Homepage](https://www.robots.ox.ac.uk/~vgg/data/vggsound/)
 * **[VGG-SS](https://arxiv.org/pdf/2104.02691.pdf)**: Localizing Visual Sounds the Hard Way (CVPR 2021) [Homepage](https://www.robots.ox.ac.uk/~vgg/research/lvs/)
