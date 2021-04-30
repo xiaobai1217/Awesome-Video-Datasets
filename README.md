@@ -22,7 +22,6 @@ Collection for Activity Understanding (ECCV 2016) [Homepage](https://prior.allen
 * **[EPIC-KITCHENS](https://openaccess.thecvf.com/content_ECCV_2018/papers/Dima_Damen_Scaling_Egocentric_Vision_ECCV_2018_paper.pdf)**: Scaling Egocentric Vision: The EPIC-KITCHENS Dataset</ins> [Homepage](https://epic-kitchens.github.io/2021)
 
 * **HOMAGE**: Home Action Genome: Cooperative Compositional Action Understanding (CVPR 2021) [Homepage](https://homeactiongenome.org/)</br> 
-
 *27 participants, 12 sensor types, 75 activities, 453 atomic actions, 1,752 synchronized sequences, 86 object classes, 29 relationship classes, 497,534 bounding boxes, 583,481 relationships.*
 
 * **[MMAct](https://openaccess.thecvf.com/content_ICCV_2019/papers/Kong_MMAct_A_Large-Scale_Dataset_for_Cross_Modal_Human_Action_Understanding_ICCV_2019_paper.pdf)**: A Large-Scale Dataset for Cross Modal Human Action Understanding (ICCV 2019) [Homepage](https://mmact19.github.io/2019/)
