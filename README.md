@@ -2,7 +2,8 @@
 
 ## Action Recognition
 
-* **[HMDB](https://serre-lab.clps.brown.edu/wp-content/uploads/2012/08/Kuehne_etal_iccv11.pdf)**: A Large Video Database for Human Motion Recognition (ICCV 2011) [Homepage](https://serre-lab.clps.brown.edu/resource/hmdb-a-large-human-motion-database/)
+* **HMDB**: A Large Video Database for Human Motion Recognition (ICCV 2011)</br> 
+[[Paper](https://serre-lab.clps.brown.edu/wp-content/uploads/2012/08/Kuehne_etal_iccv11.pdf)][[Homepage](https://serre-lab.clps.brown.edu/resource/hmdb-a-large-human-motion-database/)]
 
 * **[UCF101](https://www.crcv.ucf.edu/papers/UCF101_CRCV-TR-12-01.pdf)**: A Dataset of 101 Human Actions Classes From Videos in The Wild [Homepage](https://www.crcv.ucf.edu/data/UCF101.php)
 
