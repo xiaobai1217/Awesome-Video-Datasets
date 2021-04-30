@@ -53,37 +53,55 @@ Collection for Activity Understanding (ECCV 2016)</br>
 *36k video clips, 37 action classes, RGB+Keypoints+Acc+Gyo+Ori+Wi-Fi+Presure*
 
 * **LEMMA**: A Multi-view Dataset for LEarning Multi-agent Multi-task Activities (ECCV 2020) </br> 
-[[Paper](https://arxiv.org/pdf/2007.15781.pdf)][[Homepage](https://sites.google.com/view/lemma-activity)]
+[[Paper](https://arxiv.org/pdf/2007.15781.pdf)][[Homepage](https://sites.google.com/view/lemma-activity)]</br>
+*RGB-D, 641 action classes, 11,781 action segments, 4.6M frames*
 
 * **Action Genome**: Actions as Compositions of Spatio-temporal Scene Graphs (CVPR 2020) </br> 
-[[Paper](https://arxiv.org/pdf/1912.06992.pdf)][[Homepage](https://www.actiongenome.org/)]
+[[Paper](https://arxiv.org/pdf/1912.06992.pdf)][[Homepage](https://www.actiongenome.org/)]</br>
+*10K videos, 0.4M objects, 1.7M visual relationships*
 
 * **TITAN**: Future Forecast using Action Priors (CVPR 2020) </br> 
-[[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Malla_TITAN_Future_Forecast_Using_Action_Priors_CVPR_2020_paper.pdf)][[Homepage](https://usa.honda-ri.com/titan)]
+[[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Malla_TITAN_Future_Forecast_Using_Action_Priors_CVPR_2020_paper.pdf)][[Homepage](https://usa.honda-ri.com/titan)]</br>
+*700 labeled video-clips, 50 labels including vehicle states and actions, pedestrian age groups, and targeted pedestrian action attributes*
 
 * **PKU-MMD**: A Large Scale Benchmark for Continuous Multi-Modal Human Action Understanding (ACM Multimedia Workshop) </br> 
-[[Paper](https://arxiv.org/abs/1703.07475)][[Homepage](https://github.com/ECHO960/PKU-MMD#pku-mmd-a-large-scale-benchmark-for-continuous-multi-modal-human-action-understanding)]
+[[Paper](https://arxiv.org/abs/1703.07475)][[Homepage](https://github.com/ECHO960/PKU-MMD#pku-mmd-a-large-scale-benchmark-for-continuous-multi-modal-human-action-understanding)]</br>
+*1076 long video sequences, 51 action categories, performed by 66 subjects in three camera views, 20,000 action instances, 5.4 million frames, RGB+depth+Infrared Radiation+Skeleton*
 
 * **Breakfast**: The Language of Actions: Recovering the Syntax and Semantics of Goal-Directed Human Activities </br> 
-[[Paper](https://openaccess.thecvf.com/content_cvpr_2014/papers/Kuehne_The_Language_of_2014_CVPR_paper.pdf)][[Homepage](https://serre-lab.clps.brown.edu/resource/breakfast-actions-dataset/)]
+[[Paper](https://openaccess.thecvf.com/content_cvpr_2014/papers/Kuehne_The_Language_of_2014_CVPR_paper.pdf)][[Homepage](https://serre-lab.clps.brown.edu/resource/breakfast-actions-dataset/)]</br>
+*52 participants, 10 distinct cooking activities captured in 18 different kitchens, 48 action classes, 11,267 clips*
 
 ## Action/Event Localization
 * **AVA**: A Video Dataset of Spatio-temporally Localized Atomic Visual Actions </br> 
-[[Paper](https://arxiv.org/abs/1705.08421)][[Homepage](http://research.google.com/ava/)]
+[[Paper](https://arxiv.org/abs/1705.08421)][[Homepage](http://research.google.com/ava/)]</br>
+*80 atomic visual actions in 430 15-minute video clips, 1.58M action labels with multiple labels per person occurring frequently*
+
+* **AVA-Kinetics**: The AVA-Kinetics Localized Human Actions Video Dataset </br> 
+[[Paper](https://arxiv.org/pdf/2005.00214.pdf)][[Homepage](http://research.google.com/ava/)]</br>
+*230k clips, 80 AVA action classes*
+
 * **EEV**: A Large-Scale Dataset for Studying Evoked Expressions from Video </br> 
-[[Paper](https://arxiv.org/abs/2001.05488)][[Homepage](https://github.com/google-research-datasets/eev)]
+[[Paper](https://arxiv.org/abs/2001.05488)][[Homepage](https://github.com/google-research-datasets/eev)]</br>
+*Each video is annotated at 6 Hz with 15 continuous evoked expression labels, 36.7 million annotations of viewer facial reactions to 23,574 videos (1,700 hours)*
+
 * **MUSES**: Multi-shot Temporal Event Localization: a Benchmark (CVPR 2021) </br> 
-[[Paper](https://arxiv.org/pdf/2012.09434.pdf)][[Homepage](https://songbai.site/muses/)]
+[[Paper](https://arxiv.org/pdf/2012.09434.pdf)][[Homepage](https://songbai.site/muses/)]</br>
+*31,477 event instances, 716 video hours, 19 shots per instance, 176 shots per video, 25 categories, 3,697 videos*
 
 ## Audiovisual Learning
 * **AVE**: Audio-Visual Event Localization in Unconstrained Videos (ECCV 2018) </br> 
-[[Paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Yapeng_Tian_Audio-Visual_Event_Localization_ECCV_2018_paper.pdf)][[Homepage](https://sites.google.com/view/audiovisualresearch)]
+[[Paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Yapeng_Tian_Audio-Visual_Event_Localization_ECCV_2018_paper.pdf)][[Homepage](https://sites.google.com/view/audiovisualresearch)]</br>
+*4143 10-second videos, 28 audio-visual events*
 
 * **LLP**: Unified Multisensory Perception: Weakly-Supervised Audio-Visual Video Parsing (ECCV 2020) </br> 
-[[Paper](https://arxiv.org/pdf/2007.10558.pdf)][[Homepage](https://github.com/YapengTian/AVVP-ECCV20)]
+[[Paper](https://arxiv.org/pdf/2007.10558.pdf)][[Homepage](https://github.com/YapengTian/AVVP-ECCV20)]</br>
+*11, 849 YouTube video clips, 25 event categories*
 
 * **VGG-Sound**: A large scale audio-visual dataset </br> 
-[[Paper](https://arxiv.org/abs/2004.14368)][[Homepage](https://www.robots.ox.ac.uk/~vgg/data/vggsound/)]
+[[Paper](https://arxiv.org/abs/2004.14368)][[Homepage](https://www.robots.ox.ac.uk/~vgg/data/vggsound/)]</br>
+*200k videos, 309 audio classes*
 
 * **VGG-SS**: Localizing Visual Sounds the Hard Way (CVPR 2021)</br> 
-[[Paper](https://arxiv.org/pdf/2104.02691.pdf)][[Homepage](https://www.robots.ox.ac.uk/~vgg/research/lvs/)]
+[[Paper](https://arxiv.org/pdf/2104.02691.pdf)][[Homepage](https://www.robots.ox.ac.uk/~vgg/research/lvs/)] </br>
+*5K videos, 200 categories*
