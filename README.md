@@ -5,6 +5,9 @@
 * **[UCF101](https://www.crcv.ucf.edu/papers/UCF101_CRCV-TR-12-01.pdf)**: A Dataset of 101 Human Actions Classes From Videos in The Wild [Homepage](https://www.crcv.ucf.edu/data/UCF101.php)
 * **[ActivityNet](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Heilbron_ActivityNet_A_Large-Scale_2015_CVPR_paper.pdf)**: A Large-Scale Video Benchmark for Human Activity Understanding (CVPR 2015)[Homepage](http://activity-net.org/index.html)
 * **Kinetics**: [Kinetics-400](https://arxiv.org/abs/1705.06950) [Kinetics-600](https://arxiv.org/abs/1808.01340) [Kinetics-700](https://arxiv.org/abs/1907.06987) [Homepage](https://deepmind.com/research/open-source/kinetics)
+* **[Charades](http://ai2-website.s3.amazonaws.com/publications/hollywood-homes.pdf)**: Hollywood in Homes: Crowdsourcing Data
+Collection for Activity Understanding (ECCV 2016) [Homepage](https://prior.allenai.org/projects/charades)
+* **[Charades-Ego](https://arxiv.org/pdf/1804.09627.pdf)**: Actor and Observer: Joint Modeling of First and Third-Person Videos (CVPR 2018) [Homepage](https://prior.allenai.org/projects/charades-ego)
 * **[AVA](https://arxiv.org/abs/1705.08421)**: A Video Dataset of Spatio-temporally Localized Atomic Visual Actions [Homepage](http://research.google.com/ava/)
 * **[EPIC-KITCHENS](https://openaccess.thecvf.com/content_ECCV_2018/papers/Dima_Damen_Scaling_Egocentric_Vision_ECCV_2018_paper.pdf)**: Scaling Egocentric Vision: The EPIC-KITCHENS Dataset [Homepage](https://epic-kitchens.github.io/2021)
 * **HOMAGE**: Home Action Genome: Cooperative Compositional Action Understanding (CVPR 2021) [Homepage](https://homeactiongenome.org/)</br> 
@@ -16,7 +19,7 @@
 * **[TITAN](https://openaccess.thecvf.com/content_CVPR_2020/papers/Malla_TITAN_Future_Forecast_Using_Action_Priors_CVPR_2020_paper.pdf)**: Future Forecast using Action Priors (CVPR 2020) [Homepage](https://usa.honda-ri.com/titan)
 * **[PKU-MMD](https://arxiv.org/abs/1703.07475)**: A Large Scale Benchmark for Continuous Multi-Modal Human Action Understanding (ACM Multimedia Workshop) [Homepage](https://github.com/ECHO960/PKU-MMD#pku-mmd-a-large-scale-benchmark-for-continuous-multi-modal-human-action-understanding)
 
-* **[Breakfast](https://openaccess.thecvf.com/content_cvpr_2014/papers/Kuehne_The_Language_of_2014_CVPR_paper.pdf)** The Language of Actions: Recovering the Syntax and Semantics of Goal-Directed Human Activities [Homepage](https://serre-lab.clps.brown.edu/resource/breakfast-actions-dataset/)
+* **[Breakfast](https://openaccess.thecvf.com/content_cvpr_2014/papers/Kuehne_The_Language_of_2014_CVPR_paper.pdf)**: The Language of Actions: Recovering the Syntax and Semantics of Goal-Directed Human Activities [Homepage](https://serre-lab.clps.brown.edu/resource/breakfast-actions-dataset/)
 
 ## Action/Event Localization
 * [EEV](https://github.com/google-research-datasets/eev) (EEV: A Large-Scale Dataset for Studying Evoked Expressions from Video, 2020)
