@@ -11,7 +11,7 @@
 * **ActivityNet**: A Large-Scale Video Benchmark for Human Activity Understanding (CVPR 2015)</br> 
 [[Paper](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Heilbron_ActivityNet_A_Large-Scale_2015_CVPR_paper.pdf)][[Homepage](http://activity-net.org/index.html)]
 
-* **Kinetics** </br>  
+* **Kinetics** </br>
 [[Kinetics-400](https://arxiv.org/abs/1705.06950)] [[Kinetics-600](https://arxiv.org/abs/1808.01340)] [[Kinetics-700](https://arxiv.org/abs/1907.06987)] [[Homepage](https://deepmind.com/research/open-source/kinetics)]
 
 * **Charades**: Hollywood in Homes: Crowdsourcing Data
