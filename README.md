@@ -66,7 +66,7 @@ Collection for Activity Understanding (ECCV 2016)</br>
 
 * **PKU-MMD**: A Large Scale Benchmark for Continuous Multi-Modal Human Action Understanding (ACM Multimedia Workshop) </br> 
 [[Paper](https://arxiv.org/abs/1703.07475)][[Homepage](https://github.com/ECHO960/PKU-MMD#pku-mmd-a-large-scale-benchmark-for-continuous-multi-modal-human-action-understanding)]</br>
-*1076 long video sequences, 51 action categories, performed by 66 subjects in three camera views, 20,000 action instances, 5.4 million frames, RGB+depth+Infrared Radiation+Skeleton*
+*1,076 long video sequences, 51 action categories, performed by 66 subjects in three camera views, 20,000 action instances, 5.4 million frames, RGB+depth+Infrared Radiation+Skeleton*
 
 * **Breakfast**: The Language of Actions: Recovering the Syntax and Semantics of Goal-Directed Human Activities </br> 
 [[Paper](https://openaccess.thecvf.com/content_cvpr_2014/papers/Kuehne_The_Language_of_2014_CVPR_paper.pdf)][[Homepage](https://serre-lab.clps.brown.edu/resource/breakfast-actions-dataset/)]</br>
@@ -92,11 +92,11 @@ Collection for Activity Understanding (ECCV 2016)</br>
 ## Audiovisual Learning
 * **AVE**: Audio-Visual Event Localization in Unconstrained Videos (ECCV 2018) </br> 
 [[Paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Yapeng_Tian_Audio-Visual_Event_Localization_ECCV_2018_paper.pdf)][[Homepage](https://sites.google.com/view/audiovisualresearch)]</br>
-*4143 10-second videos, 28 audio-visual events*
+*4,143 10-second videos, 28 audio-visual events*
 
 * **LLP**: Unified Multisensory Perception: Weakly-Supervised Audio-Visual Video Parsing (ECCV 2020) </br> 
 [[Paper](https://arxiv.org/pdf/2007.10558.pdf)][[Homepage](https://github.com/YapengTian/AVVP-ECCV20)]</br>
-*11, 849 YouTube video clips, 25 event categories*
+*11,849 YouTube video clips, 25 event categories*
 
 * **VGG-Sound**: A large scale audio-visual dataset </br> 
 [[Paper](https://arxiv.org/abs/2004.14368)][[Homepage](https://www.robots.ox.ac.uk/~vgg/data/vggsound/)]</br>
