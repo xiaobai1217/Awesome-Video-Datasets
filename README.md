@@ -8,7 +8,6 @@
 * **[Charades](http://ai2-website.s3.amazonaws.com/publications/hollywood-homes.pdf)**: Hollywood in Homes: Crowdsourcing Data
 Collection for Activity Understanding (ECCV 2016) [Homepage](https://prior.allenai.org/projects/charades)
 * **[Charades-Ego](https://arxiv.org/pdf/1804.09627.pdf)**: Actor and Observer: Joint Modeling of First and Third-Person Videos (CVPR 2018) [Homepage](https://prior.allenai.org/projects/charades-ego)
-* **[AVA](https://arxiv.org/abs/1705.08421)**: A Video Dataset of Spatio-temporally Localized Atomic Visual Actions [Homepage](http://research.google.com/ava/)
 * **[EPIC-KITCHENS](https://openaccess.thecvf.com/content_ECCV_2018/papers/Dima_Damen_Scaling_Egocentric_Vision_ECCV_2018_paper.pdf)**: Scaling Egocentric Vision: The EPIC-KITCHENS Dataset [Homepage](https://epic-kitchens.github.io/2021)
 * **HOMAGE**: Home Action Genome: Cooperative Compositional Action Understanding (CVPR 2021) [Homepage](https://homeactiongenome.org/)</br> 
 27 participants, 12 sensor types, 75 activities, 453 atomic actions, 1,752 synchronized sequences, 86 object classes, 29 relationship classes, 497,534 bounding boxes, 583,481 relationships. 
@@ -22,5 +21,7 @@ Collection for Activity Understanding (ECCV 2016) [Homepage](https://prior.allen
 * **[Breakfast](https://openaccess.thecvf.com/content_cvpr_2014/papers/Kuehne_The_Language_of_2014_CVPR_paper.pdf)**: The Language of Actions: Recovering the Syntax and Semantics of Goal-Directed Human Activities [Homepage](https://serre-lab.clps.brown.edu/resource/breakfast-actions-dataset/)
 
 ## Action/Event Localization
-* [EEV](https://github.com/google-research-datasets/eev) (EEV: A Large-Scale Dataset for Studying Evoked Expressions from Video, 2020)
-* Multi-shot Temporal Event Localization: a Benchmark (CVPR 2021)
+* **[AVA](https://arxiv.org/abs/1705.08421)**: A Video Dataset of Spatio-temporally Localized Atomic Visual Actions [Homepage](http://research.google.com/ava/)
+* **[EEV](https://arxiv.org/abs/2001.05488)**: A Large-Scale Dataset for Studying Evoked Expressions from Video [Homepage](https://github.com/google-research-datasets/eev)
+* **[MUSES](https://arxiv.org/pdf/2012.09434.pdf)**: Multi-shot Temporal Event Localization: a Benchmark (CVPR 2021) [Homepage](https://songbai.site/muses/)
+
