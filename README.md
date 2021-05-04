@@ -157,7 +157,7 @@
 *380,000 video segments about 19s long, 5.6 M bounding boxes, 23 types of objects*
 
 ## Group Activity Recognition
-* **Volleyball**: A Hierarchical Deep Temporal Model for Group Activity Recognition
+* **Volleyball**: A Hierarchical Deep Temporal Model for Group Activity Recognition </br>
 [[Paper](https://arxiv.org/pdf/1511.06040.pdf)][[Homepage](https://github.com/mostafa-saad/deep-activity-rec)] </br>
 *4,830 clips, 8 group activity classes, nine individual actions*
 
