@@ -177,6 +177,36 @@ K tags of cinematic style*
 [[Paper](https://arxiv.org/abs/2001.05488)][[Homepage](https://github.com/google-research-datasets/eev)]</br>
 *Each video is annotated at 6 Hz with 15 continuous evoked expression labels, 36.7 million annotations of viewer facial reactions to 23,574 videos (1,700 hours)*
 
+* **FineGym**: A Hierarchical Video Dataset for Fine-grained Action Understanding (CVPR 2020) </br>
+[[Paper](https://arxiv.org/pdf/2004.06704.pdf)][[Homepage](https://sdolivia.github.io/FineGym/)]
+*10 event categories, including 6 male events and 4 female events, 530 element categories*
+
+## Group Activity Recognition
+* **Volleyball**: A Hierarchical Deep Temporal Model for Group Activity Recognition
+[[Paper](https://arxiv.org/pdf/1511.06040.pdf)][[Homepage](https://github.com/mostafa-saad/deep-activity-rec)] </br>
+*4,830 clips, 8 group activity classes, nine individual actions*
+
+* **Collective**: What are they doing? : Collective activity classification using spatio-temporal relationship among people
+[[Paper](http://vhosts.eecs.umich.edu/vision//paper/Wongun_CollectiveActivityRecognition09.pdf)][[Homepage](http://vhosts.eecs.umich.edu/vision//activity-dataset.html)] </br>
+*5 different collective activities, 44 clips* 
+
+## 360 Videos
+* **Pano2Vid**: Automatic Cinematography for Watching 360° Videos (ACCV 2016) </br>
+[[Paper](http://vision.cs.utexas.edu/projects/Pano2Vid/accv2016-0327su.pdf)][[Homepage](http://vision.cs.utexas.edu/projects/Pano2Vid/)] </br>
+*20 out of 86 360° videos have labels for testing; 9,171 normal videos captured by humans for inference in training; topics: Soccer, Mountain Climbing, Parade, and Hiking)*
+
+* **Deep 360 Pilot**: Learning a Deep Agent for Piloting through 360◦ Sports Videos (CVPR 2017) </br>
+[[Paper](https://arxiv.org/pdf/1705.01759.pdf)][[Homepage](https://aliensunmin.github.io/project/360video/)] </br>
+*342 360° videos, topics: basketball, parkour, BMX, skateboarding, and dance*
+
+* **YT-ALL**: Self-Supervised Generation of Spatial Audio for 360◦ Video (NeurIPS 2018)
+[[Paper](https://arxiv.org/pdf/1809.02587.pdf)][[Homepage](https://pedro-morgado.github.io/spatialaudiogen/)] </br>
+*1,146 videos, half of the videos are live music performances*
+
+* **YT360**:  Learning Representations from Audio-Visual Spatial Alignment (NeurIPS 2020) </br>
+[[Paper](https://papers.nips.cc/paper/2020/file/328e5d4c166bb340b314d457a208dc83-Paper.pdf)][[Homepage](https://github.com/pedro-morgado/AVSpatialAlignment)] </br>
+*topics: musical performances, vlogs, sports, and others*
+
 ## Action/Event Localization
 * **AVA**: A Video Dataset of Spatio-temporally Localized Atomic Visual Actions </br> 
 [[Paper](https://arxiv.org/abs/1705.08421)][[Homepage](http://research.google.com/ava/)]</br>
@@ -205,6 +235,26 @@ K tags of cinematic style*
 nouns, 53 verbs and 23 adjectives*
 
 ## Audiovisual Learning
+* **Audio Set**: An ontology and human-labeled dataset for audio events (ICASSP 2017) </br>
+[[Paper](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/45857.pdf)][[Homepage](https://research.google.com/audioset/)] </br>
+*632 audio event classes, 2,084,320 human-labeled 10-second sound clips*
+
+* **MUSIC**: The Sound of Pixels (ECCV 2018) </br>
+[[Paper](https://arxiv.org/pdf/1804.03160.pdf)][[Homepage](http://sound-of-pixels.csail.mit.edu/)] <br>
+*685 untrimmed videos, 11 instrument categories*
+
+* **AudioSet ZSL**: Coordinated Joint Multimodal Embeddings for Generalized Audio-Visual Zero-shot Classification and Retrieval of Videos (WACV 2020) </br>
+[[Paper](https://openaccess.thecvf.com/content_WACV_2020/papers/Parida_Coordinated_Joint_Multimodal_Embeddings_for_Generalized_Audio-Visual_Zero-shot_Classification_and_WACV_2020_paper.pdf)][[Homepage](https://github.com/krantiparida/AudioSetZSL)] </br>
+*33 classes, 156,416 videos*
+
+* **Kinetics-Sound**: Look, Listen and Learn (ICCV 2017) </br>
+[[Paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/Arandjelovic_Look_Listen_and_ICCV_2017_paper.pdf)] </br>
+*34 action classes from Kinetics*
+
+* **SoundNet**: Learning Sound Representations from Unlabeled Video (NIPS 2016) </br>
+[[Paper](https://arxiv.org/pdf/1610.09001.pdf)][[Homepage](http://soundnet.csail.mit.edu/)]</br>
+*2+ million videos*
+
 * **AVE**: Audio-Visual Event Localization in Unconstrained Videos (ECCV 2018) </br> 
 [[Paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Yapeng_Tian_Audio-Visual_Event_Localization_ECCV_2018_paper.pdf)][[Homepage](https://sites.google.com/view/audiovisualresearch)]</br>
 *4,143 10-second videos, 28 audio-visual events*
@@ -217,14 +267,41 @@ nouns, 53 verbs and 23 adjectives*
 [[Paper](https://arxiv.org/abs/2004.14368)][[Homepage](https://www.robots.ox.ac.uk/~vgg/data/vggsound/)]</br>
 *200k videos, 309 audio classes*
 
+* **YouTube-ASMR-300K**: Telling Left from Right: Learning Spatial Correspondence of Sight and Sound (CVPR 2020) </br>
+[[Paper](https://arxiv.org/pdf/2006.06175.pdf)][[Homepage](https://karreny.github.io/telling-left-from-right/)] </br>
+*300K 10-second video clips with spatial audio*
 
-* **Countix-AV & Extreme Countix-AV**: Repetitive Activity Counting by Sight and Sound (CVPR 2021) </br>
-[[Paper](https://arxiv.org/pdf/2103.13096.pdf)][[Homepage](https://github.com/xiaobai1217/RepetitionCounting)] </br>
-*1,863 videos in Countix-AV, 214 videos in Extreme Countix-AV*
+* **XD-Violence**: Not only Look, but also Listen: Learning Multimodal Violence Detection under Weak Supervision (ECCV 2020) </br>
+[[Paper](https://roc-ng.github.io/XD-Violence/images/paper.pdf)][[Homepage](https://roc-ng.github.io/XD-Violence/)] </br>
+* 4754 untrimmed videos*
 
 * **VGG-SS**: Localizing Visual Sounds the Hard Way (CVPR 2021)</br> 
 [[Paper](https://arxiv.org/pdf/2104.02691.pdf)][[Homepage](https://www.robots.ox.ac.uk/~vgg/research/lvs/)] </br>
 *5K videos, 200 categories*
+
+* **VoxCeleb**: Large-scale speaker verification in the wild </br>
+[[Paper](https://www.robots.ox.ac.uk/~vgg/publications/2019/Nagrani19/nagrani19.pdf)][[Homepage](https://www.robots.ox.ac.uk/~vgg/data/voxceleb/)] </br>
+*a million ‘real-world’ utterances, over 7000 speakers*
+
+* **EmoVoxCeleb**: Emotion Recognition in Speech using Cross-Modal Transfer in the Wild </br>
+[[Paper](https://www.robots.ox.ac.uk/~vgg/publications/2018/Albanie18/albanie18.pdf)][[Homepage](https://www.robots.ox.ac.uk/~vgg/research/cross-modal-emotions/)]</br>
+*1,251 speakers*
+
+* **Speech2Gesture**: Learning Individual Styles of Conversational Gesture (CVPR 2019) </br>
+[[Paper](https://arxiv.org/pdf/1906.04160.pdf)][[Homepage](http://people.eecs.berkeley.edu/~shiry/projects/speech2gesture/)] </br>
+*144-hour person-specific video, 10 speakers*
+
+* **AVSpeech**: Looking to Listen at the Cocktail Party: A Speaker-Independent Audio-Visual Model for Speech Separation </br>
+[[Paper](https://arxiv.org/pdf/1804.03619.pdf)][[Homepage](https://looking-to-listen.github.io/avspeech/)]</br>
+*150,000 distinct speakers, 290k YouTube videos*
+
+* **LRW**: Lip Reading in the Wild (ACCV 2016) </br>
+[[Paper](https://www.robots.ox.ac.uk/~vgg/publications/2016/Chung16/chung16.pdf)][[Homepage](https://www.robots.ox.ac.uk/~vgg/data/lip_reading/lrw1.html)] </br>
+*1000 utterances of 500 different words*
+
+* **Countix-AV & Extreme Countix-AV**: Repetitive Activity Counting by Sight and Sound (CVPR 2021) </br>
+[[Paper](https://arxiv.org/pdf/2103.13096.pdf)][[Homepage](https://github.com/xiaobai1217/RepetitionCounting)] </br>
+*1,863 videos in Countix-AV, 214 videos in Extreme Countix-AV*
 
 ## Others
 * **QUVA Repetition**: Real-World Repetition Estimation by Div, Grad and Curl (CVPR 2018) </br>
