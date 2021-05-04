@@ -228,7 +228,7 @@ nouns, 53 verbs and 23 adjectives*
 
 ## Others
 * **QUVA Repetition**: Real-World Repetition Estimation by Div, Grad and Curl (CVPR 2018) </br>
-[[Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Runia_Real-World_Repetition_Estimation_CVPR_2018_paper.pdf)][[Homepage](http://tomrunia.github.io/projects/repetition/)]
+[[Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Runia_Real-World_Repetition_Estimation_CVPR_2018_paper.pdf)][[Homepage](http://tomrunia.github.io/projects/repetition/)] </br>
 *100 videos*
 
 * **Real-world Flag & FlagSim**: Cloth in the Wind: A Case Study of Physical Measurement through Simulation (CVPR 2020) </br>
