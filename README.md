@@ -181,6 +181,16 @@ K tags of cinematic style*
 [[Paper](https://arxiv.org/pdf/2004.06704.pdf)][[Homepage](https://sdolivia.github.io/FineGym/)]
 *10 event categories, including 6 male events and 4 female events, 530 element categories*
 
+* **THUMOS**: The THUMOS challenge on action recognition for videos “in the wild” </br>
+[[Paper](https://www.crcv.ucf.edu/papers/thumosCVIU.pdf)][[Homepage](http://crcv.ucf.edu/THUMOS14/)] </br>
+*101 actions, train: 13,000 temporally trimmed videos, validation: 2100 temporally untrimmed videos with temporal annotations of actions, background: 3000 relevant videos, test: 5600 temporally untrimmed videos with withheld ground truth*
+
+* **MultiTHUMOS**: Every Moment Counts: Dense Detailed Labeling of Actions in Complex Videos (IJCV 2017) </br>
+[[Paper](https://arxiv.org/pdf/1507.05738.pdf)][[Homepage](http://ai.stanford.edu/~syyeung/everymoment.html)] </br>
+*400 videos, 38,690 annotations of 65 action classes, 10.5 action classes per video*
+
+
+
 ## Group Activity Recognition
 * **Volleyball**: A Hierarchical Deep Temporal Model for Group Activity Recognition
 [[Paper](https://arxiv.org/pdf/1511.06040.pdf)][[Homepage](https://github.com/mostafa-saad/deep-activity-rec)] </br>
@@ -199,7 +209,7 @@ K tags of cinematic style*
 [[Paper](https://arxiv.org/pdf/1705.01759.pdf)][[Homepage](https://aliensunmin.github.io/project/360video/)] </br>
 *342 360° videos, topics: basketball, parkour, BMX, skateboarding, and dance*
 
-* **YT-ALL**: Self-Supervised Generation of Spatial Audio for 360◦ Video (NeurIPS 2018)
+* **YT-ALL**: Self-Supervised Generation of Spatial Audio for 360◦ Video (NeurIPS 2018) </br>
 [[Paper](https://arxiv.org/pdf/1809.02587.pdf)][[Homepage](https://pedro-morgado.github.io/spatialaudiogen/)] </br>
 *1,146 videos, half of the videos are live music performances*
 
@@ -219,6 +229,15 @@ K tags of cinematic style*
 * **MUSES**: Multi-shot Temporal Event Localization: a Benchmark (CVPR 2021) </br> 
 [[Paper](https://arxiv.org/pdf/2012.09434.pdf)][[Homepage](https://songbai.site/muses/)]</br>
 *31,477 event instances, 716 video hours, 19 shots per instance, 176 shots per video, 25 categories, 3,697 videos*
+
+## Video Captioning
+* **MSR-VTT**: A Large Video Description Dataset for Bridging Video and Language (CVPR 2016) </br>
+[[Paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/06/cvpr16.msr-vtt.tmei_-1.pdf)][[Homepage](https://www.microsoft.com/en-us/research/publication/msr-vtt-a-large-video-description-dataset-for-bridging-video-and-language/)] </br>
+*10K web video clips, 200K clip-sentence pairs*
+
+* **VaTeX**: A Large-Scale, High-Quality Multilingual Dataset for Video-and-Language Research (ICCV 2019) </br>
+[[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_VaTeX_A_Large-Scale_High-Quality_Multilingual_Dataset_for_Video-and-Language_Research_ICCV_2019_paper.pdf)][[Homepage](https://eric-xw.github.io/vatex-website/download.html)] </br>
+*41,250 videos, 825,000 captions in both English and Chinese, over 206,000 English-Chinese parallel translation pairs*
 
 ## Actor/Action Segmentation
 * **A2D**: Can Humans Fly? Action Understanding with Multiple Classes of Actors (CVPR 2015) </br>
