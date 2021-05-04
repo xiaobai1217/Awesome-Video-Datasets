@@ -95,9 +95,8 @@
 [[Paper](https://arxiv.org/pdf/2008.01018.pdf)][[Homepage]()]</br>
 *122 different actions, 7,607 clips, 905 videos, 19 verbs, 38 nouns*
 
-
 * **FineGym**: A Hierarchical Video Dataset for Fine-grained Action Understanding (CVPR 2020) </br>
-[[Paper](https://arxiv.org/pdf/2004.06704.pdf)][[Homepage](https://sdolivia.github.io/FineGym/)]
+[[Paper](https://arxiv.org/pdf/2004.06704.pdf)][[Homepage](https://sdolivia.github.io/FineGym/)] </br>
 *10 event categories, including 6 male events and 4 female events, 530 element categories*
 
 * **THUMOS**: The THUMOS challenge on action recognition for videos “in the wild” </br>
