@@ -26,13 +26,6 @@
 [[Paper](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Heilbron_ActivityNet_A_Large-Scale_2015_CVPR_paper.pdf)][[Homepage](http://activity-net.org/index.html)]</br>
 *203 classes, 137 untrimmed videos per class, 1.41 activity instances per video*
 
-* **MovieQA**: Story Understanding Benchmark (CVPR 2016) </br>
-[[Paper](http://movieqa.cs.toronto.edu/static/files/CVPR2016_MovieQA.pdf)][[Homepage](http://movieqa.cs.toronto.edu/home/#)]</br>
-*14,944 questions, 408 movies*
-
-* **DALY**: Human Action Localization with Sparse Spatial Supervision </br>
-[[Paper](https://arxiv.org/pdf/1605.05197.pdf)][[Homepage](http://thoth.inrialpes.fr/daly/index.php)] </br>
-*10 actions, 3.3M frames, 8,133 clips*
 
 * **MPII-Cooking**: Recognizing Fine-Grained and Composite Activities Using Hand-Centric Features and Script Data (IJCV 2015) </br>
 [[Paper](https://link.springer.com/content/pdf/10.1007/s11263-015-0851-8.pdf)][[Homepage](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/research/human-activity-recognition/mpii-cooking-2-dataset/)] </br>
@@ -50,10 +43,6 @@
 [[Paper](http://ai2-website.s3.amazonaws.com/publications/hollywood-homes.pdf)][[Homepage](https://prior.allenai.org/projects/charades)]</br>
 *9,848 annotated videos, 267 people, 27,847 video descriptions, 66,500 temporally localized intervals for 157 action classes and
 41,104 labels for 46 object classes*
-
-* **ActivityNet Captions**: Dense-Captioning Events in Videos (ICCV 2017) </br>
-[[Paper](https://arxiv.org/pdf/1705.00754.pdf)][[Homepage](https://cs.stanford.edu/people/ranjaykrishna/densevid/)] </br>
-*20k videos, 100k sentences*
 
 * **YouTube-BoundingBoxes**: A Large High-Precision Human-Annotated Data Set for Object Detection in Video </br>
 [[Paper](https://arxiv.org/pdf/1702.00824.pdf)][[Homepage](https://research.google.com/youtube-bb/index.html)] </br>
@@ -78,10 +67,6 @@
 * **20BN-SOMETHING-SOMETHING**: The "something something" video database for learning and evaluating visual common sense </br> 
 [[Paper](https://arxiv.org/abs/1706.04261)][[Homepage](https://20bn.com/datasets/something-something)]</br>
 *100,000 videos across 174 classes*
-
-* **DAVIS**: A Benchmark Dataset and Evaluation Methodology for Video Object Segmentation (CVPR 2016) </br>
-[[Paper](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Perazzi_A_Benchmark_Dataset_CVPR_2016_paper.pdf)][[Homepage](https://davischallenge.org/)]</br>
-*50 sequences, 3455 annotated frames*
 
 * **YouTube Pose**: Personalizing Human Video Pose Estimation (CVPR 2016) </br>
 [[Paper](https://arxiv.org/pdf/1511.06676.pdf)][[Homepage](https://www.robots.ox.ac.uk/~vgg/data/pose/index.html)] </br>
@@ -148,10 +133,6 @@ car and Repotting a plant*
 [[Paper](https://arxiv.org/pdf/1903.02874.pdf)][[Homepage](https://coin-dataset.github.io/)] </br>
 *11,827 videos, 180 tasks, 12 domains, 46,354 annotated segments*
 
-* **MovieGraphs**: Towards Understanding Human-Centric Situations from Videos (CVPR 2018) </br>
-[[Paper](https://arxiv.org/pdf/1712.06761.pdf)][[Homepage](http://moviegraphs.cs.toronto.edu/)] </br>
-*7,637 movie clips, 51 movies, annotations: scene, situation, description, graph (Character, Attributes, Relationship, Interaction, Topic, Reason, Time stamp)*
-
 * **HowTo100M**: Learning a Text-Video Embedding by Watching Hundred Million Narrated Video Clips (ICCV 2019) </br>
 [[Paper](https://arxiv.org/pdf/1906.03327.pdf)][[Homepage](https://www.di.ens.fr/willow/research/howto100m/)] </br>
 *136 million video clips sourced from 1.22M narrated instructional web videos, 23k different visual tasks*
@@ -159,11 +140,6 @@ car and Repotting a plant*
 * **Oops!**: Predicting Unintentional Action in Video (CVPR 2020) </br>
 [[Paper](https://arxiv.org/pdf/1911.11206.pdf)][[Homepage](https://oops.cs.columbia.edu/)] </br>
 *20,338 videos, 7,368 annotated for training, 6,739 annotated for testing*
-
-* **MovieNet**: A Holistic Dataset for Movie Understanding (ECCV 2020) </br>
-[[Paper](https://arxiv.org/pdf/2007.10937.pdf)][[Homepage](http://movienet.site/)] </br>
-*1,100 movies, 1.1M characters with bounding boxes and identities, 42K scene boundaries, 2.5K aligned description sentences, 65K tags of place and action, and 92
-K tags of cinematic style*
 
 * **HVU**: Large Scale Holistic Video Understanding (ECCV 2020) </br>
 [[Paper](https://arxiv.org/pdf/1904.11451.pdf)][[Homepage](https://holistic-video-understanding.github.io/)] </br>
@@ -173,9 +149,6 @@ K tags of cinematic style*
 [[Paper](https://arxiv.org/pdf/2008.01018.pdf)][[Homepage]()]</br>
 *122 different actions, 7,607 clips, 905 videos, 19 verbs, 38 nouns*
 
-* **Countix**: Counting Out Time: Class Agnostic Video Repetition Counting in the Wild (CVPR 2020) </br>
-[[Paper](https://arxiv.org/pdf/2006.15418v1.pdf)][[Homepage](https://sites.google.com/view/repnet)] </br>
-*8,757 videos*
 
 * **EEV**: A Large-Scale Dataset for Studying Evoked Expressions from Video </br> 
 [[Paper](https://arxiv.org/abs/2001.05488)][[Homepage](https://github.com/google-research-datasets/eev)]</br>
@@ -193,7 +166,14 @@ K tags of cinematic style*
 [[Paper](https://arxiv.org/pdf/1507.05738.pdf)][[Homepage](http://ai.stanford.edu/~syyeung/everymoment.html)] </br>
 *400 videos, 38,690 annotations of 65 action classes, 10.5 action classes per video*
 
+## Video Object Segmentation
+* **DAVIS**: A Benchmark Dataset and Evaluation Methodology for Video Object Segmentation (CVPR 2016) </br>
+[[Paper](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Perazzi_A_Benchmark_Dataset_CVPR_2016_paper.pdf)][[Homepage](https://davischallenge.org/)]</br>
+*50 sequences, 3455 annotated frames*
 
+* **UVO**: Unidentified Video Objects: A Benchmark for Dense, Open-World Segmentation </br>
+[[Paper](https://arxiv.org/pdf/2104.04691.pdf)][[Homepage]()] </br>
+*1200 videos, 108k frames, 12.29 objects per video*
 
 ## Group Activity Recognition
 * **Volleyball**: A Hierarchical Deep Temporal Model for Group Activity Recognition
@@ -203,6 +183,20 @@ K tags of cinematic style*
 * **Collective**: What are they doing? : Collective activity classification using spatio-temporal relationship among people
 [[Paper](http://vhosts.eecs.umich.edu/vision//paper/Wongun_CollectiveActivityRecognition09.pdf)][[Homepage](http://vhosts.eecs.umich.edu/vision//activity-dataset.html)] </br>
 *5 different collective activities, 44 clips* 
+
+## Movie
+* **MovieNet**: A Holistic Dataset for Movie Understanding (ECCV 2020) </br>
+[[Paper](https://arxiv.org/pdf/2007.10937.pdf)][[Homepage](http://movienet.site/)] </br>
+*1,100 movies, 1.1M characters with bounding boxes and identities, 42K scene boundaries, 2.5K aligned description sentences, 65K tags of place and action, and 92
+K tags of cinematic style*
+
+* **MovieQA**: Story Understanding Benchmark (CVPR 2016) </br>
+[[Paper](http://movieqa.cs.toronto.edu/static/files/CVPR2016_MovieQA.pdf)][[Homepage](http://movieqa.cs.toronto.edu/home/#)]</br>
+*14,944 questions, 408 movies*
+
+* **MovieGraphs**: Towards Understanding Human-Centric Situations from Videos (CVPR 2018) </br>
+[[Paper](https://arxiv.org/pdf/1712.06761.pdf)][[Homepage](http://moviegraphs.cs.toronto.edu/)] </br>
+*7,637 movie clips, 51 movies, annotations: scene, situation, description, graph (Character, Attributes, Relationship, Interaction, Topic, Reason, Time stamp)*
 
 ## 360 Videos
 * **Pano2Vid**: Automatic Cinematography for Watching 360° Videos (ACCV 2016) </br>
@@ -222,6 +216,10 @@ K tags of cinematic style*
 *topics: musical performances, vlogs, sports, and others*
 
 ## Action/Event Localization
+* **DALY**: Human Action Localization with Sparse Spatial Supervision </br>
+[[Paper](https://arxiv.org/pdf/1605.05197.pdf)][[Homepage](http://thoth.inrialpes.fr/daly/index.php)] </br>
+*10 actions, 3.3M frames, 8,133 clips*
+
 * **AVA**: A Video Dataset of Spatio-temporally Localized Atomic Visual Actions </br> 
 [[Paper](https://arxiv.org/abs/1705.08421)][[Homepage](http://research.google.com/ava/)]</br>
 *80 atomic visual actions in 430 15-minute video clips, 1.58M action labels with multiple labels per person occurring frequently*
@@ -243,6 +241,10 @@ K tags of cinematic style*
 [[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_VaTeX_A_Large-Scale_High-Quality_Multilingual_Dataset_for_Video-and-Language_Research_ICCV_2019_paper.pdf)][[Homepage](https://eric-xw.github.io/vatex-website/download.html)] </br>
 *41,250 videos, 825,000 captions in both English and Chinese, over 206,000 English-Chinese parallel translation pairs*
 
+* **ActivityNet Captions**: Dense-Captioning Events in Videos (ICCV 2017) </br>
+[[Paper](https://arxiv.org/pdf/1705.00754.pdf)][[Homepage](https://cs.stanford.edu/people/ranjaykrishna/densevid/)] </br>
+*20k videos, 100k sentences*
+
 * **ActivityNet Entities**: Grounded Video Description </br>
 [[Paper](https://arxiv.org/pdf/1812.06587.pdf)][[Homepage](https://github.com/facebookresearch/ActivityNet-Entities)] </br>
 *14,281 annotated videos, 52k video segments with at least one noun phrase annotated per segment, augment the ActivityNet Captions dataset with 158k bounding box*
@@ -250,6 +252,11 @@ K tags of cinematic style*
 * **VTW**: Title Generation for User Generated Videos (ECCV 2016) </br>
 [[Paper](https://arxiv.org/pdf/1608.07068.pdf)][[Homepage](http://aliensunmin.github.io/project/video-language/index.html#VideoTitle)] </br>
 *18100 video clips with an average of 1.5 minutes duration per clip*
+
+* **Charades**: Hollywood in Homes: Crowdsourcing Data Collection for Activity Understanding (ECCV 2016)</br> 
+[[Paper](http://ai2-website.s3.amazonaws.com/publications/hollywood-homes.pdf)][[Homepage](https://prior.allenai.org/projects/charades)]</br>
+*9,848 annotated videos, 267 people, 27,847 video descriptions, 66,500 temporally localized intervals for 157 action classes and
+41,104 labels for 46 object classes*
 
 ## Actor/Action Segmentation
 * **A2D**: Can Humans Fly? Action Understanding with Multiple Classes of Actors (CVPR 2015) </br>
@@ -304,7 +311,7 @@ nouns, 53 verbs and 23 adjectives*
 
 * **XD-Violence**: Not only Look, but also Listen: Learning Multimodal Violence Detection under Weak Supervision (ECCV 2020) </br>
 [[Paper](https://roc-ng.github.io/XD-Violence/images/paper.pdf)][[Homepage](https://roc-ng.github.io/XD-Violence/)] </br>
-* 4754 untrimmed videos*
+*4754 untrimmed videos*
 
 * **VGG-SS**: Localizing Visual Sounds the Hard Way (CVPR 2021)</br> 
 [[Paper](https://arxiv.org/pdf/2104.02691.pdf)][[Homepage](https://www.robots.ox.ac.uk/~vgg/research/lvs/)] </br>
@@ -334,11 +341,37 @@ nouns, 53 verbs and 23 adjectives*
 [[Paper](https://arxiv.org/pdf/2103.13096.pdf)][[Homepage](https://github.com/xiaobai1217/RepetitionCounting)] </br>
 *1,863 videos in Countix-AV, 214 videos in Extreme Countix-AV*
 
-## Others
+## Repetition Counting
 * **QUVA Repetition**: Real-World Repetition Estimation by Div, Grad and Curl (CVPR 2018) </br>
 [[Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Runia_Real-World_Repetition_Estimation_CVPR_2018_paper.pdf)][[Homepage](http://tomrunia.github.io/projects/repetition/)] </br>
 *100 videos*
 
+* **YTSegments**: Live Repetition Counting (ICCV 2015) </br>
+[[Paper](https://openaccess.thecvf.com/content_iccv_2015/papers/Levy_Live_Repetition_Counting_ICCV_2015_paper.pdf)][[Homepage](https://github.com/ofirlevy/repcount)]</br>
+*100 videos*
+
+* **UCFRep**: Context-Aware and Scale-Insensitive Temporal Repetition Counting (CVPR 2020) </br>
+[[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_Context-Aware_and_Scale-Insensitive_Temporal_Repetition_Counting_CVPR_2020_paper.pdf)][[Homepage](https://github.com/Xiaodomgdomg/Deep-Temporal-Repetition-Counting)] </br>
+*526 videos*
+
+* **Countix**: Counting Out Time: Class Agnostic Video Repetition Counting in the Wild (CVPR 2020) </br>
+[[Paper](https://arxiv.org/pdf/2006.15418v1.pdf)][[Homepage](https://sites.google.com/view/repnet)] </br>
+*8,757 videos*
+
+* **Countix-AV & Extreme Countix-AV**: Repetitive Activity Counting by Sight and Sound (CVPR 2021) </br>
+[[Paper](https://arxiv.org/pdf/2103.13096.pdf)][[Homepage](https://github.com/xiaobai1217/RepetitionCounting)] </br>
+*1,863 videos in Countix-AV, 214 videos in Extreme Countix-AV*
+
+## Anomaly Detection
+* **XD-Violence**: Not only Look, but also Listen: Learning Multimodal Violence Detection under Weak Supervision (ECCV 2020) </br>
+[[Paper](https://roc-ng.github.io/XD-Violence/images/paper.pdf)][[Homepage](https://roc-ng.github.io/XD-Violence/)] </br>
+*4,754 untrimmed videos*
+
+* **UCF-Crime**: Real-world Anomaly Detection in Surveillance Videos </br>
+[[Paper](https://arxiv.org/pdf/1801.04264.pdf)][[Homepage](https://www.crcv.ucf.edu/projects/real-world/#:~:text=We%20construct%20a%20new%20large,Stealing%2C%20Shoplifting%2C%20and%20Vandalism.)]</br>
+*1,900 videos*
+
+## Physics
 * **Real-world Flag & FlagSim**: Cloth in the Wind: A Case Study of Physical Measurement through Simulation (CVPR 2020) </br>
 [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Runia_Cloth_in_the_Wind_A_Case_Study_of_Physical_Measurement_CVPR_2020_paper.pdf)][[Homepage](http://tomrunia.github.io/projects/cloth/)] </br>
 *Real-world Flag: 2.7K train and 1.3K videos clips, FlagSim: 1,000 mesh sequences, 14, 000 training examples*
