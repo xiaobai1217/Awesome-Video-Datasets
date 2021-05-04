@@ -2,6 +2,10 @@
 
 ## Action Recognition
 
+* **HOLLYWOOD2**: Actions in Context (CVPR 2009) </br>
+[[Paper](http://www.irisa.fr/vista/Papers/2009_cvpr_marszalek.pdf)][[Homepage](https://www.di.ens.fr/~laptev/actions/hollywood2/)]</br>
+*12 classes of human actions, 10 classes of scenes, 3,669 clips, 69 movies*
+
 * **HMDB**: A Large Video Database for Human Motion Recognition (ICCV 2011)</br> 
 [[Paper](https://serre-lab.clps.brown.edu/wp-content/uploads/2012/08/Kuehne_etal_iccv11.pdf)][[Homepage](https://serre-lab.clps.brown.edu/resource/hmdb-a-large-human-motion-database/)]</br>
 *51 classes, 7,000 clips*
@@ -10,13 +14,34 @@
 [[Paper](https://www.crcv.ucf.edu/papers/UCF101_CRCV-TR-12-01.pdf)][[Homepage](https://www.crcv.ucf.edu/data/UCF101.php)]</br> 
 *101 classes, 13k clips*
 
+* **Sports-1M**: Large-scale Video Classification with Convolutional Neural Networks </br>
+[[Paper](https://cs.stanford.edu/people/karpathy/deepvideo/deepvideo_cvpr2014.pdf)][[Homepage](https://cs.stanford.edu/people/karpathy/deepvideo/)]</br>
+*1,000,000 videos, 487 classes*
+
+* **MPII-MD**: A Dataset for Movie Description </br>
+[[Paper](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Rohrbach_A_Dataset_for_2015_CVPR_paper.pdf)][[Homepage](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/research/vision-and-language/mpii-movie-description-dataset/)] </br>
+*94 videos, 68,337 clips, 68,375 descriptions*
+
 * **ActivityNet**: A Large-Scale Video Benchmark for Human Activity Understanding (CVPR 2015)</br> 
 [[Paper](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Heilbron_ActivityNet_A_Large-Scale_2015_CVPR_paper.pdf)][[Homepage](http://activity-net.org/index.html)]</br>
 *203 classes, 137 untrimmed videos per class, 1.41 activity instances per video*
 
+* **DALY**: Human Action Localization with Sparse Spatial Supervision </br>
+[[Paper](https://arxiv.org/pdf/1605.05197.pdf)][[Homepage](http://thoth.inrialpes.fr/daly/index.php)]
+*10 actions, 3.3M frames, 8,133 clips*
+
+* **MPII-Cooking**: Recognizing Fine-Grained and Composite Activities Using Hand-Centric Features and Script Data (IJCV 2015) </br>
+[[Paper](https://link.springer.com/content/pdf/10.1007/s11263-015-0851-8.pdf)][[Homepage](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/research/human-activity-recognition/mpii-cooking-2-dataset/)]
+*67 fine-grained activities, 59 composite activities, 14,105 clips, 273 videos*
+
+
 * **Kinetics** </br>
 [[Kinetics-400](https://arxiv.org/abs/1705.06950)/[Kinetics-600](https://arxiv.org/abs/1808.01340)/[Kinetics-700](https://arxiv.org/abs/1907.06987)/[Kinetics-700-2020](https://arxiv.org/pdf/2010.10864.pdf)] [[Homepage](https://deepmind.com/research/open-source/kinetics)]</br>
 *400/600/700/700 classes, at least 400/600/600/700 clips per class*
+
+* **Youtube-8M**: A Large-Scale Video Classification Benchmark </br>
+[[Paper](https://arxiv.org/pdf/1609.08675.pdf)][[Homepage](https://research.google.com/youtube8m/index.html)]</br>
+*8,000,000 videos, 4000 visual entities*
 
 * **Charades**: Hollywood in Homes: Crowdsourcing Data
 Collection for Activity Understanding (ECCV 2016)</br> 
@@ -27,6 +52,10 @@ Collection for Activity Understanding (ECCV 2016)</br>
 * **Charades-Ego**: Actor and Observer: Joint Modeling of First and Third-Person Videos (CVPR 2018) </br> 
 [[Paper](https://arxiv.org/pdf/1804.09627.pdf)][[Homepage](https://prior.allenai.org/projects/charades-ego)]</br>
 *112 people, 4000 paired videos, 157 action classes*
+
+* **20BN-jester**: The Jester Dataset: A Large-Scale Video Dataset of Human Gestures (ICCVW 2019) </br>
+[[Paper](https://openaccess.thecvf.com/content_ICCVW_2019/papers/HANDS/Materzynska_The_Jester_Dataset_A_Large-Scale_Video_Dataset_of_Human_Gestures_ICCVW_2019_paper.pdf)][[Homepage](https://20bn.com/datasets/jester)] </br>
+*148,092 videos, 27 classes, 1376 actors*
 
 * **Moments in Time Dataset**: one million videos for event understanding (TPAMI 2019) </br> 
 [[Paper](http://moments.csail.mit.edu/TPAMI.2019.2901464.pdf)][[Homepage](http://moments.csail.mit.edu/)]</br>
