@@ -18,14 +18,9 @@
 [[Paper](https://cs.stanford.edu/people/karpathy/deepvideo/deepvideo_cvpr2014.pdf)][[Homepage](https://cs.stanford.edu/people/karpathy/deepvideo/)]</br>
 *1,000,000 videos, 487 classes*
 
-* **MPII-MD**: A Dataset for Movie Description </br>
-[[Paper](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Rohrbach_A_Dataset_for_2015_CVPR_paper.pdf)][[Homepage](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/research/vision-and-language/mpii-movie-description-dataset/)] </br>
-*94 videos, 68,337 clips, 68,375 descriptions*
-
 * **ActivityNet**: A Large-Scale Video Benchmark for Human Activity Understanding (CVPR 2015)</br> 
 [[Paper](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Heilbron_ActivityNet_A_Large-Scale_2015_CVPR_paper.pdf)][[Homepage](http://activity-net.org/index.html)]</br>
 *203 classes, 137 untrimmed videos per class, 1.41 activity instances per video*
-
 
 * **MPII-Cooking**: Recognizing Fine-Grained and Composite Activities Using Hand-Centric Features and Script Data (IJCV 2015) </br>
 [[Paper](https://link.springer.com/content/pdf/10.1007/s11263-015-0851-8.pdf)][[Homepage](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/research/human-activity-recognition/mpii-cooking-2-dataset/)] </br>
@@ -35,18 +30,10 @@
 [[Kinetics-400](https://arxiv.org/abs/1705.06950)/[Kinetics-600](https://arxiv.org/abs/1808.01340)/[Kinetics-700](https://arxiv.org/abs/1907.06987)/[Kinetics-700-2020](https://arxiv.org/pdf/2010.10864.pdf)] [[Homepage](https://deepmind.com/research/open-source/kinetics)]</br>
 *400/600/700/700 classes, at least 400/600/600/700 clips per class*
 
-* **Youtube-8M**: A Large-Scale Video Classification Benchmark </br>
-[[Paper](https://arxiv.org/pdf/1609.08675.pdf)][[Homepage](https://research.google.com/youtube8m/index.html)]</br>
-*8,000,000 videos, 4000 visual entities*
-
 * **Charades**: Hollywood in Homes: Crowdsourcing Data Collection for Activity Understanding (ECCV 2016)</br> 
 [[Paper](http://ai2-website.s3.amazonaws.com/publications/hollywood-homes.pdf)][[Homepage](https://prior.allenai.org/projects/charades)]</br>
 *9,848 annotated videos, 267 people, 27,847 video descriptions, 66,500 temporally localized intervals for 157 action classes and
 41,104 labels for 46 object classes*
-
-* **YouTube-BoundingBoxes**: A Large High-Precision Human-Annotated Data Set for Object Detection in Video </br>
-[[Paper](https://arxiv.org/pdf/1702.00824.pdf)][[Homepage](https://research.google.com/youtube-bb/index.html)] </br>
-*380,000 video segments about 19s long, 5.6 M bounding boxes, 23 types of objects*
 
 * **Charades-Ego**: Actor and Observer: Joint Modeling of First and Third-Person Videos (CVPR 2018) </br> 
 [[Paper](https://arxiv.org/pdf/1804.09627.pdf)][[Homepage](https://prior.allenai.org/projects/charades-ego)]</br>
@@ -68,22 +55,13 @@
 [[Paper](https://arxiv.org/abs/1706.04261)][[Homepage](https://20bn.com/datasets/something-something)]</br>
 *100,000 videos across 174 classes*
 
-* **YouTube Pose**: Personalizing Human Video Pose Estimation (CVPR 2016) </br>
-[[Paper](https://arxiv.org/pdf/1511.06676.pdf)][[Homepage](https://www.robots.ox.ac.uk/~vgg/data/pose/index.html)] </br>
-*50 videos, 5,000 annotated frames*
-
-* **Narrated Instruction Videos**: Unsupervised Learning from Narrated Instruction Videos </br>
-[[Paper](https://www.di.ens.fr/willow/research/instructionvideos/paper.pdf)][[Homepage](https://www.di.ens.fr/willow/research/instructionvideos/)] </br>
-*150 videos, 800,000 frames, five tasks: Making a coffee, Changing car tire, Performing cardiopulmonary resuscitation (CPR), Jumping a
-car and Repotting a plant*
-
 * **EPIC-KITCHENS**: Scaling Egocentric Vision: The EPIC-KITCHENS Dataset</br> 
 [[Paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Dima_Damen_Scaling_Egocentric_Vision_ECCV_2018_paper.pdf)][[Homepage](https://epic-kitchens.github.io/2021)]</br>
 *32 participants, 11.5M frames, 39.6K action segments, 454.3K object bounding boxes, 149 action classes, 323 object classes*
 
 * **HOMAGE**: Home Action Genome: Cooperative Compositional Action Understanding (CVPR 2021) </br> 
 [[Paper]()][[Homepage](https://homeactiongenome.org/)]</br> 
-*27 participants, 12 sensor types, 75 activities, 453 atomic actions, 1,752 synchronized sequences, 86 object classes, 29 relationship classes, 497,534 bounding boxes, 583,481 relationships.*
+*27 participants, 12 sensor types, 75 activities, 453 atomic actions, 1,752 synchronized sequences, 86 object classes, 29 relationship classes, 497,534 bounding boxes, 583,481 relationships*
 
 * **MMAct**: A Large-Scale Dataset for Cross Modal Human Action Understanding (ICCV 2019) </br> 
 [[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Kong_MMAct_A_Large-Scale_Dataset_for_Cross_Modal_Human_Action_Understanding_ICCV_2019_paper.pdf)][[Homepage](https://mmact19.github.io/2019/)]</br>
@@ -105,54 +83,18 @@ car and Repotting a plant*
 [[Paper](https://arxiv.org/abs/1703.07475)][[Homepage](https://github.com/ECHO960/PKU-MMD#pku-mmd-a-large-scale-benchmark-for-continuous-multi-modal-human-action-understanding)]</br>
 *1,076 long video sequences, 51 action categories, performed by 66 subjects in three camera views, 20,000 action instances, 5.4 million frames, RGB+depth+Infrared Radiation+Skeleton*
 
-* **Breakfast**: The Language of Actions: Recovering the Syntax and Semantics of Goal-Directed Human Activities </br> 
-[[Paper](https://openaccess.thecvf.com/content_cvpr_2014/papers/Kuehne_The_Language_of_2014_CVPR_paper.pdf)][[Homepage](https://serre-lab.clps.brown.edu/resource/breakfast-actions-dataset/)]</br>
-*52 participants, 10 distinct cooking activities captured in 18 different kitchens, 48 action classes, 11,267 clips*
-
 * **HACS**: Human Action Clips and Segments Dataset for Recognition and Temporal Localization </br>
 [[Paper](https://arxiv.org/pdf/1712.09374.pdf)][[Homepage](http://hacs.csail.mit.edu/)]</br>
 *HACS Clips: 1.5M annotated clips sampled from 504K untrimmed videos, HACS Segments: 139K action segments densely annotated in 50K untrimmed videos spanning 200 action categories*
-
-* **VLOG**: From Lifestyle Vlogs to Everyday Interactions (CVPR 2018) </br>
-[[Paper](https://web.eecs.umich.edu/~fouhey//2017/VLOG/paper.pdf)][[Homepage](https://web.eecs.umich.edu/~fouhey//2017/VLOG/index.html)] </br>
-*114K video clips, 10.7K participants, Annotations: Hand/Semantic Object, Hand Contact State, Scene Classification*
-
-* **YouCook**: A Thousand Frames in Just a Few Words: Lingual Description of Videos through Latent Topics and Sparse Object Stitching (CVPR 2013) </br>
-[[Paper](https://web.eecs.umich.edu/~jjcorso/pubs/jcorso_CVPR2013_dpmtm.pdf)][[Homepage](https://web.eecs.umich.edu/~jjcorso/r/youcook/)] </br>
-*88 YouTube cooking videos*
-
-* **YouCook2**: YouCookII Dataset </br>
-[[Paper](http://youcook2.eecs.umich.edu/static/YouCookII/youcookii_readme.pdf)][[Homepage](http://youcook2.eecs.umich.edu/)] </br>
-*2000 long untrimmed videos, 89 cooking recipes, each recipe includes 5 to 16 steps, each step should be described with one sentence*
-
-* **How2**: A Large-scale Dataset for Multimodal Language Understanding (NeurIPS 2018) </br>
-[[Paper](https://arxiv.org/pdf/1811.00347.pdf)][[Homepage](https://github.com/srvk/how2-dataset)] </br>
-*80,000 clips, word-level time alignments to the ground-truth English subtitles*
-
-* **COIN**: A Large-scale Dataset for Comprehensive Instructional Video Analysis (CVPR 2019) </br>
-[[Paper](https://arxiv.org/pdf/1903.02874.pdf)][[Homepage](https://coin-dataset.github.io/)] </br>
-*11,827 videos, 180 tasks, 12 domains, 46,354 annotated segments*
-
-* **HowTo100M**: Learning a Text-Video Embedding by Watching Hundred Million Narrated Video Clips (ICCV 2019) </br>
-[[Paper](https://arxiv.org/pdf/1906.03327.pdf)][[Homepage](https://www.di.ens.fr/willow/research/howto100m/)] </br>
-*136 million video clips sourced from 1.22M narrated instructional web videos, 23k different visual tasks*
 
 * **Oops!**: Predicting Unintentional Action in Video (CVPR 2020) </br>
 [[Paper](https://arxiv.org/pdf/1911.11206.pdf)][[Homepage](https://oops.cs.columbia.edu/)] </br>
 *20,338 videos, 7,368 annotated for training, 6,739 annotated for testing*
 
-* **HVU**: Large Scale Holistic Video Understanding (ECCV 2020) </br>
-[[Paper](https://arxiv.org/pdf/1904.11451.pdf)][[Homepage](https://holistic-video-understanding.github.io/)] </br>
-*572k videos in total with 9 million annotations for training, validation and test set spanning over 3142 labels, semantic aspects defined on categories of scenes, objects, actions, events, attributes and concepts*
-
 * **RareAct**: A video dataset of unusual interactions </br>
 [[Paper](https://arxiv.org/pdf/2008.01018.pdf)][[Homepage]()]</br>
 *122 different actions, 7,607 clips, 905 videos, 19 verbs, 38 nouns*
 
-
-* **EEV**: A Large-Scale Dataset for Studying Evoked Expressions from Video </br> 
-[[Paper](https://arxiv.org/abs/2001.05488)][[Homepage](https://github.com/google-research-datasets/eev)]</br>
-*Each video is annotated at 6 Hz with 15 continuous evoked expression labels, 36.7 million annotations of viewer facial reactions to 23,574 videos (1,700 hours)*
 
 * **FineGym**: A Hierarchical Video Dataset for Fine-grained Action Understanding (CVPR 2020) </br>
 [[Paper](https://arxiv.org/pdf/2004.06704.pdf)][[Homepage](https://sdolivia.github.io/FineGym/)]
@@ -166,6 +108,40 @@ car and Repotting a plant*
 [[Paper](https://arxiv.org/pdf/1507.05738.pdf)][[Homepage](http://ai.stanford.edu/~syyeung/everymoment.html)] </br>
 *400 videos, 38,690 annotations of 65 action classes, 10.5 action classes per video*
 
+## Video Classification
+* **COIN**: A Large-scale Dataset for Comprehensive Instructional Video Analysis (CVPR 2019) </br>
+[[Paper](https://arxiv.org/pdf/1903.02874.pdf)][[Homepage](https://coin-dataset.github.io/)] </br>
+*11,827 videos, 180 tasks, 12 domains, 46,354 annotated segments*
+
+* **Youtube-8M**: A Large-Scale Video Classification Benchmark </br>
+[[Paper](https://arxiv.org/pdf/1609.08675.pdf)][[Homepage](https://research.google.com/youtube8m/index.html)]</br>
+*8,000,000 videos, 4000 visual entities*
+
+* **HVU**: Large Scale Holistic Video Understanding (ECCV 2020) </br>
+[[Paper](https://arxiv.org/pdf/1904.11451.pdf)][[Homepage](https://holistic-video-understanding.github.io/)] </br>
+*572k videos in total with 9 million annotations for training, validation and test set spanning over 3142 labels, semantic aspects defined on categories of scenes, objects, actions, events, attributes and concepts*
+
+* **VLOG**: From Lifestyle Vlogs to Everyday Interactions (CVPR 2018) </br>
+[[Paper](https://web.eecs.umich.edu/~fouhey//2017/VLOG/paper.pdf)][[Homepage](https://web.eecs.umich.edu/~fouhey//2017/VLOG/index.html)] </br>
+*114K video clips, 10.7K participants, Annotations: Hand/Semantic Object, Hand Contact State, Scene Classification*
+
+* **EEV**: A Large-Scale Dataset for Studying Evoked Expressions from Video </br> 
+[[Paper](https://arxiv.org/abs/2001.05488)][[Homepage](https://github.com/google-research-datasets/eev)]</br>
+*Each video is annotated at 6 Hz with 15 continuous evoked expression labels, 36.7 million annotations of viewer facial reactions to 23,574 videos (1,700 hours)*
+
+## Ego-Centric View
+* **Charades-Ego**: Actor and Observer: Joint Modeling of First and Third-Person Videos (CVPR 2018) </br> 
+[[Paper](https://arxiv.org/pdf/1804.09627.pdf)][[Homepage](https://prior.allenai.org/projects/charades-ego)]</br>
+*112 people, 4000 paired videos, 157 action classes*
+
+* **EPIC-KITCHENS**: Scaling Egocentric Vision: The EPIC-KITCHENS Dataset</br> 
+[[Paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Dima_Damen_Scaling_Egocentric_Vision_ECCV_2018_paper.pdf)][[Homepage](https://epic-kitchens.github.io/2021)]</br>
+*32 participants, 11.5M frames, 39.6K action segments, 454.3K object bounding boxes, 149 action classes, 323 object classes*
+
+* **HOMAGE**: Home Action Genome: Cooperative Compositional Action Understanding (CVPR 2021) </br> 
+[[Paper]()][[Homepage](https://homeactiongenome.org/)]</br> 
+*27 participants, 12 sensor types, 75 activities, 453 atomic actions, 1,752 synchronized sequences, 86 object classes, 29 relationship classes, 497,534 bounding boxes, 583,481 relationships*
+
 ## Video Object Segmentation
 * **DAVIS**: A Benchmark Dataset and Evaluation Methodology for Video Object Segmentation (CVPR 2016) </br>
 [[Paper](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Perazzi_A_Benchmark_Dataset_CVPR_2016_paper.pdf)][[Homepage](https://davischallenge.org/)]</br>
@@ -174,6 +150,12 @@ car and Repotting a plant*
 * **UVO**: Unidentified Video Objects: A Benchmark for Dense, Open-World Segmentation </br>
 [[Paper](https://arxiv.org/pdf/2104.04691.pdf)][[Homepage]()] </br>
 *1200 videos, 108k frames, 12.29 objects per video*
+
+## Object Detection
+
+* **YouTube-BoundingBoxes**: A Large High-Precision Human-Annotated Data Set for Object Detection in Video </br>
+[[Paper](https://arxiv.org/pdf/1702.00824.pdf)][[Homepage](https://research.google.com/youtube-bb/index.html)] </br>
+*380,000 video segments about 19s long, 5.6 M bounding boxes, 23 types of objects*
 
 ## Group Activity Recognition
 * **Volleyball**: A Hierarchical Deep Temporal Model for Group Activity Recognition
@@ -185,6 +167,14 @@ car and Repotting a plant*
 *5 different collective activities, 44 clips* 
 
 ## Movie
+* **HOLLYWOOD2**: Actions in Context (CVPR 2009) </br>
+[[Paper](http://www.irisa.fr/vista/Papers/2009_cvpr_marszalek.pdf)][[Homepage](https://www.di.ens.fr/~laptev/actions/hollywood2/)]</br>
+*12 classes of human actions, 10 classes of scenes, 3,669 clips, 69 movies*
+
+* **MPII-MD**: A Dataset for Movie Description </br>
+[[Paper](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Rohrbach_A_Dataset_for_2015_CVPR_paper.pdf)][[Homepage](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/research/vision-and-language/mpii-movie-description-dataset/)] </br>
+*94 videos, 68,337 clips, 68,375 descriptions*
+
 * **MovieNet**: A Holistic Dataset for Movie Understanding (ECCV 2020) </br>
 [[Paper](https://arxiv.org/pdf/2007.10937.pdf)][[Homepage](http://movienet.site/)] </br>
 *1,100 movies, 1.1M characters with bounding boxes and identities, 42K scene boundaries, 2.5K aligned description sentences, 65K tags of place and action, and 92
@@ -228,6 +218,10 @@ K tags of cinematic style*
 [[Paper](https://arxiv.org/pdf/2005.00214.pdf)][[Homepage](http://research.google.com/ava/)]</br>
 *230k clips, 80 AVA action classes*
 
+* **HACS**: Human Action Clips and Segments Dataset for Recognition and Temporal Localization </br>
+[[Paper](https://arxiv.org/pdf/1712.09374.pdf)][[Homepage](http://hacs.csail.mit.edu/)]</br>
+*HACS Clips: 1.5M annotated clips sampled from 504K untrimmed videos, HACS Segments: 139K action segments densely annotated in 50K untrimmed videos spanning 200 action categories*
+
 * **MUSES**: Multi-shot Temporal Event Localization: a Benchmark (CVPR 2021) </br> 
 [[Paper](https://arxiv.org/pdf/2012.09434.pdf)][[Homepage](https://songbai.site/muses/)]</br>
 *31,477 event instances, 716 video hours, 19 shots per instance, 176 shots per video, 25 categories, 3,697 videos*
@@ -257,6 +251,36 @@ K tags of cinematic style*
 [[Paper](http://ai2-website.s3.amazonaws.com/publications/hollywood-homes.pdf)][[Homepage](https://prior.allenai.org/projects/charades)]</br>
 *9,848 annotated videos, 267 people, 27,847 video descriptions, 66,500 temporally localized intervals for 157 action classes and
 41,104 labels for 46 object classes*
+
+## Video & Language
+* **MPII-MD**: A Dataset for Movie Description </br>
+[[Paper](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Rohrbach_A_Dataset_for_2015_CVPR_paper.pdf)][[Homepage](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/research/vision-and-language/mpii-movie-description-dataset/)] </br>
+*94 videos, 68,337 clips, 68,375 descriptions*
+
+* **Narrated Instruction Videos**: Unsupervised Learning from Narrated Instruction Videos </br>
+[[Paper](https://www.di.ens.fr/willow/research/instructionvideos/paper.pdf)][[Homepage](https://www.di.ens.fr/willow/research/instructionvideos/)] </br>
+*150 videos, 800,000 frames, five tasks: Making a coffee, Changing car tire, Performing cardiopulmonary resuscitation (CPR), Jumping a
+car and Repotting a plant*
+
+* **YouCook**: A Thousand Frames in Just a Few Words: Lingual Description of Videos through Latent Topics and Sparse Object Stitching (CVPR 2013) </br>
+[[Paper](https://web.eecs.umich.edu/~jjcorso/pubs/jcorso_CVPR2013_dpmtm.pdf)][[Homepage](https://web.eecs.umich.edu/~jjcorso/r/youcook/)] </br>
+*88 YouTube cooking videos*
+
+* **HowTo100M**: Learning a Text-Video Embedding by Watching Hundred Million Narrated Video Clips (ICCV 2019) </br>
+[[Paper](https://arxiv.org/pdf/1906.03327.pdf)][[Homepage](https://www.di.ens.fr/willow/research/howto100m/)] </br>
+*136 million video clips sourced from 1.22M narrated instructional web videos, 23k different visual tasks*
+
+* **How2**: A Large-scale Dataset for Multimodal Language Understanding (NeurIPS 2018) </br>
+[[Paper](https://arxiv.org/pdf/1811.00347.pdf)][[Homepage](https://github.com/srvk/how2-dataset)] </br>
+*80,000 clips, word-level time alignments to the ground-truth English subtitles*
+
+* **Breakfast**: The Language of Actions: Recovering the Syntax and Semantics of Goal-Directed Human Activities </br> 
+[[Paper](https://openaccess.thecvf.com/content_cvpr_2014/papers/Kuehne_The_Language_of_2014_CVPR_paper.pdf)][[Homepage](https://serre-lab.clps.brown.edu/resource/breakfast-actions-dataset/)]</br>
+*52 participants, 10 distinct cooking activities captured in 18 different kitchens, 48 action classes, 11,267 clips*
+
+* **YouCook2**: YouCookII Dataset </br>
+[[Paper](http://youcook2.eecs.umich.edu/static/YouCookII/youcookii_readme.pdf)][[Homepage](http://youcook2.eecs.umich.edu/)] </br>
+*2000 long untrimmed videos, 89 cooking recipes, each recipe includes 5 to 16 steps, each step should be described with one sentence*
 
 ## Actor/Action Segmentation
 * **A2D**: Can Humans Fly? Action Understanding with Multiple Classes of Actors (CVPR 2015) </br>
@@ -370,6 +394,11 @@ nouns, 53 verbs and 23 adjectives*
 * **UCF-Crime**: Real-world Anomaly Detection in Surveillance Videos </br>
 [[Paper](https://arxiv.org/pdf/1801.04264.pdf)][[Homepage](https://www.crcv.ucf.edu/projects/real-world/#:~:text=We%20construct%20a%20new%20large,Stealing%2C%20Shoplifting%2C%20and%20Vandalism.)]</br>
 *1,900 videos*
+
+## Pose Estimation
+* **YouTube Pose**: Personalizing Human Video Pose Estimation (CVPR 2016) </br>
+[[Paper](https://arxiv.org/pdf/1511.06676.pdf)][[Homepage](https://www.robots.ox.ac.uk/~vgg/data/pose/index.html)] </br>
+*50 videos, 5,000 annotated frames*
 
 ## Physics
 * **Real-world Flag & FlagSim**: Cloth in the Wind: A Case Study of Physical Measurement through Simulation (CVPR 2020) </br>
