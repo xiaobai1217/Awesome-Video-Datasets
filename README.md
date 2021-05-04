@@ -163,7 +163,7 @@ K tags of cinematic style*
 
 * **HVU**: Large Scale Holistic Video Understanding (ECCV 2020) </br>
 [[Paper](https://arxiv.org/pdf/1904.11451.pdf)][[Homepage](https://holistic-video-understanding.github.io/)] </br>
-* 572k videos in total with 9 million annotations for training, validation and test set spanning over 3142 labels, semantic aspects defined on categories of scenes, objects, actions, events, attributes and concepts*
+*572k videos in total with 9 million annotations for training, validation and test set spanning over 3142 labels, semantic aspects defined on categories of scenes, objects, actions, events, attributes and concepts*
 
 * **RareAct**: A video dataset of unusual interactions </br>
 [[Paper](https://arxiv.org/pdf/2008.01018.pdf)][[Homepage]()]</br>
@@ -196,7 +196,7 @@ K tags of cinematic style*
 *3,782 videos, actors: adult, baby, bird, cat, dog, ball and car, actions: climbing, crawling, eating, flying, jumping, rolling, running, and walking*
 
 * **J-HMDB**: Towards understanding action recognition (ICCV 2013) </br>
-[[Paper](https://hal.inria.fr/hal-00906902/document)][[Homepage](http://jhmdb.is.tue.mpg.de/)]
+[[Paper](https://hal.inria.fr/hal-00906902/document)][[Homepage](http://jhmdb.is.tue.mpg.de/)] </br>
 *31,838 annotated frames, 21 categories involving a single person in action: brush hair, catch, clap, climb stairs, golf, jump, kick ball, pick, pour, pull-up, push, run, shoot ball, shoot bow, shoot gun, sit, stand, swing baseball, throw, walk, wave*
 
 *  **A2D Sentences & J-HMDB Sentences**: Actor and Action Video Segmentation from a Sentence (CVPR 2018) </br>
