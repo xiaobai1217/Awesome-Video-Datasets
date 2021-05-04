@@ -173,6 +173,10 @@ K tags of cinematic style*
 [[Paper](https://arxiv.org/pdf/2006.15418v1.pdf)][[Homepage](https://sites.google.com/view/repnet)] </br>
 *8,757 videos*
 
+* **EEV**: A Large-Scale Dataset for Studying Evoked Expressions from Video </br> 
+[[Paper](https://arxiv.org/abs/2001.05488)][[Homepage](https://github.com/google-research-datasets/eev)]</br>
+*Each video is annotated at 6 Hz with 15 continuous evoked expression labels, 36.7 million annotations of viewer facial reactions to 23,574 videos (1,700 hours)*
+
 ## Action/Event Localization
 * **AVA**: A Video Dataset of Spatio-temporally Localized Atomic Visual Actions </br> 
 [[Paper](https://arxiv.org/abs/1705.08421)][[Homepage](http://research.google.com/ava/)]</br>
@@ -181,10 +185,6 @@ K tags of cinematic style*
 * **AVA-Kinetics**: The AVA-Kinetics Localized Human Actions Video Dataset </br> 
 [[Paper](https://arxiv.org/pdf/2005.00214.pdf)][[Homepage](http://research.google.com/ava/)]</br>
 *230k clips, 80 AVA action classes*
-
-* **EEV**: A Large-Scale Dataset for Studying Evoked Expressions from Video </br> 
-[[Paper](https://arxiv.org/abs/2001.05488)][[Homepage](https://github.com/google-research-datasets/eev)]</br>
-*Each video is annotated at 6 Hz with 15 continuous evoked expression labels, 36.7 million annotations of viewer facial reactions to 23,574 videos (1,700 hours)*
 
 * **MUSES**: Multi-shot Temporal Event Localization: a Benchmark (CVPR 2021) </br> 
 [[Paper](https://arxiv.org/pdf/2012.09434.pdf)][[Homepage](https://songbai.site/muses/)]</br>
