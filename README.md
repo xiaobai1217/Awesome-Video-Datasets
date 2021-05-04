@@ -128,7 +128,7 @@
 [[Paper](https://arxiv.org/abs/2001.05488)][[Homepage](https://github.com/google-research-datasets/eev)]</br>
 *Each video is annotated at 6 Hz with 15 continuous evoked expression labels, 36.7 million annotations of viewer facial reactions to 23,574 videos (1,700 hours)*
 
-## Ego-Centric View
+## Egocentric View
 * **Charades-Ego**: Actor and Observer: Joint Modeling of First and Third-Person Videos (CVPR 2018) </br> 
 [[Paper](https://arxiv.org/pdf/1804.09627.pdf)][[Homepage](https://prior.allenai.org/projects/charades-ego)]</br>
 *112 people, 4000 paired videos, 157 action classes*
