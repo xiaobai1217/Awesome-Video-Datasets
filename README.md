@@ -107,6 +107,11 @@
 [[Paper](https://arxiv.org/pdf/1507.05738.pdf)][[Homepage](http://ai.stanford.edu/~syyeung/everymoment.html)] </br>
 *400 videos, 38,690 annotations of 65 action classes, 10.5 action classes per video*
 
+* **Hierarchical Action Search**: Searching for Actions on the Hyperbole (CVPR 2020) </br>
+[[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Long_Searching_for_Actions_on_the_Hyperbole_CVPR_2020_paper.pdf)][[Homepage](https://github.com/Tenglon/hyperbolic_action)] </br>
+*Hierarchical-ActivityNet, Hierarchical-Kinetics, and Hierarchical-Moments from ActivityNeg, mini-Kinetics, and Moments-in-time; provide action
+hierarchies and action splits for unseen action search*
+
 ## Video Classification
 * **COIN**: A Large-scale Dataset for Comprehensive Instructional Video Analysis (CVPR 2019) </br>
 [[Paper](https://arxiv.org/pdf/1903.02874.pdf)][[Homepage](https://coin-dataset.github.io/)] </br>
@@ -205,6 +210,11 @@ K tags of cinematic style*
 *topics: musical performances, vlogs, sports, and others*
 
 ## Action/Event Localization
+
+* **Hollywood2Tubes**: Spot On: Action Localization from Pointly-Supervised Proposals </br>
+[[Paper](https://isis-data.science.uva.nl/cgmsnoek/pub/mettes-pointly-eccv2016.pdf)][[Dataset](http://isis-data.science.uva.nl/mettes/hollywood2tubes.tar.gz)] </br>
+*train: 823 videos,  1,026 action instances, 16,411 annotations; test: 884 videos, 1,086 action instances, 15,835 annotations*
+
 * **DALY**: Human Action Localization with Sparse Spatial Supervision </br>
 [[Paper](https://arxiv.org/pdf/1605.05197.pdf)][[Homepage](http://thoth.inrialpes.fr/daly/index.php)] </br>
 *10 actions, 3.3M frames, 8,133 clips*
@@ -225,7 +235,15 @@ K tags of cinematic style*
 [[Paper](https://arxiv.org/pdf/2012.09434.pdf)][[Homepage](https://songbai.site/muses/)]</br>
 *31,477 event instances, 716 video hours, 19 shots per instance, 176 shots per video, 25 categories, 3,697 videos*
 
+* **TVSeries**: Online Action Detection (ECCV 2016) </br>
+[[Paper](https://arxiv.org/pdf/1604.06506.pdf)][[Homepage](https://homes.esat.kuleuven.be/psi-archive/rdegeest/TVSeries.html)] </br>
+*27 episodes from 6 popular TV series, 30 action classes, 6,231 action instances*
+
 ## Video Captioning
+* **VideoStory**: A New Multimedia Embedding for Few-Example Recognition and Translation of Events </br>
+[[Paper](https://isis-data.science.uva.nl/cgmsnoek/pub/habibian-videostory-mm2014.pdf)][[Homepage](https://ivi.fnwi.uva.nl/isis/mediamill/datasets/videostory.php)] </br>
+*45,826 videos and their descriptions obtained by harvesting YouTube*
+
 * **MSR-VTT**: A Large Video Description Dataset for Bridging Video and Language (CVPR 2016) </br>
 [[Paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/06/cvpr16.msr-vtt.tmei_-1.pdf)][[Homepage](https://www.microsoft.com/en-us/research/publication/msr-vtt-a-large-video-description-dataset-for-bridging-video-and-language/)] </br>
 *10K web video clips, 200K clip-sentence pairs*
@@ -252,6 +270,10 @@ K tags of cinematic style*
 41,104 labels for 46 object classes*
 
 ## Video & Language
+* **Lingual OTB99 & Lingual ImageNet Videos**: Tracking by Natural Language Specification (CVPR 2017) </br>
+[[Paper](https://isis-data.science.uva.nl/cgmsnoek/pub/li-tracking-language-cvpr2017.pdf)][[Homepage](https://github.com/QUVA-Lab/lang-tracker)]
+*natural language descriptions of the target object*
+
 * **MPII-MD**: A Dataset for Movie Description </br>
 [[Paper](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Rohrbach_A_Dataset_for_2015_CVPR_paper.pdf)][[Homepage](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/research/vision-and-language/mpii-movie-description-dataset/)] </br>
 *94 videos, 68,337 clips, 68,375 descriptions*
@@ -384,6 +406,57 @@ nouns, 53 verbs and 23 adjectives*
 * **Countix-AV & Extreme Countix-AV**: Repetitive Activity Counting by Sight and Sound (CVPR 2021) </br>
 [[Paper](https://arxiv.org/pdf/2103.13096.pdf)][[Homepage](https://github.com/xiaobai1217/RepetitionCounting)] </br>
 *1,863 videos in Countix-AV, 214 videos in Extreme Countix-AV*
+
+## Video Indexing
+* **MediaMill**: The Challenge Problem for Automated Detection of 101 Semantic Concepts in Multimedia </br>
+[[Paper](https://isis-data.science.uva.nl/cgmsnoek/pub/snoek-challenge-acm2006.pdf)][[Homepage](https://ivi.fnwi.uva.nl/isis/mediamill/challenge/)] </br>
+*manually annotated concept lexicon*
+
+## Video Retrieval
+
+* **TRECVID**: TREC Video Retrieval Evaluation </br>
+[[Homepage](https://trecvid.nist.gov/)] </br>
+*sources: YFCC100M, Flickr, etc*
+
+## Tracking
+* **Lingual OTB99 & Lingual ImageNet Videos**: Tracking by Natural Language Specification (CVPR 2017) </br>
+[[Paper](https://isis-data.science.uva.nl/cgmsnoek/pub/li-tracking-language-cvpr2017.pdf)][[Homepage](https://github.com/QUVA-Lab/lang-tracker)]
+*natural language descriptions of the target object*
+
+* **OxUvA**: Long-term Tracking in the Wild: A Benchmark (ECCV 2018) </br>
+[[Paper](https://arxiv.org/pdf/1803.09502.pdf)][[Homepage](https://oxuva.github.io/long-term-tracking-benchmark/)] </br>
+*366 sequences spanning 14 hours of video*
+
+* **LaSOT**: A High-quality Benchmark for Large-scale Single Object Tracking </br>
+[[Paper](https://arxiv.org/pdf/1809.07845.pdf)][[Homepage](https://cis.temple.edu/lasot/)] </br>
+*1,400 sequences with more than 3.5M frames, each frame is annotated with a bounding box*
+
+* **TrackingNet**: A Large-Scale Dataset and Benchmark for Object Tracking in the Wild (ECCV 2018) </br>
+[[Paper](https://arxiv.org/pdf/1803.10794.pdf)][[Homepage](https://tracking-net.org/)] </br>
+*30K videos with more than 14 million dense bounding box annotations, a new benchmark composed of 500 novel videos*
+
+* **ALOV300+**: Visual Tracking: An Experimental Survey (TPAMI 2014) </br>
+[[Paper](https://ivi.fnwi.uva.nl/isis/publications/2014/SmeuldersTPAMI2014/SmeuldersTPAMI2014.pdf)][[Homepage](https://ivi.fnwi.uva.nl/isis/publications/bibtexbrowser.php?key=SmeuldersTPAMI2014&bib=all.bib)][[Dataset](http://alov300pp.joomlafree.it/)]</br>
+*315 videos*
+
+* **NUS-PRO**: A New Visual Tracking Challenge (TPAMI 2015) </br>
+[[Paper](https://faculty.ucmerced.edu/mhyang/papers/pami15_nus_pro.pdf)][[Homepage](https://sites.google.com/site/li00annan/nus-pro)] </br>
+*365 image sequences*
+
+* **UAV123**: A Benchmark and Simulator for UAV Tracking (ECCV 2016) </br>
+[[Paper](https://drive.google.com/file/d/1YDlCOWxH8HMPlmblJ2OvxFdSFecuiM3Z/edit)][[Homepage](https://cemse.kaust.edu.sa/ivul/uav123)] </br>
+*123 new and fully annotated HD video sequences captured from a low-altitude aerial perspective*
+
+* **OTB2013**: Online Object Tracking: A Benchmark (CVPR 2013) </br>
+[[Paper](https://faculty.ucmerced.edu/mhyang/papers/cvpr13_benchmark.pdf)][[Homepage](http://cvlab.hanyang.ac.kr/tracker_benchmark/benchmark_v10.html)] </br>
+*50 video sequences*
+
+* **OTB2015**: Object Tracking Benchmark (TPAMI 2015) </br>
+[[Paper](https://ieeexplore.ieee.org/document/7001050)][[Homepage](http://cvlab.hanyang.ac.kr/tracker_benchmark/index.html)] </br>
+*100 video sequences*
+
+* **VOT Challenge**
+[[Homepage](https://www.votchallenge.net/)]
 
 ## Anomaly Detection
 * **XD-Violence**: Not only Look, but also Listen: Learning Multimodal Violence Detection under Weak Supervision (ECCV 2020) </br>
