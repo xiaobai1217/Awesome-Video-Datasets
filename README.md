@@ -525,6 +525,14 @@ nouns, 53 verbs and 23 adjectives*
 [[Paper](https://dl.acm.org/doi/10.1145/3323873.3325056)][[Homepage](https://xdshang.github.io/docs/vidor.html)] </br>
 *10,000 videos selected from YFCC100M collection, 80 object categories and 50 predicate categories*
 
+* **Something-Else**: Compositional Action Recognition with Spatial-Temporal Interaction Networks (CVPR 2020) </br>
+[[Paper](https://arxiv.org/pdf/1912.09930.pdf)][[Homepage](https://github.com/joaanna/something_else)] </br>
+*annotations for 180049 videos from the Something-Something Dataset*
+
+* **Action Genome**: Actions as Compositions of Spatio-temporal Scene Graphs (CVPR 2020) </br> 
+[[Paper](https://arxiv.org/pdf/1912.06992.pdf)][[Homepage](https://www.actiongenome.org/)]</br>
+*10K videos, 0.4M objects, 1.7M visual relationships*
+
 ## Anomaly Detection
 * **XD-Violence**: Not only Look, but also Listen: Learning Multimodal Violence Detection under Weak Supervision (ECCV 2020) </br>
 [[Paper](https://roc-ng.github.io/XD-Violence/images/paper.pdf)][[Homepage](https://roc-ng.github.io/XD-Violence/)] </br>
