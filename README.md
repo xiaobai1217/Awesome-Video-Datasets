@@ -268,6 +268,14 @@ K tags of cinematic style*
 [[Paper](https://arxiv.org/pdf/1605.05197.pdf)][[Homepage](http://thoth.inrialpes.fr/daly/index.php)] </br>
 *10 actions, 3.3M frames, 8,133 clips*
 
+* **Action Completion**: A temporal model for Moment Detection (BMVC 2018) </br>
+[[Paper](https://arxiv.org/pdf/1805.06749.pdf)][[Homepage](https://github.com/FarnooshHeidari/CompletionDetection)] </br>
+*completion moments of 16 actions from three datasets: HMDB, UCF101, RGBD-AC*
+
+* **RGBD-Action-Completion**: Beyond Action Recognition: Action Completion in RGB-D Data (BMVC 2016) </br>
+[[Paper](https://dimadamen.github.io/ActionCompletion/ActionCompletion_BMVC2016.pdf)][[Homepage](https://data.bris.ac.uk/data/dataset/66qry08cv1fj1eunwxwob3fjz)] </br>
+*414 complete/incomplete object interaction sequences, spanning six actions and captured using an RGB-D camera*
+
 * **AVA**: A Video Dataset of Spatio-temporally Localized Atomic Visual Actions </br> 
 [[Paper](https://arxiv.org/abs/1705.08421)][[Homepage](http://research.google.com/ava/)]</br>
 *80 atomic visual actions in 430 15-minute video clips, 1.58M action labels with multiple labels per person occurring frequently*
@@ -283,6 +291,10 @@ K tags of cinematic style*
 * **CommonLocalization**: Localizing the Common Action Among a Few Videos (ECCV 2020) </br>
 [[Paper](https://isis-data.science.uva.nl/cgmsnoek/pub/yang-common-action-eccv2020.pdf)][[Homepage](https://github.com/PengWan-Yang/commonLocalization)] </br>
 *few-shot common action localization, revised ActivityNet1.3 and Thumos14*
+
+* **CommonSpaceTime**: Few-Shot Transformation of Common Actions into Time and Space (CVPR 2021) </br>
+[[Paper](https://isis-data.science.uva.nl/cgmsnoek/pub/yang-common-time-space-cvpr2021.pdf)][[Homepage]()] </br>
+*revised AVA and UCF101-24*
 
 * **MUSES**: Multi-shot Temporal Event Localization: a Benchmark (CVPR 2021) </br> 
 [[Paper](https://arxiv.org/pdf/2012.09434.pdf)][[Homepage](https://songbai.site/muses/)]</br>
