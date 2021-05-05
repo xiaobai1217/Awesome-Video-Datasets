@@ -1,6 +1,6 @@
 # Awesome-Video-Datasets
 
-* Contributions are most welcome, if you have any suggestions and improvements, please create an issue or raise a pull request. 
+* Contributions are most welcome, if you have any suggestions or improvements, please create an issue or raise a pull request. 
 * Our group website: [VIS Lab](https://ivi.fnwi.uva.nl/vislab/), University of Amsterdam. 
 
 ## Contents
