@@ -10,7 +10,7 @@
  - [Movie](#Movie)
  - [Video Captioning](#Video-Captioning))
  - [360 Videos](#360-Videos)
- - [Action/Event Localization](#Action-Event-Localization)
+ - [Activity Localization](#Activity-Localization)
  - [Video & Language](#Video-Language)
  - [Actor/Action Segmentation](#Actor-Action-Segmentation)
  - [Repetition Counting](#Repetition-Counting)
@@ -240,7 +240,7 @@ K tags of cinematic style*
 [[Paper](https://papers.nips.cc/paper/2020/file/328e5d4c166bb340b314d457a208dc83-Paper.pdf)][[Homepage](https://github.com/pedro-morgado/AVSpatialAlignment)] </br>
 *topics: musical performances, vlogs, sports, and others*
 
-## Action/Event Localization
+## Activity Localization
 
 * **Hollywood2Tubes**: Spot On: Action Localization from Pointly-Supervised Proposals </br>
 [[Paper](https://isis-data.science.uva.nl/cgmsnoek/pub/mettes-pointly-eccv2016.pdf)][[Dataset](http://isis-data.science.uva.nl/mettes/hollywood2tubes.tar.gz)] </br>
