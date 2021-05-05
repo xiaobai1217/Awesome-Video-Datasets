@@ -11,8 +11,8 @@
  - [Video Captioning](#Video-Captioning))
  - [360 Videos](#360-Videos)
  - [Activity Localization](#Activity-Localization)
- - [Video & Language](#Video-Language)
- - [Actor/Action Segmentation](#Actor-Action-Segmentation)
+ - [Video and Language](#Video-and-Language)
+ - [Action Segmentation](#Action-Segmentation)
  - [Repetition Counting](#Repetition-Counting)
  - [Audiovisual Learning](#Audiovisual-Learning)
  - [Video Indexing](#Video-Indexing)
@@ -300,7 +300,7 @@ K tags of cinematic style*
 *9,848 annotated videos, 267 people, 27,847 video descriptions, 66,500 temporally localized intervals for 157 action classes and
 41,104 labels for 46 object classes*
 
-## Video & Language
+## Video and Language
 * **Lingual OTB99 & Lingual ImageNet Videos**: Tracking by Natural Language Specification (CVPR 2017) </br>
 [[Paper](https://isis-data.science.uva.nl/cgmsnoek/pub/li-tracking-language-cvpr2017.pdf)][[Homepage](https://github.com/QUVA-Lab/lang-tracker)] </br>
 *natural language descriptions of the target object*
@@ -334,7 +334,7 @@ car and Repotting a plant*
 [[Paper](http://youcook2.eecs.umich.edu/static/YouCookII/youcookii_readme.pdf)][[Homepage](http://youcook2.eecs.umich.edu/)] </br>
 *2000 long untrimmed videos, 89 cooking recipes, each recipe includes 5 to 16 steps, each step should be described with one sentence*
 
-## Actor/Action Segmentation
+## Action Segmentation
 * **A2D**: Can Humans Fly? Action Understanding with Multiple Classes of Actors (CVPR 2015) </br>
 [[Paper](https://www.cs.rochester.edu/~cxu22/p/cvpr2015_a2d_paper.pdf)][[Homepage](https://web.eecs.umich.edu/~jjcorso/r/a2d/)] </br>
 *3,782 videos, actors: adult, baby, bird, cat, dog, ball and car, actions: climbing, crawling, eating, flying, jumping, rolling, running, and walking*
