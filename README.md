@@ -22,6 +22,7 @@
  - [Video Relation Detection](#Video-Relation-Detection)
  - [Anomaly Detection](#Anomaly-Detection)
  - [Pose Estimation](#Pose-Estimation)
+ - [Dynamic Texture Classification](#Dynamic-Texture-Classification)
  - [Physics](#Physics)
 
 ## Action Recognition
@@ -191,6 +192,23 @@ hierarchies and action splits for unseen action search*
 * **YouTube-BoundingBoxes**: A Large High-Precision Human-Annotated Data Set for Object Detection in Video </br>
 [[Paper](https://arxiv.org/pdf/1702.00824.pdf)][[Homepage](https://research.google.com/youtube-bb/index.html)] </br>
 *380,000 video segments about 19s long, 5.6 M bounding boxes, 23 types of objects*
+
+* **Water** detection through spatio-temporal invariant descriptors </br>
+[[Paper](https://reader.elsevier.com/reader/sd/pii/S1077314216300273?token=15C6210A029F5035AAA3E48B5EB4390911C8EE0BC8175787833DDB8CC63687EEBAFDA2275BAAD2F95ABC94F6E0EFDACB&originRegion=eu-west-1&originCreation=20210505160917)][[Dataset](http://isis-data.science.uva.nl/mettes/VideoWaterDatabase.tar.gz)] </br>
+*260 videos*
+
+## Dynamic Texture Classification
+* **Dynamic Texture**: A New Large Scale Dynamic Texture Dataset with Application to ConvNet Understanding (ECCV 2018) </br>
+[[Paper](http://vision.eecs.yorku.ca/publications/HadjiWildesECCV2018.pdf)][[Homepage](http://www.cse.yorku.ca/~hadjisma/dtdb_website/dtdb_paper.html)] </br>
+*over 10,000 videos*
+
+* **YUVL**: Spacetime Texture Representation and Recognition Based on a Spatiotemporal Orientation Analysis (TPAMI 2012) </br>
+[[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6072218)][[Homepage](http://vision.eecs.yorku.ca/research/spacetime-texture.shtml)][[Dataset](http://www.cse.yorku.ca/vision/research/spacetime-texture-data/)] </br>
+*610 spacetime texture samples*
+
+* **UCLA**: Dynamic Texture Recognition (CVPR 2001) </br>
+[[Paper](http://vision.csee.wvu.edu/~doretto/publications/saisanDWS01cvpr.pdf)][[Dataset](https://drive.google.com/file/d/0BxMIVlhgRmcbN3pRa0dyaHpHV1E/view)] </br>
+*76 dynamic textures*
 
 ## Group Activity Recognition
 * **Volleyball**: A Hierarchical Deep Temporal Model for Group Activity Recognition </br>
