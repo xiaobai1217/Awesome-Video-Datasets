@@ -455,7 +455,7 @@ nouns, 53 verbs and 23 adjectives*
 
 ## Single Object Tracking
 * **Lingual OTB99 & Lingual ImageNet Videos**: Tracking by Natural Language Specification (CVPR 2017) </br>
-[[Paper](https://isis-data.science.uva.nl/cgmsnoek/pub/li-tracking-language-cvpr2017.pdf)][[Homepage](https://github.com/QUVA-Lab/lang-tracker)]
+[[Paper](https://isis-data.science.uva.nl/cgmsnoek/pub/li-tracking-language-cvpr2017.pdf)][[Homepage](https://github.com/QUVA-Lab/lang-tracker)] </br>
 *natural language descriptions of the target object*
 
 * **OxUvA**: Long-term Tracking in the Wild: A Benchmark (ECCV 2018) </br>
