@@ -151,11 +151,18 @@ hierarchies and action splits for unseen action search*
 [[Paper](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Perazzi_A_Benchmark_Dataset_CVPR_2016_paper.pdf)][[Homepage](https://davischallenge.org/)]</br>
 *50 sequences, 3455 annotated frames*
 
+* **SegTrack v2**: Video Segmentation by Tracking Many Figure-Ground Segments (ICCV 2013) </br>
+[[Paper](https://web.engr.oregonstate.edu/~lif/SegTrack2/segtrack2_cameraready.pdf)][[Homepage](https://web.engr.oregonstate.edu/~lif/SegTrack2/dataset.html)] </br>
+*1,000 frames with pixel-level annotations*
+
 * **UVO**: Unidentified Video Objects: A Benchmark for Dense, Open-World Segmentation </br>
 [[Paper](https://arxiv.org/pdf/2104.04691.pdf)][[Homepage]()] </br>
 *1200 videos, 108k frames, 12.29 objects per video*
 
 ## Object Detection
+* **ImageNet VID** </br>
+[[Paper](https://link.springer.com/article/10.1007/s11263-015-0816-y?sa_campaign=email/event/articleAuthor/onlineFirst#)][[Homepage](https://image-net.org/challenges/LSVRC/2017/#vid)] </br>
+*30 categories, train: 3,862 video snippets, validation: 555 snippets*
 
 * **YouTube-BoundingBoxes**: A Large High-Precision Human-Annotated Data Set for Object Detection in Video </br>
 [[Paper](https://arxiv.org/pdf/1702.00824.pdf)][[Homepage](https://research.google.com/youtube-bb/index.html)] </br>
@@ -271,7 +278,7 @@ K tags of cinematic style*
 
 ## Video & Language
 * **Lingual OTB99 & Lingual ImageNet Videos**: Tracking by Natural Language Specification (CVPR 2017) </br>
-[[Paper](https://isis-data.science.uva.nl/cgmsnoek/pub/li-tracking-language-cvpr2017.pdf)][[Homepage](https://github.com/QUVA-Lab/lang-tracker)]
+[[Paper](https://isis-data.science.uva.nl/cgmsnoek/pub/li-tracking-language-cvpr2017.pdf)][[Homepage](https://github.com/QUVA-Lab/lang-tracker)] </br>
 *natural language descriptions of the target object*
 
 * **MPII-MD**: A Dataset for Movie Description </br>
@@ -418,7 +425,7 @@ nouns, 53 verbs and 23 adjectives*
 [[Homepage](https://trecvid.nist.gov/)] </br>
 *sources: YFCC100M, Flickr, etc*
 
-## Tracking
+## Single Object Tracking
 * **Lingual OTB99 & Lingual ImageNet Videos**: Tracking by Natural Language Specification (CVPR 2017) </br>
 [[Paper](https://isis-data.science.uva.nl/cgmsnoek/pub/li-tracking-language-cvpr2017.pdf)][[Homepage](https://github.com/QUVA-Lab/lang-tracker)]
 *natural language descriptions of the target object*
@@ -455,8 +462,40 @@ nouns, 53 verbs and 23 adjectives*
 [[Paper](https://ieeexplore.ieee.org/document/7001050)][[Homepage](http://cvlab.hanyang.ac.kr/tracker_benchmark/index.html)] </br>
 *100 video sequences*
 
-* **VOT Challenge**
+* **VOT Challenge** </br>
 [[Homepage](https://www.votchallenge.net/)]
+
+## Multiple Objects Tracking
+* **MOT Challenge** </br>
+[[Homepage](https://motchallenge.net/)] </br>
+
+* **VisDrone**: Vision Meets Drones: A Challenge </br>
+[[Paper](https://arxiv.org/pdf/1804.07437.pdf)][[Homepage](https://github.com/VisDrone)] </br>
+
+* **TAO**: A Large-Scale Benchmark for Tracking Any Object </br>
+[[Paper](https://arxiv.org/abs/2005.10356)][[Homepage](http://taodataset.org/)] </br>
+*2,907 videos, 833 classes, 17,287 tracks*
+
+* **GMOT-40**: A Benchmark for Generic Multiple Object Tracking </br>
+[[Paper](https://arxiv.org/pdf/2011.11858.pdf)][[Homepage](https://spritea.github.io/GMOT40/)] </br>
+*40 carefully annotated sequences evenly distributed among 10 object categories*
+
+* **BDD100K**: A Diverse Driving Dataset for Heterogeneous Multitask Learning (CVPR 2020) </br>
+[[Paper](https://arxiv.org/pdf/1805.04687.pdf)][[Homepage](https://www.bdd100k.com/)] </br>
+*100K videos and 10 tasks*
+
+## Video Relation Detection
+* **KIEV**: Interactivity Proposals for Surveillance Videos </br>
+[[Paper](https://isis-data.science.uva.nl/cgmsnoek/pub/chen-interactivity-icmr2020.pdf)][[Homepage](https://github.com/shanshuo/Interactivity_Proposals)] </br>
+*a new task of spatio-temporal interactivity proposals*
+
+* **ImageNet-VidVRD**: Video Visual Relation Detection </br>
+[[Paper](https://dl.acm.org/doi/10.1145/3123266.3123380)][[Homepage](https://xdshang.github.io/docs/imagenet-vidvrd.html)]</br>
+*1,000 videos, 35 common subject/object categories and 132 relationships*
+
+* **VidOR**: Annotating Objects and Relations in User-Generated Videos </br>
+[[Paper](https://dl.acm.org/doi/10.1145/3323873.3325056)][[Homepage](https://xdshang.github.io/docs/vidor.html)] </br>
+*10,000 videos selected from YFCC100M collection, 80 object categories and 50 predicate categories*
 
 ## Anomaly Detection
 * **XD-Violence**: Not only Look, but also Listen: Learning Multimodal Violence Detection under Weak Supervision (ECCV 2020) </br>
