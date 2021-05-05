@@ -1,5 +1,7 @@
 # Awesome-Video-Datasets
 
+Contributions are most welcome, if you have any suggestions and improvements, please create an issue or raise a pull request.
+
 ## Contents
  - [Action Recognition](#Action-Recognition)
  - [Video Classification](#Video-Classification)
