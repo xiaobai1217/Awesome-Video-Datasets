@@ -381,6 +381,18 @@ car and Repotting a plant*
 [[Paper](http://youcook2.eecs.umich.edu/static/YouCookII/youcookii_readme.pdf)][[Homepage](http://youcook2.eecs.umich.edu/)] </br>
 *2000 long untrimmed videos, 89 cooking recipes, each recipe includes 5 to 16 steps, each step should be described with one sentence*
 
+* **QuerYD**: A video dataset with textual and audio narrations (ICASSP 2021) </br>
+[[Paper](https://arxiv.org/abs/2011.11071)][[Homepage](https://www.robots.ox.ac.uk/~vgg/data/queryd/)]</br>
+*1,400+ narrators, 200+ video hours, 70+ description hours*
+
+* **VIOLIN**: A Large-Scale Dataset for Video-and-Language Inference (CVPR 2020) </br>
+[[Paper](https://arxiv.org/pdf/2003.11618.pdf)][[Homepage](https://github.com/jimmy646/violin)] </br>
+*95,322 video-hypothesis pairs from 15,887 video clips, spanning over 582 hours of video*
+
+* **CrossTask**: weakly supervised learning from instructional videos (CVPR 2019) </br>
+[[Paper](https://arxiv.org/abs/1903.08225)][[Homepage](https://github.com/DmZhukov/CrossTask)] </br>
+*4.7K videos, 83 tasks*
+
 ## Action Segmentation
 * **A2D**: Can Humans Fly? Action Understanding with Multiple Classes of Actors (CVPR 2015) </br>
 [[Paper](https://www.cs.rochester.edu/~cxu22/p/cvpr2015_a2d_paper.pdf)][[Homepage](https://web.eecs.umich.edu/~jjcorso/r/a2d/)] </br>
@@ -521,6 +533,9 @@ nouns, 53 verbs and 23 adjectives*
 [[Paper](https://dl.acm.org/doi/pdf/10.1145/1631135.1631141)][[Homepage](https://sites.google.com/view/viral2019/home/supported-datasets)] </br>
 *4600 Internet Archive videos*
 
+* **TVR**: A Large-Scale Dataset for Video-Subtitle Moment Retrieval (ECCV 2020) </br>
+[[Paper](https://arxiv.org/abs/2001.09099)][[Homepage](https://tvr.cs.unc.edu/)] </br>
+*108,965 queries on 21,793 videos from 6 TV shows of diverse genres, where each query is associated with a tight temporal alignment*
 
 ## Single Object Tracking
 * **Lingual OTB99 & Lingual ImageNet Videos**: Tracking by Natural Language Specification (CVPR 2017) </br>
@@ -601,6 +616,10 @@ nouns, 53 verbs and 23 adjectives*
 * **Action Genome**: Actions as Compositions of Spatio-temporal Scene Graphs (CVPR 2020) </br> 
 [[Paper](https://arxiv.org/pdf/1912.06992.pdf)][[Homepage](https://www.actiongenome.org/)]</br>
 *10K videos, 0.4M objects, 1.7M visual relationships*
+
+* **VidSitu**: Visual Semantic Role Labeling for Video Understanding (CVPR 2021) </br>
+[[Paper](https://arxiv.org/pdf/2104.00990.pdf)][[Homepage](https://vidsitu.org/)] </br>
+*29K 10-second movie clips richly annotated with a verb and semantic-roles every 2 seconds*
 
 ## Anomaly Detection
 * **XD-Violence**: Not only Look, but also Listen: Learning Multimodal Violence Detection under Weak Supervision (ECCV 2020) </br>
