@@ -476,6 +476,18 @@ nouns, 53 verbs and 23 adjectives*
 [[Paper](https://www.robots.ox.ac.uk/~vgg/publications/2016/Chung16/chung16.pdf)][[Homepage](https://www.robots.ox.ac.uk/~vgg/data/lip_reading/lrw1.html)] </br>
 *1000 utterances of 500 different words*
 
+* **LRW-1000**: LRW-1000: A naturally-distributed large-scale benchmark for lip reading in the wild (FG 2019) </br>
+[[Paper](https://arxiv.org/abs/1810.06990)][[Homepage](http://vipl.ict.ac.cn/view_database.php?id=14)] </br>
+*718018 video samples from 2000+ individual speakers of 1000 Mandarin words*
+
+* **LRS2**: Deep Audio-Visual Speech Recognition (TPAMI 2018) </br>
+[[Paper](https://arxiv.org/abs/1809.02108)][[Homepage](https://www.robots.ox.ac.uk/~vgg/data/lip_reading_sentences/)] </br>
+*Thousands of natural sentences from British television*
+
+* **CMLR**: A Cascade Sequence-to-Sequence Model for Chinese Mandarin Lip Reading (ACM MM Asia 2019) </br>
+[[Paper](https://arxiv.org/abs/1908.04917)][[Homepage](https://www.vipazoo.cn/CMLR.html)] </br>
+*102072 spoken sentences of 11 speakers from national news program in China (CCTV)*
+
 * **Countix-AV & Extreme Countix-AV**: Repetitive Activity Counting by Sight and Sound (CVPR 2021) </br>
 [[Paper](https://arxiv.org/pdf/2103.13096.pdf)][[Homepage](https://github.com/xiaobai1217/RepetitionCounting)] </br>
 *1,863 videos in Countix-AV, 214 videos in Extreme Countix-AV*
