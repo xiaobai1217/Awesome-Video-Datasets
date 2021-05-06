@@ -19,6 +19,7 @@
  - [Repetition Counting](#Repetition-Counting)
  - [Audiovisual Learning](#Audiovisual-Learning)
  - [Video Indexing](#Video-Indexing)
+ - [Skill Determination](#Skill-Determination)
  - [Video Retrieval](#Video-Retrieval)
  - [Single Object Tracking](#Single-Object-Tracking)
  - [Multiple Objects Tracking](#Multiple-Objects-Tracking)
@@ -27,6 +28,7 @@
  - [Pose Estimation](#Pose-Estimation)
  - [Dynamic Texture Classification](#Dynamic-Texture-Classification)
  - [Physics](#Physics)
+
 
 ## Action Recognition
 
@@ -480,11 +482,32 @@ nouns, 53 verbs and 23 adjectives*
 [[Paper](https://isis-data.science.uva.nl/cgmsnoek/pub/snoek-challenge-acm2006.pdf)][[Homepage](https://ivi.fnwi.uva.nl/isis/mediamill/challenge/)] </br>
 *manually annotated concept lexicon*
 
+## Skill Determination
+
+* **EPIC-Skills**: Who's Better? Who's Best? Pairwise Deep Ranking for Skill Determination </br>
+[[Paper](https://arxiv.org/abs/1703.09913)][[Homepage](https://github.com/hazeld/EPIC-Skills2018)] </br>
+*3 tasks, 113 videos, 1000 pairwise ranking annotations*
+
+* **BEST**: The Pros and Cons: Rank-aware Temporal Attention for Skill Determination in Long Videos </br>
+[[Paper](https://arxiv.org/abs/1812.05538)][[Homepage](https://github.com/hazeld/rank-aware-attention-network)] </br>
+*5 tasks, 500 videos, 13000 pairwise ranking annotations*
+
 ## Video Retrieval
 
-* **TRECVID**: TREC Video Retrieval Evaluation </br>
+* **TRECVID Challenge**: TREC Video Retrieval Evaluation </br>
 [[Homepage](https://trecvid.nist.gov/)] </br>
 *sources: YFCC100M, Flickr, etc*
+
+* **Video Browser Showdown** – The Video Retrieval Competition </br>
+[[Homepage](https://videobrowsershowdown.org/)]
+
+* **V3C** - A Research Video Collection </br>
+[[Paper](https://link.springer.com/content/pdf/10.1007%2F978-3-030-05710-7_29.pdf)][[Homepage](https://sites.google.com/view/viral2019/home/supported-datasets)] </br>
+*7475 Vimeo videos, 1,082,657 short video segments*
+
+* **IACC**: Creating a web-scale video collection for research </br>
+[[Paper](https://dl.acm.org/doi/pdf/10.1145/1631135.1631141)][[Homepage](https://sites.google.com/view/viral2019/home/supported-datasets)] </br>
+*4600 Internet Archive videos*
 
 * **EPIC-KITCHENS**: Scaling Egocentric Vision: The EPIC-KITCHENS Dataset</br> 
 [[Paper](https://arxiv.org/abs/2006.13256)][[Homepage](https://epic-kitchens.github.io/2021)]</br>
