@@ -167,8 +167,8 @@ hierarchies and action splits for unseen action search*
 *112 people, 4000 paired videos, 157 action classes*
 
 * **EPIC-KITCHENS**: Scaling Egocentric Vision: The EPIC-KITCHENS Dataset</br> 
-[[Paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Dima_Damen_Scaling_Egocentric_Vision_ECCV_2018_paper.pdf)][[Homepage](https://epic-kitchens.github.io/2021)]</br>
-*32 participants, 11.5M frames, 39.6K action segments, 454.3K object bounding boxes, 149 action classes, 323 object classes*
+[[Paper](https://arxiv.org/abs/2006.13256)][[Homepage](https://epic-kitchens.github.io/2021)]</br>
+*100 hours, 37 participants, 29M frames, 90K action segments, 700 variable length videos, 97 verb classes, 300 noun classes, 4053 action classes*
 
 * **HOMAGE**: Home Action Genome: Cooperative Compositional Action Understanding (CVPR 2021) </br> 
 [[Paper]()][[Homepage](https://homeactiongenome.org/)]</br> 
