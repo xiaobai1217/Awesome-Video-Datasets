@@ -85,9 +85,9 @@
 [[Paper](https://arxiv.org/abs/1706.04261)][[Homepage](https://20bn.com/datasets/something-something)]</br>
 *100,000 videos across 174 classes*
 
-* **EPIC-KITCHENS**: Scaling Egocentric Vision: The EPIC-KITCHENS Dataset</br> 
+* **EPIC-KITCHENS**: Scaling Egocentric Vision: The EPIC-KITCHENS Dataset (ECCV 2018, extended into TPAMI 2020)</br> 
 [[Paper](https://arxiv.org/abs/2006.13256)][[Homepage](https://epic-kitchens.github.io/2021)]</br>
-*100 hours, 37 participants, 29M frames, 90K action segments, 700 variable length videos, 97 verb classes, 300 noun classes, 4053 action classes*
+*100 hours, 37 participants, 20M frames, 90K action segments, 700 variable length videos, 97 verb classes, 300 noun classes, 4053 action classes*
 
 * **HOMAGE**: Home Action Genome: Cooperative Compositional Action Understanding (CVPR 2021) </br> 
 [[Paper]()][[Homepage](https://homeactiongenome.org/)]</br> 
@@ -168,9 +168,9 @@ hierarchies and action splits for unseen action search*
 [[Paper](https://arxiv.org/pdf/1804.09627.pdf)][[Homepage](https://prior.allenai.org/projects/charades-ego)]</br>
 *112 people, 4000 paired videos, 157 action classes*
 
-* **EPIC-KITCHENS**: Scaling Egocentric Vision: The EPIC-KITCHENS Dataset</br> 
+* **EPIC-KITCHENS**: Scaling Egocentric Vision: The EPIC-KITCHENS Dataset (ECCV 2018, extended into TPAMI 2020)</br> 
 [[Paper](https://arxiv.org/abs/2006.13256)][[Homepage](https://epic-kitchens.github.io/2021)]</br>
-*100 hours, 37 participants, 29M frames, 90K action segments, 700 variable length videos, 97 verb classes, 300 noun classes, 4053 action classes*
+*100 hours, 37 participants, 20M frames, 90K action segments, 700 variable length videos, 97 verb classes, 300 noun classes, 4053 action classes*
 
 * **HOMAGE**: Home Action Genome: Cooperative Compositional Action Understanding (CVPR 2021) </br> 
 [[Paper]()][[Homepage](https://homeactiongenome.org/)]</br> 
@@ -373,6 +373,10 @@ car and Repotting a plant*
 [[Paper](https://openaccess.thecvf.com/content_cvpr_2014/papers/Kuehne_The_Language_of_2014_CVPR_paper.pdf)][[Homepage](https://serre-lab.clps.brown.edu/resource/breakfast-actions-dataset/)]</br>
 *52 participants, 10 distinct cooking activities captured in 18 different kitchens, 48 action classes, 11,267 clips*
 
+* **EPIC-KITCHENS**: Scaling Egocentric Vision: The EPIC-KITCHENS Dataset (ECCV 2018, extended into TPAMI 2020)</br> 
+[[Paper](https://arxiv.org/abs/2006.13256)][[Homepage](https://epic-kitchens.github.io/2021)]</br>
+*100 hours, 37 participants, 20M frames, 90K action segments, 700 variable length videos, 97 verb classes, 300 noun classes, 4053 action classes*
+
 * **YouCook2**: YouCookII Dataset </br>
 [[Paper](http://youcook2.eecs.umich.edu/static/YouCookII/youcookii_readme.pdf)][[Homepage](http://youcook2.eecs.umich.edu/)] </br>
 *2000 long untrimmed videos, 89 cooking recipes, each recipe includes 5 to 16 steps, each step should be described with one sentence*
@@ -407,6 +411,10 @@ nouns, 53 verbs and 23 adjectives*
 * **Kinetics-Sound**: Look, Listen and Learn (ICCV 2017) </br>
 [[Paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/Arandjelovic_Look_Listen_and_ICCV_2017_paper.pdf)] </br>
 *34 action classes from Kinetics*
+
+* **EPIC-KITCHENS**: Scaling Egocentric Vision: The EPIC-KITCHENS Dataset (ECCV 2018, extended into TPAMI 2020)</br> 
+[[Paper](https://arxiv.org/abs/2006.13256)][[Homepage](https://epic-kitchens.github.io/2021)]</br>
+*100 hours, 37 participants, 20M frames, 90K action segments, 700 variable length videos, 97 verb classes, 300 noun classes, 4053 action classes*
 
 * **SoundNet**: Learning Sound Representations from Unlabeled Video (NIPS 2016) </br>
 [[Paper](https://arxiv.org/pdf/1610.09001.pdf)][[Homepage](http://soundnet.csail.mit.edu/)]</br>
@@ -513,9 +521,6 @@ nouns, 53 verbs and 23 adjectives*
 [[Paper](https://dl.acm.org/doi/pdf/10.1145/1631135.1631141)][[Homepage](https://sites.google.com/view/viral2019/home/supported-datasets)] </br>
 *4600 Internet Archive videos*
 
-* **EPIC-KITCHENS**: Scaling Egocentric Vision: The EPIC-KITCHENS Dataset</br> 
-[[Paper](https://arxiv.org/abs/2006.13256)][[Homepage](https://epic-kitchens.github.io/2021)]</br>
-*100 hours, 37 participants, 29M frames, 90K action segments, 700 variable length videos, 97 verb classes, 300 noun classes, 4053 action classes*
 
 ## Single Object Tracking
 * **Lingual OTB99 & Lingual ImageNet Videos**: Tracking by Natural Language Specification (CVPR 2017) </br>
