@@ -309,6 +309,10 @@ K tags of cinematic style*
 [[Paper](https://arxiv.org/pdf/2012.09434.pdf)][[Homepage](https://songbai.site/muses/)]</br>
 *31,477 event instances, 716 video hours, 19 shots per instance, 176 shots per video, 25 categories, 3,697 videos*
 
+* **MEVA**: A Large-Scale Multiview, Multimodal Video Dataset for Activity (WACV 2021) </br>
+[[Paper](https://arxiv.org/pdf/2012.00914.pdf)][[Homepage](https://mevadata.org/)] </br>
+*annotated 144 hours for 37 activity types, marking bounding boxes of actors and props, 38 RGB and thermal IR cameras*
+
 * **TVSeries**: Online Action Detection (ECCV 2016) </br>
 [[Paper](https://arxiv.org/pdf/1604.06506.pdf)][[Homepage](https://homes.esat.kuleuven.be/psi-archive/rdegeest/TVSeries.html)] </br>
 *27 episodes from 6 popular TV series, 30 action classes, 6,231 action instances*
