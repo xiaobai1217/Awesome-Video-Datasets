@@ -484,21 +484,19 @@ nouns, 53 verbs and 23 adjectives*
 [[Paper](https://www.robots.ox.ac.uk/~vgg/publications/2016/Chung16/chung16.pdf)][[Homepage](https://www.robots.ox.ac.uk/~vgg/data/lip_reading/lrw1.html)] </br>
 *1000 utterances of 500 different words*
 
-* **LRW-1000**: A Naturally-Distributed Large-Scale Benchmark for Lip Reading in the Wild (IEEE FG 2019) </br>
-[[Paper](https://arxiv.org/abs/1810.06990)][[Homepage](https://vipl.ict.ac.cn/en/view_database.php?id=13)] </br>
-*>1,000,000 Chinese character instances, 718,018 samples with an average of 718 samples for each class, 1000 classes, with each class corresponds to the syllables of a Mandarin word, ~2000  different speakers with a large coverage over speech modes, including speech rate, viewpoint, age, gender and make-up and so on*
 
-* **LRS2**: Lip Reading Sentences in the Wild (CVPR 2017) </br>
-[[Paper](https://www.robots.ox.ac.uk/~vgg/publications/2017/Chung17/chung17.pdf)][[Homepage](https://www.robots.ox.ac.uk/~vgg/data/lip_reading/lrs2.html)] </br>
-*thousands of spoken sentences from BBC television, each sentences is up to 100 characters in length*
+* **LRW-1000**: LRW-1000: A naturally-distributed large-scale benchmark for lip reading in the wild (FG 2019) </br>
+[[Paper](https://arxiv.org/abs/1810.06990)][[Homepage](http://vipl.ict.ac.cn/view_database.php?id=14)] </br>
+*718018 video samples from 2000+ individual speakers of 1000 Mandarin words*
 
-* **LRS3-TED**: a large-scale dataset for visual speech recognition </br>
-[[Paper](https://arxiv.org/pdf/1809.00496.pdf)][[Homepage](https://www.robots.ox.ac.uk/~vgg/data/lip_reading/lrs3.html)] </br>
-*thousands of spoken sentences from TED and TEDx videos*
+* **LRS2**: Deep Audio-Visual Speech Recognition (TPAMI 2018) </br>
+[[Paper](https://arxiv.org/abs/1809.02108)][[Homepage](https://www.robots.ox.ac.uk/~vgg/data/lip_reading_sentences/)] </br>
+*Thousands of natural sentences from British television*
 
-* **CMLR**: A Cascade Sequence-to-Sequence Model for Chinese Mandarin Lip Reading </br>
-[[Paper](https://arxiv.org/pdf/1908.04917.pdf)][[Homepage](https://arxiv.org/pdf/1908.04917.pdf)] </br>
-*102,072 spoken sentences from 11 speakers*
+* **CMLR**: A Cascade Sequence-to-Sequence Model for Chinese Mandarin Lip Reading (ACM MM Asia 2019) </br>
+[[Paper](https://arxiv.org/abs/1908.04917)][[Homepage](https://www.vipazoo.cn/CMLR.html)] </br>
+*102072 spoken sentences of 11 speakers from national news program in China (CCTV)*
+
 
 * **Countix-AV & Extreme Countix-AV**: Repetitive Activity Counting by Sight and Sound (CVPR 2021) </br>
 [[Paper](https://arxiv.org/pdf/2103.13096.pdf)][[Homepage](https://github.com/xiaobai1217/RepetitionCounting)] </br>
