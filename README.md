@@ -101,9 +101,9 @@
 [[Paper](https://arxiv.org/pdf/2007.15781.pdf)][[Homepage](https://sites.google.com/view/lemma-activity)]</br>
 *RGB-D, 641 action classes, 11,781 action segments, 4.6M frames*
 
-* **NTU RGB+D**: A Large Scale Dataset for 3D Human Activity Analysis (CVPR 2016) </br>
+* **NTU RGB+D**: A Large Scale Dataset for 3D Human Activity Analysis (CVPR 2016, TPAMI 2019) </br>
 [[Paper](https://arxiv.org/abs/1604.02808)][[Homepage](http://rose1.ntu.edu.sg/Datasets/actionRecognition.asp)] </br>
-*56 thousand video samples and 4 million frames, collected from 40 distinct subjects, 60 action classes*
+*106 distinct subjects and contains more than 114 thousand video samples and 8 million frames, 120 action classes*
 
 * **Action Genome**: Actions as Compositions of Spatio-temporal Scene Graphs (CVPR 2020) </br> 
 [[Paper](https://arxiv.org/pdf/1912.06992.pdf)][[Homepage](https://www.actiongenome.org/)]</br>
