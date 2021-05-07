@@ -1,7 +1,7 @@
 # Awesome-Video-Datasets
 
 * Contributions are most welcome, if you have any suggestions or improvements, please create an issue or raise a pull request. 
-* Our group website: [VIS Lab](https://ivi.fnwi.uva.nl/vislab/), University of Amsterdam. 
+* Our group website: **[VIS Lab](https://ivi.fnwi.uva.nl/vislab/)**, University of Amsterdam. 
 
 ## Contents
  - [Action Recognition](#Action-Recognition)
@@ -100,6 +100,10 @@
 * **LEMMA**: A Multi-view Dataset for LEarning Multi-agent Multi-task Activities (ECCV 2020) </br> 
 [[Paper](https://arxiv.org/pdf/2007.15781.pdf)][[Homepage](https://sites.google.com/view/lemma-activity)]</br>
 *RGB-D, 641 action classes, 11,781 action segments, 4.6M frames*
+
+* **NTU RGB+D**: A Large Scale Dataset for 3D Human Activity Analysis (CVPR 2016, TPAMI 2019) </br>
+[[Paper](https://arxiv.org/abs/1604.02808)][[Homepage](http://rose1.ntu.edu.sg/Datasets/actionRecognition.asp)] </br>
+*106 distinct subjects and contains more than 114 thousand video samples and 8 million frames, 120 action classes*
 
 * **Action Genome**: Actions as Compositions of Spatio-temporal Scene Graphs (CVPR 2020) </br> 
 [[Paper](https://arxiv.org/pdf/1912.06992.pdf)][[Homepage](https://www.actiongenome.org/)]</br>
@@ -309,6 +313,10 @@ K tags of cinematic style*
 [[Paper](https://arxiv.org/pdf/2012.09434.pdf)][[Homepage](https://songbai.site/muses/)]</br>
 *31,477 event instances, 716 video hours, 19 shots per instance, 176 shots per video, 25 categories, 3,697 videos*
 
+* **MEVA**: A Large-Scale Multiview, Multimodal Video Dataset for Activity (WACV 2021) </br>
+[[Paper](https://arxiv.org/pdf/2012.00914.pdf)][[Homepage](https://mevadata.org/)] </br>
+*annotated 144 hours for 37 activity types, marking bounding boxes of actors and props, 38 RGB and thermal IR cameras*
+
 * **TVSeries**: Online Action Detection (ECCV 2016) </br>
 [[Paper](https://arxiv.org/pdf/1604.06506.pdf)][[Homepage](https://homes.esat.kuleuven.be/psi-archive/rdegeest/TVSeries.html)] </br>
 *27 episodes from 6 popular TV series, 30 action classes, 6,231 action instances*
@@ -476,6 +484,7 @@ nouns, 53 verbs and 23 adjectives*
 [[Paper](https://www.robots.ox.ac.uk/~vgg/publications/2016/Chung16/chung16.pdf)][[Homepage](https://www.robots.ox.ac.uk/~vgg/data/lip_reading/lrw1.html)] </br>
 *1000 utterances of 500 different words*
 
+
 * **LRW-1000**: LRW-1000: A naturally-distributed large-scale benchmark for lip reading in the wild (FG 2019) </br>
 [[Paper](https://arxiv.org/abs/1810.06990)][[Homepage](http://vipl.ict.ac.cn/view_database.php?id=14)] </br>
 *718018 video samples from 2000+ individual speakers of 1000 Mandarin words*
@@ -487,6 +496,7 @@ nouns, 53 verbs and 23 adjectives*
 * **CMLR**: A Cascade Sequence-to-Sequence Model for Chinese Mandarin Lip Reading (ACM MM Asia 2019) </br>
 [[Paper](https://arxiv.org/abs/1908.04917)][[Homepage](https://www.vipazoo.cn/CMLR.html)] </br>
 *102072 spoken sentences of 11 speakers from national news program in China (CCTV)*
+
 
 * **Countix-AV & Extreme Countix-AV**: Repetitive Activity Counting by Sight and Sound (CVPR 2021) </br>
 [[Paper](https://arxiv.org/pdf/2103.13096.pdf)][[Homepage](https://github.com/xiaobai1217/RepetitionCounting)] </br>
@@ -520,11 +530,11 @@ nouns, 53 verbs and 23 adjectives*
 
 ## Skill Determination
 
-* **EPIC-Skills**: Who's Better? Who's Best? Pairwise Deep Ranking for Skill Determination </br>
+* **EPIC-Skills**: Who's Better? Who's Best? Pairwise Deep Ranking for Skill Determination (CVPR 2018) </br>
 [[Paper](https://arxiv.org/abs/1703.09913)][[Homepage](https://github.com/hazeld/EPIC-Skills2018)] </br>
 *3 tasks, 113 videos, 1000 pairwise ranking annotations*
 
-* **BEST**: The Pros and Cons: Rank-aware Temporal Attention for Skill Determination in Long Videos </br>
+* **BEST**: The Pros and Cons: Rank-aware Temporal Attention for Skill Determination in Long Videos (CVPR 2019) </br>
 [[Paper](https://arxiv.org/abs/1812.05538)][[Homepage](https://github.com/hazeld/rank-aware-attention-network)] </br>
 *5 tasks, 500 videos, 13000 pairwise ranking annotations*
 
