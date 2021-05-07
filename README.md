@@ -237,6 +237,10 @@ hierarchies and action splits for unseen action search*
 [[Paper](http://www.irisa.fr/vista/Papers/2009_cvpr_marszalek.pdf)][[Homepage](https://www.di.ens.fr/~laptev/actions/hollywood2/)]</br>
 *12 classes of human actions, 10 classes of scenes, 3,669 clips, 69 movies*
 
+* **HLVU**: A New Challenge to Test Deep Understanding of Movies the Way Humans do </br>
+[[Paper](https://dl.acm.org/doi/abs/10.1145/3372278.3390742)][[Homepage](https://drive.google.com/drive/u/1/folders/1q1Ca0aFJrF9tB8hsw-mrI9d4tzy5wlPZ)] </br>
+*10 movies from Romance, Drama, Fantasy, Adventure, Comedy*
+
 * **MPII-MD**: A Dataset for Movie Description </br>
 [[Paper](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Rohrbach_A_Dataset_for_2015_CVPR_paper.pdf)][[Homepage](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/research/vision-and-language/mpii-movie-description-dataset/)] </br>
 *94 videos, 68,337 clips, 68,375 descriptions*
