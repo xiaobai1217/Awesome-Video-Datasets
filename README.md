@@ -151,6 +151,10 @@ hierarchies and action splits for unseen action search*
 [[Paper](https://arxiv.org/pdf/1903.02874.pdf)][[Homepage](https://coin-dataset.github.io/)] </br>
 *11,827 videos, 180 tasks, 12 domains, 46,354 annotated segments*
 
+* **VideoLT**: Large-scale Long-tailed Video Recognition </br>
+[[Paper](https://arxiv.org/pdf/2105.02668.pdf)][[Homepage]()] </br>
+*256,218 untrimmed videos, annotated into 1,004 classes with a long-tailed distribution*
+
 * **Youtube-8M**: A Large-Scale Video Classification Benchmark </br>
 [[Paper](https://arxiv.org/pdf/1609.08675.pdf)][[Homepage](https://research.google.com/youtube8m/index.html)]</br>
 *8,000,000 videos, 4000 visual entities*
