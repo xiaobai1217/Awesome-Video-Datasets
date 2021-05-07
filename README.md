@@ -553,6 +553,14 @@ nouns, 53 verbs and 23 adjectives*
 * **Video Browser Showdown** – The Video Retrieval Competition </br>
 [[Homepage](https://videobrowsershowdown.org/)]
 
+* **TRECVID-VTT**: TRECVID 2019: An Evaluation Campaign to Benchmark Video Activity Detection, Video Captioning and Matching, and Video Search & Retrieval </br>
+[[Paper](https://arxiv.org/abs/2009.09984)][[Homepage](https://ir.nist.gov/tv_vtt_data/)] </br>
+*9185 videos with captions*
+
+* **HLVU**: A New Challenge to Test Deep Understanding of Movies the Way Humans do </br>
+[[Paper](https://dl.acm.org/doi/abs/10.1145/3372278.3390742)][[Homepage](https://drive.google.com/drive/u/1/folders/1q1Ca0aFJrF9tB8hsw-mrI9d4tzy5wlPZ)] </br>
+*10 movies from Romance, Drama, Fantasy, Adventure, Comedy*
+
 * **V3C** - A Research Video Collection </br>
 [[Paper](https://link.springer.com/content/pdf/10.1007%2F978-3-030-05710-7_29.pdf)][[Homepage](https://sites.google.com/view/viral2019/home/supported-datasets)] </br>
 *7475 Vimeo videos, 1,082,657 short video segments*
