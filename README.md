@@ -516,11 +516,11 @@ nouns, 53 verbs and 23 adjectives*
 
 ## Skill Determination
 
-* **EPIC-Skills**: Who's Better? Who's Best? Pairwise Deep Ranking for Skill Determination </br>
+* **EPIC-Skills**: Who's Better? Who's Best? Pairwise Deep Ranking for Skill Determination (CVPR 2018) </br>
 [[Paper](https://arxiv.org/abs/1703.09913)][[Homepage](https://github.com/hazeld/EPIC-Skills2018)] </br>
 *3 tasks, 113 videos, 1000 pairwise ranking annotations*
 
-* **BEST**: The Pros and Cons: Rank-aware Temporal Attention for Skill Determination in Long Videos </br>
+* **BEST**: The Pros and Cons: Rank-aware Temporal Attention for Skill Determination in Long Videos (CVPR 2019) </br>
 [[Paper](https://arxiv.org/abs/1812.05538)][[Homepage](https://github.com/hazeld/rank-aware-attention-network)] </br>
 *5 tasks, 500 videos, 13000 pairwise ranking annotations*
 
