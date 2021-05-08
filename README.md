@@ -197,6 +197,10 @@ hierarchies and action splits for unseen action search*
 [[Paper](https://arxiv.org/pdf/2104.04691.pdf)][[Homepage]()] </br>
 *1200 videos, 108k frames, 12.29 objects per video*
 
+* **VSPW**: A Large-scale Dataset for Video Scene Parsing in the Wild (CVPR 2021) </br>
+[[Paper](https://yu-wu.net/pdf/CVPR21-vspw.pdf)][[Homepage](https://www.vspwdataset.com/)] </br>
+*3,536 videos, 251,632 pixel-level labeled frames, 124 categories, pixel-level annotations are provided at 15 f/s, a complete shot lasting 5 seconds on average*
+
 ## Object Detection
 * **ImageNet VID** </br>
 [[Paper](https://link.springer.com/article/10.1007/s11263-015-0816-y?sa_campaign=email/event/articleAuthor/onlineFirst#)][[Homepage](https://image-net.org/challenges/LSVRC/2017/#vid)] </br>
