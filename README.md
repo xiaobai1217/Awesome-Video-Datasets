@@ -143,7 +143,7 @@
 
 * **Hierarchical Action Search**: Searching for Actions on the Hyperbole (CVPR 2020) </br>
 [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Long_Searching_for_Actions_on_the_Hyperbole_CVPR_2020_paper.pdf)][[Homepage](https://github.com/Tenglon/hyperbolic_action)] </br>
-*Hierarchical-ActivityNet, Hierarchical-Kinetics, and Hierarchical-Moments from ActivityNeg, mini-Kinetics, and Moments-in-time; provide action
+*Hierarchical-ActivityNet, Hierarchical-Kinetics, and Hierarchical-Moments from ActivityNet, mini-Kinetics, and Moments-in-time; provide action
 hierarchies and action splits for unseen action search*
 
 ## Video Classification
