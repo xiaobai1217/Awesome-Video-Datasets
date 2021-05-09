@@ -214,6 +214,10 @@ hierarchies and action splits for unseen action search*
 [[Paper](https://arxiv.org/pdf/2012.09988.pdf)][[Homepage](https://github.com/google-research-datasets/Objectron/)] </br>
 *15K annotated video clips supplemented with over 4M annotated images in the following categories: bikes, books, bottles, cameras, cereal boxes, chairs, cups, laptops, and shoes, manually annotated 3D bounding boxes for each object*
 
+* **DroneCrowd**: Detection, Tracking, and Counting Meets Drones in Crowds: A Benchmark (CVPR 2021) </br>
+[[Paper](https://arxiv.org/pdf/2105.02440.pdf)][[Homepage](https://github.com/VisDrone/DroneCrowd)] </br>
+*112 video clips with 33,600 HD frames in various scenarios, 20,800 people trajectories with 4.8 million heads and several video-level attributes*
+
 * **Water** detection through spatio-temporal invariant descriptors </br>
 [[Paper](https://reader.elsevier.com/reader/sd/pii/S1077314216300273?token=15C6210A029F5035AAA3E48B5EB4390911C8EE0BC8175787833DDB8CC63687EEBAFDA2275BAAD2F95ABC94F6E0EFDACB&originRegion=eu-west-1&originCreation=20210505160917)][[Dataset](http://isis-data.science.uva.nl/mettes/VideoWaterDatabase.tar.gz)] </br>
 *260 videos*
@@ -569,7 +573,6 @@ nouns, 53 verbs and 23 adjectives*
 [[Paper](https://arxiv.org/abs/2009.09984)][[Homepage](https://ir.nist.gov/tv_vtt_data/)] </br>
 *9185 videos with captions*
 
-
 * **V3C** - A Research Video Collection </br>
 [[Paper](https://link.springer.com/content/pdf/10.1007%2F978-3-030-05710-7_29.pdf)][[Homepage](https://sites.google.com/view/viral2019/home/supported-datasets)] </br>
 *7475 Vimeo videos, 1,082,657 short video segments*
@@ -640,6 +643,10 @@ nouns, 53 verbs and 23 adjectives*
 * **BDD100K**: A Diverse Driving Dataset for Heterogeneous Multitask Learning (CVPR 2020) </br>
 [[Paper](https://arxiv.org/pdf/1805.04687.pdf)][[Homepage](https://www.bdd100k.com/)] </br>
 *100K videos and 10 tasks*
+
+* **DroneCrowd**: Detection, Tracking, and Counting Meets Drones in Crowds: A Benchmark (CVPR 2021) </br>
+[[Paper](https://arxiv.org/pdf/2105.02440.pdf)][[Homepage](https://github.com/VisDrone/DroneCrowd)] </br>
+*112 video clips with 33,600 HD frames in various scenarios, 20,800 people trajectories with 4.8 million heads and several video-level attributes*
 
 ## Video Relation Detection
 * **KIEV**: Interactivity Proposals for Surveillance Videos </br>
