@@ -366,6 +366,11 @@ K tags of cinematic style*
 [[Paper](https://arxiv.org/pdf/1608.07068.pdf)][[Homepage](http://aliensunmin.github.io/project/video-language/index.html#VideoTitle)] </br>
 *18100 video clips with an average of 1.5 minutes duration per clip*
 
+* **TGIF**: A New Dataset and Benchmark on Animated GIF Description (CVPR 2016) </br>
+[[Paper](https://arxiv.org/abs/1604.02748)][[Homepage](http://raingo.github.io/TGIF-Release/)] </br>
+*100K animated GIFs from Tumblr and 120K natural language descriptions*
+
+
 * **Charades**: Hollywood in Homes: Crowdsourcing Data Collection for Activity Understanding (ECCV 2016)</br> 
 [[Paper](http://ai2-website.s3.amazonaws.com/publications/hollywood-homes.pdf)][[Homepage](https://prior.allenai.org/projects/charades)]</br>
 *9,848 annotated videos, 267 people, 27,847 video descriptions, 66,500 temporally localized intervals for 157 action classes and
