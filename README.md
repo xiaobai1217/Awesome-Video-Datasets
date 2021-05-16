@@ -181,7 +181,7 @@ hierarchies and action splits for unseen action search*
 *100 hours, 37 participants, 20M frames, 90K action segments, 700 variable length videos, 97 verb classes, 300 noun classes, 4053 action classes*
 
 * **HOMAGE**: Home Action Genome: Cooperative Compositional Action Understanding (CVPR 2021) </br> 
-[[Paper]()][[Homepage](https://homeactiongenome.org/)]</br> 
+[[Paper](https://arxiv.org/abs/2105.05226)][[Homepage](https://homeactiongenome.org/)]</br> 
 *27 participants, 12 sensor types, 75 activities, 453 atomic actions, 1,752 synchronized sequences, 86 object classes, 29 relationship classes, 497,534 bounding boxes, 583,481 relationships*
 
 ## Video Object Segmentation
@@ -425,6 +425,7 @@ car and Repotting a plant*
 * **CrossTask**: weakly supervised learning from instructional videos (CVPR 2019) </br>
 [[Paper](https://arxiv.org/abs/1903.08225)][[Homepage](https://github.com/DmZhukov/CrossTask)] </br>
 *4.7K videos, 83 tasks*
+
 
 ## Action Segmentation
 * **A2D**: Can Humans Fly? Action Understanding with Multiple Classes of Actors (CVPR 2015) </br>
