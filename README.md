@@ -171,6 +171,10 @@ hierarchies and action splits for unseen action search*
 [[Paper](https://arxiv.org/abs/2001.05488)][[Homepage](https://github.com/google-research-datasets/eev)]</br>
 *Each video is annotated at 6 Hz with 15 continuous evoked expression labels, 36.7 million annotations of viewer facial reactions to 23,574 videos (1,700 hours)*
 
+* **OmniSource Web Dataset**: Omni-sourced Webly-supervised Learning for Video Recognition (ECCV 2020) </br>
+[[Paper](https://arxiv.org/pdf/2003.13042.pdf)][[Dataset](https://docs.google.com/forms/d/e/1FAIpQLSd8_GlmHzG8FcDbW-OEu__G7qLgOSYZpH-i5vYVJcu7wcb_TQ/viewform)] </br>
+*web data related to the 200 classes in Mini-Kinetics subset, 732,855 instagram videos, 365,4650 instagram images, 3,050,880 google images*
+
 ## Egocentric View
 * **Charades-Ego**: Actor and Observer: Joint Modeling of First and Third-Person Videos (CVPR 2018) </br> 
 [[Paper](https://arxiv.org/pdf/1804.09627.pdf)][[Homepage](https://prior.allenai.org/projects/charades-ego)]</br>
