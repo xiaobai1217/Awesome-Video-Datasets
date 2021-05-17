@@ -406,6 +406,10 @@ car and Repotting a plant*
 [[Paper](https://arxiv.org/pdf/1811.00347.pdf)][[Homepage](https://github.com/srvk/how2-dataset)] </br>
 *80,000 clips, word-level time alignments to the ground-truth English subtitles*
 
+* **R2VQ**: Recipe-to-Video Questions </br>
+[[Paper]()][[Homepage](https://r2vq.org/)]</br>
+
+
 * **Breakfast**: The Language of Actions: Recovering the Syntax and Semantics of Goal-Directed Human Activities </br> 
 [[Paper](https://openaccess.thecvf.com/content_cvpr_2014/papers/Kuehne_The_Language_of_2014_CVPR_paper.pdf)][[Homepage](https://serre-lab.clps.brown.edu/resource/breakfast-actions-dataset/)]</br>
 *52 participants, 10 distinct cooking activities captured in 18 different kitchens, 48 action classes, 11,267 clips*
