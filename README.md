@@ -15,6 +15,7 @@
  - [360 Videos](#360-Videos)
  - [Activity Localization](#Activity-Localization)
  - [Video and Language](#Video-and-Language)
+ - [Video Question Answering](#Video-Question-Answering)
  - [Action Segmentation](#Action-Segmentation)
  - [Repetition Counting](#Repetition-Counting)
  - [Audiovisual Learning](#Audiovisual-Learning)
@@ -144,6 +145,10 @@
 * **TinyVIRAT**: Low-resolution Video Action Recognition </br>
 [[Paper](https://www.crcv.ucf.edu/wp-content/uploads/2020/07/Publications_TinyVIRAT.pdf)][[Homepage](https://www.crcv.ucf.edu/research/projects/tinyvirat-low-resolution-video-action-recognition/)] </br>
 *12,829 low-resolution videos, 26 classes, multi-label classification*
+
+* **UAV-Human**: A Large Benchmark for Human Behavior Understanding with Unmanned Aerial Vehicles </br>
+[[Paper](https://arxiv.org/abs/2104.00946)][[Homepage](https://github.com/SUTDCV/UAV-Human)] </br>
+*67,428 multi-modal video sequences and 119 subjects for action recognition, 22,476 frames for pose estimation, 41,290 frames and 1,144 identities for person re-identification, and 22,263 frames for attribute recognition*
 
 * **Hierarchical Action Search**: Searching for Actions on the Hyperbole (CVPR 2020) </br>
 [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Long_Searching_for_Actions_on_the_Hyperbole_CVPR_2020_paper.pdf)][[Homepage](https://github.com/Tenglon/hyperbolic_action)] </br>
@@ -410,8 +415,7 @@ car and Repotting a plant*
 [[Paper](https://arxiv.org/pdf/1811.00347.pdf)][[Homepage](https://github.com/srvk/how2-dataset)] </br>
 *80,000 clips, word-level time alignments to the ground-truth English subtitles*
 
-* **R2VQ**: Recipe-to-Video Questions </br>
-[[Paper]()][[Homepage](https://r2vq.org/)]</br>
+
 
 
 * **Breakfast**: The Language of Actions: Recovering the Syntax and Semantics of Goal-Directed Human Activities </br> 
@@ -437,6 +441,14 @@ car and Repotting a plant*
 * **CrossTask**: weakly supervised learning from instructional videos (CVPR 2019) </br>
 [[Paper](https://arxiv.org/abs/1903.08225)][[Homepage](https://github.com/DmZhukov/CrossTask)] </br>
 *4.7K videos, 83 tasks*
+
+## Video Question Answering
+* **SUTD-TrafficQA**: A Question Answering Benchmark and an Efficient Network for Video Reasoning over Traffic Events </br>
+[[Paper](https://arxiv.org/abs/2103.15538)][[Homepage](https://github.com/SUTDCV/SUTD-TrafficQA)] </br>
+*10,080 in-the-wild videos and annotated 62,535 QA pairs*
+
+* **R2VQ**: Recipe-to-Video Questions </br>
+[[Paper]()][[Homepage](https://r2vq.org/)]</br>
 
 
 ## Action Segmentation
