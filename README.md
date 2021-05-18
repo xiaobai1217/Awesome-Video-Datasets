@@ -141,6 +141,10 @@
 [[Paper](https://arxiv.org/pdf/1507.05738.pdf)][[Homepage](http://ai.stanford.edu/~syyeung/everymoment.html)] </br>
 *400 videos, 38,690 annotations of 65 action classes, 10.5 action classes per video*
 
+* **TinyVIRAT**: Low-resolution Video Action Recognition </br>
+[[Paper](https://www.crcv.ucf.edu/wp-content/uploads/2020/07/Publications_TinyVIRAT.pdf)][[Homepage](https://www.crcv.ucf.edu/research/projects/tinyvirat-low-resolution-video-action-recognition/)] </br>
+*12,829 low-resolution videos, 26 classes, multi-label classification*
+
 * **Hierarchical Action Search**: Searching for Actions on the Hyperbole (CVPR 2020) </br>
 [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Long_Searching_for_Actions_on_the_Hyperbole_CVPR_2020_paper.pdf)][[Homepage](https://github.com/Tenglon/hyperbolic_action)] </br>
 *Hierarchical-ActivityNet, Hierarchical-Kinetics, and Hierarchical-Moments from ActivityNet, mini-Kinetics, and Moments-in-time; provide action
