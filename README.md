@@ -127,7 +127,7 @@
 *20,338 videos, 7,368 annotated for training, 6,739 annotated for testing*
 
 * **RareAct**: A video dataset of unusual interactions </br>
-[[Paper](https://arxiv.org/pdf/2008.01018.pdf)][[Homepage]()]</br>
+[[Paper](https://arxiv.org/pdf/2008.01018.pdf)][[Homepage](https://github.com/antoine77340/RareAct)]</br>
 *122 different actions, 7,607 clips, 905 videos, 19 verbs, 38 nouns*
 
 * **FineGym**: A Hierarchical Video Dataset for Fine-grained Action Understanding (CVPR 2020) </br>
