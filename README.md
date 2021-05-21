@@ -26,9 +26,11 @@
  - [Multiple Objects Tracking](#Multiple-Objects-Tracking)
  - [Video Relation Detection](#Video-Relation-Detection)
  - [Anomaly Detection](#Anomaly-Detection)
+ - [Video Memorability](#Video-Memorability)
  - [Pose Estimation](#Pose-Estimation)
  - [Dynamic Texture Classification](#Dynamic-Texture-Classification)
  - [Physics](#Physics)
+ 
 
 
 ## Action Recognition
@@ -731,6 +733,10 @@ nouns, 53 verbs and 23 adjectives*
 * **UCF-Crime**: Real-world Anomaly Detection in Surveillance Videos </br>
 [[Paper](https://arxiv.org/pdf/1801.04264.pdf)][[Homepage](https://www.crcv.ucf.edu/projects/real-world/#:~:text=We%20construct%20a%20new%20large,Stealing%2C%20Shoplifting%2C%20and%20Vandalism.)]</br>
 *1,900 videos*
+
+* **Video Memorability**: Multimodal Memorability: Modeling Effects of Semantics and Decay on Video Memorability (ECCV 2020) </br>
+[[Paper](https://arxiv.org/pdf/2009.02568.pdf)][[Homepage](http://memento.csail.mit.edu/)] </br>
+*10,000 video clips, over 900,000 human memory annotations at different delay intervals and 50,000 captions describing the events*
 
 ## Pose Estimation
 * **YouTube Pose**: Personalizing Human Video Pose Estimation (CVPR 2016) </br>
