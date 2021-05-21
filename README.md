@@ -279,6 +279,10 @@ K tags of cinematic style*
 [[Paper](http://movieqa.cs.toronto.edu/static/files/CVPR2016_MovieQA.pdf)][[Homepage](http://movieqa.cs.toronto.edu/home/#)]</br>
 *14,944 questions, 408 movies*
 
+* **Video Person-Clustering Dataset**: Face, Body, Voice: Video Person-Clustering with Multiple Modalities </br>
+[[Paper](https://arxiv.org/abs/2105.09939)][[Homepage](https://www.robots.ox.ac.uk/~vgg/data/Video_Person_Clustering/)] </br>
+*multi-modal annotations (face, body and voice) for all primary and secondary characters from a range of diverse TV-shows and movies*
+
 * **MovieGraphs**: Towards Understanding Human-Centric Situations from Videos (CVPR 2018) </br>
 [[Paper](https://arxiv.org/pdf/1712.06761.pdf)][[Homepage](http://moviegraphs.cs.toronto.edu/)] </br>
 *7,637 movie clips, 51 movies, annotations: scene, situation, description, graph (Character, Attributes, Relationship, Interaction, Topic, Reason, Time stamp)*
