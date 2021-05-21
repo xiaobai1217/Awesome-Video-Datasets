@@ -29,6 +29,7 @@
  - [Video Memorability](#Video-Memorability)
  - [Highlight Detection](#Highlight-Detection)
  - [Pose Estimation](#Pose-Estimation)
+ - [Person Re-identification](#Person-Re-Identification)
  - [Dynamic Texture Classification](#Dynamic-Texture-Classification)
  - [Physics](#Physics)
  
@@ -770,6 +771,19 @@ nouns, 53 verbs and 23 adjectives*
 * **PoseCNN**: A Convolutional Neural Network for 6D Object Pose Estimation in Cluttered Scenes (RSS 2018) </br>
 [[Paper](https://arxiv.org/abs/1711.00199)][[Homepage](https://rse-lab.cs.washington.edu/projects/posecnn/)] </br>
 *accurate 6D poses of 21 objects from the YCB dataset observed in 92 videos with 133,827 frames*
+
+## Person Re-identification
+* **iLIDS-VID**: Person re-identification by video ranking (ECCV 2014) </br>
+[[Paper](https://core.ac.uk/download/pdf/208789091.pdf)][[Homepage](https://xiatian-zhu.github.io/downloads_qmul_iLIDS-VID_ReID_dataset.html)] </br>
+*600 image sequences of 300 distinct individuals*
+
+* **PRID-2011**: Person Re-identification by Descriptive and Discriminative Classification </br>
+[[Paper](https://link.springer.com/content/pdf/10.1007%2F978-3-642-21227-7_9.pdf)][[Homepage](https://www.tugraz.at/institute/icg/research/team-bischof/lrs/downloads/prid11/)]</br>
+*400 image sequences for 200 identities from two non-overlapping cameras*
+
+* **MARS**:  A Video Benchmark for Large-Scale Person Re-Identification (ECCV 2016) </br>
+[[Paper](https://link.springer.com/content/pdf/10.1007%2F978-3-319-46466-4_52.pdf)][[Homepage](http://zheng-lab.cecs.anu.edu.au/Project/project_mars.html)] </br>
+*1,261 identities around 18,000 video sequences*
 
 ## Physics
 * **Real-world Flag & FlagSim**: Cloth in the Wind: A Case Study of Physical Measurement through Simulation (CVPR 2020) </br>
