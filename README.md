@@ -27,6 +27,7 @@
  - [Video Relation Detection](#Video-Relation-Detection)
  - [Anomaly Detection](#Anomaly-Detection)
  - [Video Memorability](#Video-Memorability)
+ - [Highlight Detection](#Highlight-Detection)
  - [Pose Estimation](#Pose-Estimation)
  - [Dynamic Texture Classification](#Dynamic-Texture-Classification)
  - [Physics](#Physics)
@@ -733,6 +734,21 @@ nouns, 53 verbs and 23 adjectives*
 * **UCF-Crime**: Real-world Anomaly Detection in Surveillance Videos </br>
 [[Paper](https://arxiv.org/pdf/1801.04264.pdf)][[Homepage](https://www.crcv.ucf.edu/projects/real-world/#:~:text=We%20construct%20a%20new%20large,Stealing%2C%20Shoplifting%2C%20and%20Vandalism.)]</br>
 *1,900 videos*
+
+## Hightlight Detection
+* **YouTube Highlights**: Ranking Domain-specific Highlights by Analyzing Edited Videos</br>
+[[Paper](http://grail.cs.washington.edu/wp-content/uploads/2015/08/sun2014rdh.pdf)][[Homepage](https://github.com/aliensunmin/DomainSpecificHighlight)] </br>
+*six domain-specific categories: surfing, skating, skiing, gymnastics, parkour, and dog. Each domain consists of around 100 videos and the total accumulated time is 1430 minutes*
+
+* **PHD<sup>2</sup>**: Personalized Highlight Detection for Automatic GIF Creation </br>
+[[Paper](https://arxiv.org/abs/1804.06604)][[Homepage](https://github.com/gifs/personalized-highlights-dataset)] </br>
+*the training set contains highlights from 12,972 users, the test set contains highlights from 850 users*
+
+* **TVSum**: Summarizing web videos using titles (CVPR 2015) </br>
+[[Paper](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Song_TVSum_Summarizing_Web_2015_CVPR_paper.pdf)][[Homepage](https://github.com/yalesong/tvsum)] </br>
+*50 videos of various genres (e.g., news, how-to, documentary, vlog, egocentric) and 1,000 annotations of shot-level importance scores obtained via crowdsourcing (20 per video)*
+
+## Video Memorability
 
 * **Video Memorability**: Multimodal Memorability: Modeling Effects of Semantics and Decay on Video Memorability (ECCV 2020) </br>
 [[Paper](https://arxiv.org/pdf/2009.02568.pdf)][[Homepage](http://memento.csail.mit.edu/)] </br>
