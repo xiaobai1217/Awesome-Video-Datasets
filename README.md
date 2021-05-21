@@ -735,7 +735,7 @@ nouns, 53 verbs and 23 adjectives*
 [[Paper](https://arxiv.org/pdf/1801.04264.pdf)][[Homepage](https://www.crcv.ucf.edu/projects/real-world/#:~:text=We%20construct%20a%20new%20large,Stealing%2C%20Shoplifting%2C%20and%20Vandalism.)]</br>
 *1,900 videos*
 
-## Hightlight Detection
+## Highlight Detection
 * **YouTube Highlights**: Ranking Domain-specific Highlights by Analyzing Edited Videos</br>
 [[Paper](http://grail.cs.washington.edu/wp-content/uploads/2015/08/sun2014rdh.pdf)][[Homepage](https://github.com/aliensunmin/DomainSpecificHighlight)] </br>
 *six domain-specific categories: surfing, skating, skiing, gymnastics, parkour, and dog. Each domain consists of around 100 videos and the total accumulated time is 1430 minutes*
