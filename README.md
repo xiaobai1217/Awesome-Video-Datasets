@@ -458,6 +458,10 @@ car and Repotting a plant*
 * **R2VQ**: Recipe-to-Video Questions </br>
 [[Paper]()][[Homepage](https://r2vq.org/)]</br>
 
+* **Social-IQ**: A Question Answering Benchmark for Artificial Social Intelligence (CVPR 2019) </br>
+[[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zadeh_Social-IQ_A_Question_Answering_Benchmark_for_Artificial_Social_Intelligence_CVPR_2019_paper.pdf)][[Homepage](https://github.com/A2Zadeh/CMU-MultimodalSDK)] </br>
+*1,250 videos, 7500 questions, 30, 000 correct answers and 22,500 incorrect answers*
+
 
 ## Action Segmentation
 * **A2D**: Can Humans Fly? Action Understanding with Multiple Classes of Actors (CVPR 2015) </br>
