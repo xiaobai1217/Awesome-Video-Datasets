@@ -789,3 +789,7 @@ nouns, 53 verbs and 23 adjectives*
 * **Real-world Flag & FlagSim**: Cloth in the Wind: A Case Study of Physical Measurement through Simulation (CVPR 2020) </br>
 [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Runia_Cloth_in_the_Wind_A_Case_Study_of_Physical_Measurement_CVPR_2020_paper.pdf)][[Homepage](http://tomrunia.github.io/projects/cloth/)] </br>
 *Real-world Flag: 2.7K train and 1.3K videos clips, FlagSim: 1,000 mesh sequences, 14, 000 training examples*
+
+* **Physics 101**: Learning Physical Object Properties from Unlabeled Videos (BMVC 2016) </br>
+[[Paper](http://phys101.csail.mit.edu/papers/phys101_bmvc.pdf)][[Homepage](http://phys101.csail.mit.edu/)] </br>
+*over 10,000 video clips containing 101 objects of various materials and appearances (shapes, colors, and sizes)*
