@@ -350,6 +350,10 @@ K tags of cinematic style*
 [[Paper](https://isis-data.science.uva.nl/cgmsnoek/pub/yang-common-time-space-cvpr2021.pdf)][[Homepage]()] </br>
 *revised AVA and UCF101-24*
 
+* **FineAction**: A Fined Video Dataset for Temporal Action Localization </br>
+[[Paper](https://arxiv.org/pdf/2105.11107.pdf)][[Homepage](https://deeperaction.github.io/fineaction/)]</br>
+*139K fined action instances densely annotated in almost 17K untrimmed videos spanning 106 action categories*
+
 * **MUSES**: Multi-shot Temporal Event Localization: a Benchmark (CVPR 2021) </br> 
 [[Paper](https://arxiv.org/pdf/2012.09434.pdf)][[Homepage](https://songbai.site/muses/)]</br>
 *31,477 event instances, 716 video hours, 19 shots per instance, 176 shots per video, 25 categories, 3,697 videos*
