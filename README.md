@@ -228,7 +228,7 @@ hierarchies and action splits for unseen action search*
 *380,000 video segments about 19s long, 5.6 M bounding boxes, 23 types of objects*
 
 * **Objectron**: A Large Scale Dataset of Object-Centric Videos in the Wild with Pose Annotations (CVPR 2021) </br>
-[[Paper](https://arxiv.org/pdf/2012.01, 348 videos9988.pdf)][[Homepage](https://github.com/google-research-datasets/Objectron/)] </br>
+[[Paper](https://arxiv.org/abs/2012.09988)][[Homepage](https://github.com/google-research-datasets/Objectron/)] </br>
 *15K annotated video clips supplemented with over 4M annotated images in the following categories: bikes, books, bottles, cameras, cereal boxes, chairs, cups, laptops, and shoes, manually annotated 3D bounding boxes for each object*
 
 * **DroneCrowd**: Detection, Tracking, and Counting Meets Drones in Crowds: A Benchmark (CVPR 2021) </br>
