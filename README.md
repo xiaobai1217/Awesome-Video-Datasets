@@ -585,6 +585,10 @@ nouns, 53 verbs and 23 adjectives*
 [[Paper](https://arxiv.org/abs/1908.04917)][[Homepage](https://www.vipazoo.cn/CMLR.html)] </br>
 *102072 spoken sentences of 11 speakers from national news program in China (CCTV)*
 
+* **APES**: Audiovisual Person Search in Untrimmed Video </br>
+[[Paper](https://arxiv.org/pdf/2106.01667.pdf)][[Homepage](https://github.com/fuankarion/audiovisual-person-search)] </br>
+*untrimmed videos whose audio (voices) and visual (faces) streams are densely annotated, over 1.9K identities labeled along 36 hours of video, dense temporal annotations that link faces to speech segments of the same identity*
+
 * **Countix-AV & Extreme Countix-AV**: Repetitive Activity Counting by Sight and Sound (CVPR 2021) </br>
 [[Paper](https://arxiv.org/pdf/2103.13096.pdf)][[Homepage](https://github.com/xiaobai1217/RepetitionCounting)] </br>
 *1,863 videos in Countix-AV, 214 videos in Extreme Countix-AV*
