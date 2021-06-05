@@ -683,6 +683,11 @@ nouns, 53 verbs and 23 adjectives*
 [[Paper](https://arxiv.org/pdf/1809.07845.pdf)][[Homepage](https://cis.temple.edu/lasot/)] </br>
 *1,400 sequences with more than 3.5M frames, each frame is annotated with a bounding box*
 
+* **TNL2K**: Towards More Flexible and Accurate Object Tracking with Natural Language:
+Algorithms and Benchmark (CVPR 2021)</br>
+[[Paper](https://arxiv.org/pdf/2103.16746.pdf)][[Homepage](https://sites.google.com/view/langtrackbenchmark/)] </br>
+*2k video sequences (contains a total of 1,244,340 frames, 663 words) and split 1300/700 for the train/testing respectively; densely annotate one sentence in English and corresponding bounding boxes of the target object for each video.*
+
 * **TrackingNet**: A Large-Scale Dataset and Benchmark for Object Tracking in the Wild (ECCV 2018) </br>
 [[Paper](https://arxiv.org/pdf/1803.10794.pdf)][[Homepage](https://tracking-net.org/)] </br>
 *30K videos with more than 14 million dense bounding box annotations, a new benchmark composed of 500 novel videos*
