@@ -29,6 +29,7 @@
  - [Video Memorability](#Video-Memorability)
  - [Highlight Detection](#Highlight-Detection)
  - [Pose Estimation](#Pose-Estimation)
+ - [Animal Behavior](#Animal-Behavior)
  - [Person Re-identification](#Person-Re-Identification)
  - [Dynamic Texture Classification](#Dynamic-Texture-Classification)
  - [Physics](#Physics)
@@ -811,6 +812,11 @@ Algorithms and Benchmark (CVPR 2021)</br>
 * **PoseCNN**: A Convolutional Neural Network for 6D Object Pose Estimation in Cluttered Scenes (RSS 2018) </br>
 [[Paper](https://arxiv.org/abs/1711.00199)][[Homepage](https://rse-lab.cs.washington.edu/projects/posecnn/)] </br>
 *accurate 6D poses of 21 objects from the YCB dataset observed in 92 videos with 133,827 frames*
+
+## Animal Behavior
+* **Edinburgh Pig Behavior**: Extracting Accurate Long-Term Behavior Changes from a Large Pig Dataset </br>
+[[Paper](https://homepages.inf.ed.ac.uk/rbf/PAPERS/pigsbehaviouranalysis_visapp2021.pdf)][[Homepage](https://homepages.inf.ed.ac.uk/rbf/PIGDATA/)] </br>
+*23 days (over 6 weeks) of daytime pig video captured from a nearly overhead camera, 6 frames per second, and stored in batches of 1800 frames (5 minutes), most frames show 8 pigs*
 
 ## Person Re-identification
 * **iLIDS-VID**: Person re-identification by video ranking (ECCV 2014) </br>
