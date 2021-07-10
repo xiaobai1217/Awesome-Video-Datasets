@@ -9,7 +9,7 @@
  - [Egocentric View](EgocentricView.md)
  - [Video Object Segmentation](VideoObjectSegmentation.md)
  - [Object Detection](ObjectDetection.md)
- - [Group Activity Recognition](#Group-Activity-Recognition)
+ - [Group Activity Recognition](GroupActivityRecognition.md)
  - [Movie](#Movie)
  - [Video Captioning](#Video-Captioning)
  - [360 Videos](#360-Videos)
@@ -33,16 +33,7 @@
  - [Person Re-identification](#Person-Re-Identification)
  - [Dynamic Texture Classification](DynamicTextureClassification.md)
  - [Physics](#Physics)
- 
 
-## Group Activity Recognition
-* **Volleyball**: A Hierarchical Deep Temporal Model for Group Activity Recognition </br>
-[[Paper](https://arxiv.org/pdf/1511.06040.pdf)][[Homepage](https://github.com/mostafa-saad/deep-activity-rec)] </br>
-*4,830 clips, 8 group activity classes, nine individual actions*
-
-* **Collective**: What are they doing? : Collective activity classification using spatio-temporal relationship among people </br>
-[[Paper](http://vhosts.eecs.umich.edu/vision//paper/Wongun_CollectiveActivityRecognition09.pdf)][[Homepage](http://vhosts.eecs.umich.edu/vision//activity-dataset.html)] </br>
-*5 different collective activities, 44 clips* 
 
 ## Movie
 * **HOLLYWOOD2**: Actions in Context (CVPR 2009) </br>
