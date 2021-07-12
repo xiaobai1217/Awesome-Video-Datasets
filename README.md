@@ -28,6 +28,7 @@
  - [Anomaly Detection](AnomalyDetection.md)
  - [Video Memorability](VideoMemorability.md)
  - [Highlight Detection](HighlightDetection.md)
+ - [Video Summarization](VideoSummarization.md)
  - [Pose Estimation](PoseEstimation.md)
  - [Animal Behavior](AnimalBehavior.md)
  - [Person Re-identification](PersonReidentification.md)
