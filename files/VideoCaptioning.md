@@ -19,6 +19,10 @@
 [[Paper](https://arxiv.org/pdf/1812.06587.pdf)][[Homepage](https://github.com/facebookresearch/ActivityNet-Entities)] </br>
 *14,281 annotated videos, 52k video segments with at least one noun phrase annotated per segment, augment the ActivityNet Captions dataset with 158k bounding box*
 
+* **WebVid-2M**: Frozen in Time: A Joint Video and Image Encoder for End-to-End Retrieval (2021) </br>
+[[Paper](https://arxiv.org/pdf/2104.00650.pdf)][[Homepage](https://github.com/m-bain/frozen-in-time)] </br>
+*over two million videos with weak captions scraped from the internet*
+
 * **VTW**: Title Generation for User Generated Videos (ECCV 2016) </br>
 [[Paper](https://arxiv.org/pdf/1608.07068.pdf)][[Homepage](http://aliensunmin.github.io/project/video-language/index.html#VideoTitle)] </br>
 *18100 video clips with an average of 1.5 minutes duration per clip*
