@@ -36,6 +36,10 @@ car and Repotting a plant*
 [[Paper](http://youcook2.eecs.umich.edu/static/YouCookII/youcookii_readme.pdf)][[Homepage](http://youcook2.eecs.umich.edu/)] </br>
 *2000 long untrimmed videos, 89 cooking recipes, each recipe includes 5 to 16 steps, each step should be described with one sentence*
 
+* **WebVid-2M**: Frozen in Time: A Joint Video and Image Encoder for End-to-End Retrieval (2021) </br>
+[[Paper](https://arxiv.org/pdf/2104.00650.pdf)][[Homepage](https://github.com/m-bain/frozen-in-time)] </br>
+*over two million videos with weak captions scraped from the internet*
+
 * **QuerYD**: A video dataset with textual and audio narrations (ICASSP 2021) </br>
 [[Paper](https://arxiv.org/abs/2011.11071)][[Homepage](https://www.robots.ox.ac.uk/~vgg/data/queryd/)]</br>
 *1,400+ narrators, 200+ video hours, 70+ description hours*
