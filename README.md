@@ -34,7 +34,6 @@
  - [Person Re-identification](files/PersonReidentification.md)
  - [Dynamic Texture Classification](files/DynamicTextureClassification.md)
  - [Physics](files/Physics.md)
-
-
+ - [Multimodal Learning](files/Multimodal.md)
 
 
