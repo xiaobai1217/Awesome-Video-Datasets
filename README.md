@@ -33,7 +33,7 @@
  - [Animal Behavior](files/AnimalBehavior.md)
  - [Person Re-identification](files/PersonReidentification.md)
  - [Dynamic Texture Classification](files/DynamicTextureClassification.md)
- - [Physics](files/Physics.md)
  - [Multimodal Learning](files/Multimodal.md)
+ - [Physics](files/Physics.md)
 
 
