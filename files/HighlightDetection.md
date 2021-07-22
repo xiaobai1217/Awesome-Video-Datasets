@@ -10,3 +10,8 @@
 * **TVSum**: Summarizing web videos using titles (CVPR 2015) </br>
 [[Paper](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Song_TVSum_Summarizing_Web_2015_CVPR_paper.pdf)][[Homepage](https://github.com/yalesong/tvsum)] </br>
 *50 videos of various genres (e.g., news, how-to, documentary, vlog, egocentric) and 1,000 annotations of shot-level importance scores obtained via crowdsourcing (20 per video)*
+
+
+* **QVHIGHLIGHTS**: Detecting Moments and Highlights in Videos via Natural Language Queries (2021) </br>
+[[Paper](https://arxiv.org/pdf/2107.09609.pdf)][[Homepage](https://github.com/jayleicn/moment_detr)] </br>
+*over 10,000 YouTube videos, each video in the dataset is annotated with: (1) a human-written free-form NL query, (2) relevant moments in the video w.r.t. the query, and (3) five-point scale saliency scores for all query-relevant clips*
