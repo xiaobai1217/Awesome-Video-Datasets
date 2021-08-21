@@ -160,6 +160,10 @@
 [[Paper](https://arxiv.org/abs/2104.00946)][[Homepage](https://github.com/SUTDCV/UAV-Human)] </br>
 *67,428 multi-modal video sequences and 119 subjects for action recognition, 22,476 frames for pose estimation, 41,290 frames and 1,144 identities for person re-identification, and 22,263 frames for attribute recognition*
 
+* **Mimetics**: Towards Understanding Human Actions Out of Context </br>
+[[Paper](https://arxiv.org/abs/1912.07249)][[Homepage](https://europe.naverlabs.com/research/computer-vision/mimetics/)] </br>
+*The Mimetics dataset contains 713 video clips from YouTube of mimed actions for a subset of 50 classes from the Kinetics400 dataset. It allows to evaluate on out-of-context human actions methods that have been trained on Kinetics.*
+
 * **Hierarchical Action Search**: Searching for Actions on the Hyperbole (CVPR 2020) </br>
 [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Long_Searching_for_Actions_on_the_Hyperbole_CVPR_2020_paper.pdf)][[Homepage](https://github.com/Tenglon/hyperbolic_action)] </br>
 *Hierarchical-ActivityNet, Hierarchical-Kinetics, and Hierarchical-Moments from ActivityNet, mini-Kinetics, and Moments-in-time; provide action
