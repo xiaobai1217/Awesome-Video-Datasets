@@ -29,6 +29,7 @@
  - [Video Memorability](files/VideoMemorability.md)
  - [Highlight Detection](files/HighlightDetection.md)
  - [Video Summarization](files/VideoSummarization.md)
+ - [Skeleton](files/Skeleton.md)
  - [Pose Estimation](files/PoseEstimation.md)
  - [Animal Behavior](files/AnimalBehavior.md)
  - [Person Re-identification](files/PersonReidentification.md)
@@ -815,6 +816,13 @@ Algorithms and Benchmark (CVPR 2021)</br>
 * **TVSum**: Summarizing web videos using titles (CVPR 2015) </br>
 [[Paper](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Song_TVSum_Summarizing_Web_2015_CVPR_paper.pdf)][[Homepage](https://github.com/yalesong/tvsum)] </br>
 *50 videos of various genres (e.g., news, how-to, documentary, vlog, egocentric) and 1,000 annotations of shot-level importance scores obtained via crowdsourcing (20 per video)*
+
+## Skeleton
+
+* **PoseC3D**: Revisiting skeleton-based action recognition (2021) </br>
+[[Paper](https://arxiv.org/pdf/2104.13586.pdf)][[Homepage](https://kennymckormick.github.io/posec3d/)] </br>
+*state-of-the-art 2D pose estimation results for various datasets: including FineGYM, NTURGB+D, UCF101, and HMDB51, which are available at https://github.com/open-mmlab/mmaction2/tree/master/tools/data/skeleton*
+
 
 ## Pose Estimation
 * **YouTube Pose**: Personalizing Human Video Pose Estimation (CVPR 2016) </br>
