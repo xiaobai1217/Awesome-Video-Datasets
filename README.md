@@ -30,6 +30,7 @@
  - [Highlight Detection](files/HighlightDetection.md)
  - [Video Summarization](files/VideoSummarization.md)
  - [Skeleton](files/Skeleton.md)
+ - [Video Enhancement]()
  - [Pose Estimation](files/PoseEstimation.md)
  - [Animal Behavior](files/AnimalBehavior.md)
  - [Person Re-identification](files/PersonReidentification.md)
@@ -165,6 +166,10 @@
 [[Paper](https://arxiv.org/abs/1912.07249)][[Homepage](https://europe.naverlabs.com/research/computer-vision/mimetics/)] </br>
 *The Mimetics dataset contains 713 video clips from YouTube of mimed actions for a subset of 50 classes from the Kinetics400 dataset. It allows to evaluate on out-of-context human actions methods that have been trained on Kinetics.*
 
+* **HAA500**: Human-Centric Atomic Action Dataset with Curated Videos (ICCV 2021) </br>
+[[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Chung_HAA500_Human-Centric_Atomic_Action_Dataset_With_Curated_Videos_ICCV_2021_paper.pdf)][[Homepage](https://www.cse.ust.hk/haa/)] </br>
+*a manually annotated humancentric atomic action dataset for action recognition on 500 classes with over 591K labeled frames*
+
 * **Hierarchical Action Search**: Searching for Actions on the Hyperbole (CVPR 2020) </br>
 [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Long_Searching_for_Actions_on_the_Hyperbole_CVPR_2020_paper.pdf)][[Homepage](https://github.com/Tenglon/hyperbolic_action)] </br>
 *Hierarchical-ActivityNet, Hierarchical-Kinetics, and Hierarchical-Moments from ActivityNet, mini-Kinetics, and Moments-in-time; provide action
@@ -214,6 +219,10 @@ hierarchies and action splits for unseen action search*
 [[Paper](https://arxiv.org/abs/2105.05226)][[Homepage](https://homeactiongenome.org/)]</br> 
 *27 participants, 12 sensor types, 75 activities, 453 atomic actions, 1,752 synchronized sequences, 86 object classes, 29 relationship classes, 497,534 bounding boxes, 583,481 relationships*
 
+* **Ego4D**: Around the World in 3,000 Hours of Egocentric Video </br>
+[[Paper](https://arxiv.org/pdf/2110.07058.pdf)][[Homepage](https://ego4d-data.org/)] </br>
+*3,025 hours of video collected by 855 unique participants from 74 worldwide locations in 9 different countries*
+
 ## Video Object Segmentation
 * **DAVIS**: A Benchmark Dataset and Evaluation Methodology for Video Object Segmentation (CVPR 2016) </br>
 [[Paper](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Perazzi_A_Benchmark_Dataset_CVPR_2016_paper.pdf)][[Homepage](https://davischallenge.org/)]</br>
@@ -251,6 +260,10 @@ hierarchies and action splits for unseen action search*
 * **BOLD**: Detecting Biological Locomotion in Video: A Computational Approach </br>
 [[Paper](https://arxiv.org/pdf/2105.12661.pdf)] </br>
 *1,348 videos, objects: human, terrestrial quadruped, bird, reptile, cetacean, seal, fish, stingray, eel, sea snake, insects, spiders, scorpion, lobster, ball, car, train, motorbike, submarine, airplane, helicopter, rocket, oscillating stuff*
+
+* **VIL-100**: A New Dataset and A Baseline Model for Video Instance Lane Detection (ICCV 2021) </br>
+[[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_VIL-100_A_New_Dataset_and_a_Baseline_Model_for_Video_ICCV_2021_paper.pdf)][[Homepage](https://github.com/yujun0-0/MMA-Net)] </br>
+*contains 100 videos with in total 10,000 frames, acquired from different real traffic scenarios*
 
 * **Water** detection through spatio-temporal invariant descriptors </br>
 [[Paper](https://reader.elsevier.com/reader/sd/pii/S1077314216300273?token=15C6210A029F5035AAA3E48B5EB4390911C8EE0BC8175787833DDB8CC63687EEBAFDA2275BAAD2F95ABC94F6E0EFDACB&originRegion=eu-west-1&originCreation=20210505160917)][[Dataset](http://isis-data.science.uva.nl/mettes/VideoWaterDatabase.tar.gz)] </br>
@@ -381,6 +394,10 @@ K tags of cinematic style*
 [[Paper](https://arxiv.org/pdf/2005.00214.pdf)][[Homepage](http://research.google.com/ava/)]</br>
 *230k clips, 80 AVA action classes*
 
+* **MultiSports**: A Multi-Person Video Dataset of Spatio-Temporally Localized Sports Actions (ICCV 2021) </br>
+[[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Li_MultiSports_A_Multi-Person_Video_Dataset_of_Spatio-Temporally_Localized_Sports_Actions_ICCV_2021_paper.pdf)][[Homepage](https://deeperaction.github.io/multisports/)] </br>
+*selecting 4 sports classes, collecting around 3200 video clips, and annotating around 37790 action instances with 907k bounding boxes.*
+
 * **HACS**: Human Action Clips and Segments Dataset for Recognition and Temporal Localization </br>
 [[Paper](https://arxiv.org/pdf/1712.09374.pdf)][[Homepage](http://hacs.csail.mit.edu/)]</br>
 *HACS Clips: 1.5M annotated clips sampled from 504K untrimmed videos, HACS Segments: 139K action segments densely annotated in 50K untrimmed videos spanning 200 action categories*
@@ -491,6 +508,10 @@ car and Repotting a plant*
 [[Paper](https://arxiv.org/abs/1809.01696)][[Homepage](https://www.aclweb.org/anthology/D18-1167/)] </br>
 *152,545 QA pairs from 21,793 clips, spanning over 460 hours of video*
 
+* **NExT-QA**: Next Phase of Question-Answering to Explaining Temporal Actions (CVPR 2021) </br>
+[[Paper](https://arxiv.org/pdf/2105.08276.pdf)][[Homepage](https://doc-doc.github.io/docs/nextqa.html)] </br>
+*5440 videos with average length of 44s and about 52K manually annotated question-answer pairs grouped into causal (48%),temporal (29%) and descriptive (23%) questions*
+
 ## Action Segmentation
 * **A2D**: Can Humans Fly? Action Understanding with Multiple Classes of Actors (CVPR 2015) </br>
 [[Paper](https://www.cs.rochester.edu/~cxu22/p/cvpr2015_a2d_paper.pdf)][[Homepage](https://web.eecs.umich.edu/~jjcorso/r/a2d/)] </br>
@@ -542,6 +563,10 @@ nouns, 53 verbs and 23 adjectives*
 * **Kinetics-Sound**: Look, Listen and Learn (ICCV 2017) </br>
 [[Paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/Arandjelovic_Look_Listen_and_ICCV_2017_paper.pdf)] </br>
 *34 action classes from Kinetics*
+
+* **ACAV100M**: Automatic Curation of Large-Scale Datasets for Audio-Visual Video Representation Learning (ICCV 2021) </br>
+[[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Lee_ACAV100M_Automatic_Curation_of_Large-Scale_Datasets_for_Audio-Visual_Video_Representation_ICCV_2021_paper.pdf)][[Homepage](https://acav100m.github.io/)] </br>
+*100 million 10-second clips*
 
 * **EPIC-KITCHENS**: Scaling Egocentric Vision: The EPIC-KITCHENS Dataset (ECCV 2018, extended into TPAMI 2020)</br> 
 [[Paper](https://arxiv.org/abs/2006.13256)][[Homepage](https://epic-kitchens.github.io/2021)]</br>
@@ -823,6 +848,11 @@ Algorithms and Benchmark (CVPR 2021)</br>
 [[Paper](https://arxiv.org/pdf/2104.13586.pdf)][[Homepage](https://kennymckormick.github.io/posec3d/)] </br>
 *state-of-the-art 2D pose estimation results for various datasets: including FineGYM, NTURGB+D, UCF101, and HMDB51, which are available at https://github.com/open-mmlab/mmaction2/tree/master/tools/data/skeleton*
 
+## Video Enhancement
+
+* **SDSD**: Seeing Dynamic Scene in the Dark: A High-Quality Video Dataset with Mechatronic Alignment (ICCV 2021) </br>
+[[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_Seeing_Dynamic_Scene_in_the_Dark_A_High-Quality_Video_Dataset_ICCV_2021_paper.pdf)][[Homepage](https://github.com/dvlab-research/SDSD)] </br>
+*150 paired video sequences in total, including 80 outdoor videos and 70 indoor videos*
 
 ## Pose Estimation
 * **YouTube Pose**: Personalizing Human Video Pose Estimation (CVPR 2016) </br>
