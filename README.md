@@ -4,7 +4,7 @@
 * Our group website: **[VIS Lab](https://ivi.fnwi.uva.nl/vislab/)**, University of Amsterdam. 
 
 ## Contents
- - [Action Recognition](files/ActionRecognition.md)
+ - [Action Recognition](#Action-Recognition)
  - [Video Classification](files/VideoClassification.md)
  - [Egocentric View](files/EgocentricView.md)
  - [Video Object Segmentation](files/VideoObjectSegmentation.md)
