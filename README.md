@@ -296,6 +296,10 @@ hierarchies and action splits for unseen action search*
 *1,100 movies, 1.1M characters with bounding boxes and identities, 42K scene boundaries, 2.5K aligned description sentences, 65K tags of place and action, and 92
 K tags of cinematic style*
 
+* **MAD**: A Scalable Dataset for Language Grounding in Videos from Movie Audio Descriptions </br>
+[[Paper](https://arxiv.org/pdf/2112.00431.pdf)] </br>
+*384,000 natural language sentences grounded in over 1,200 hours of video*
+
 * **MovieQA**: Story Understanding Benchmark (CVPR 2016) </br>
 [[Paper](http://movieqa.cs.toronto.edu/static/files/CVPR2016_MovieQA.pdf)][[Homepage](http://movieqa.cs.toronto.edu/home/#)]</br>
 *14,944 questions, 408 movies*
@@ -443,6 +447,10 @@ car and Repotting a plant*
 * **YouCook**: A Thousand Frames in Just a Few Words: Lingual Description of Videos through Latent Topics and Sparse Object Stitching (CVPR 2013) </br>
 [[Paper](https://web.eecs.umich.edu/~jjcorso/pubs/jcorso_CVPR2013_dpmtm.pdf)][[Homepage](https://web.eecs.umich.edu/~jjcorso/r/youcook/)] </br>
 *88 YouTube cooking videos*
+
+* **MAD**: A Scalable Dataset for Language Grounding in Videos from Movie Audio Descriptions </br>
+[[Paper](https://arxiv.org/pdf/2112.00431.pdf)] </br>
+*384,000 natural language sentences grounded in over 1,200 hours of video*
 
 * **HowTo100M**: Learning a Text-Video Embedding by Watching Hundred Million Narrated Video Clips (ICCV 2019) </br>
 [[Paper](https://arxiv.org/pdf/1906.03327.pdf)][[Homepage](https://www.di.ens.fr/willow/research/howto100m/)] </br>
