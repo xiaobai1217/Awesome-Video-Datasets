@@ -801,6 +801,10 @@ Algorithms and Benchmark (CVPR 2021)</br>
 [[Paper](https://arxiv.org/pdf/2104.00990.pdf)][[Homepage](https://vidsitu.org/)] </br>
 *29K 10-second movie clips richly annotated with a verb and semantic-roles every 2 seconds*
 
+* **MOMA**: Multi-Object Multi-Actor Activity Parsing </br>
+[[Paper](https://proceedings.neurips.cc/paper/2021/hash/95688ba636a4720a85b3634acfec8cdd-Abstract.html)][[Homepage](https://moma.stanford.edu/#/publication)] </br>
+*373 raw videos at activity level, 2,364 trimmed videos at sub-activity level, and 12,057 atomic action instances. This includes 17 activity classes, 67 sub-activity classes, and 52 atomic action classes. At frame level, action hypergraph annotations for 37,428 frames, with 164,162 actor/object instances of 20 actor classes and 120 object classes, and 119,132 relationship instances of 75 relationship classes*
+
 ## Anomaly Detection
 * **XD-Violence**: Not only Look, but also Listen: Learning Multimodal Violence Detection under Weak Supervision (ECCV 2020) </br>
 [[Paper](https://roc-ng.github.io/XD-Violence/images/paper.pdf)][[Homepage](https://roc-ng.github.io/XD-Violence/)] </br>
