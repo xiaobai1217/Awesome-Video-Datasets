@@ -211,6 +211,10 @@ hierarchies and action splits for unseen action search*
 [[Paper](https://arxiv.org/pdf/1804.09627.pdf)][[Homepage](https://prior.allenai.org/projects/charades-ego)]</br>
 *112 people, 4000 paired videos, 157 action classes*
 
+* **100DOH**: Understanding Human Hands in Contact at Internet Scale (CVPR 2020) </br>
+[[Paper](https://arxiv.org/pdf/2006.06669.pdf)][[Homepage](http://fouheylab.eecs.umich.edu/~dandans/projects/100DOH/)] </br>
+*131 days of footage, 100K annotated hand-contact video frames*
+
 * **EPIC-KITCHENS**: Scaling Egocentric Vision: The EPIC-KITCHENS Dataset (ECCV 2018, extended into TPAMI 2020)</br> 
 [[Paper](https://arxiv.org/abs/2006.13256)][[Homepage](https://epic-kitchens.github.io/2021)]</br>
 *100 hours, 37 participants, 20M frames, 90K action segments, 700 variable length videos, 97 verb classes, 300 noun classes, 4053 action classes*
