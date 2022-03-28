@@ -21,7 +21,7 @@
  - [Audiovisual Learning](#Audiovisual-Learning)
  - [Video Indexing](#Video-Indexing)
  - [Skill Determination](#Skill-Determination)
- - [Action Understanding with Adverbs](Action-Understanding-with-Adverbs)
+ - [Action Understanding with Adverbs](#Action-Understanding-with-Adverbs)
  - [Video Retrieval](#Video-Retrieval)
  - [Single Object Tracking](#Single-Object-Tracking)
  - [Multiple Objects Tracking](#Multiple-Objects-Tracking)
