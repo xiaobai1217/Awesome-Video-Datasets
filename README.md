@@ -21,6 +21,7 @@
  - [Audiovisual Learning](#Audiovisual-Learning)
  - [Video Indexing](#Video-Indexing)
  - [Skill Determination](#Skill-Determination)
+ - [Action Understanding with Adverbs](Action-Understanding-with-Adverbs)
  - [Video Retrieval](#Video-Retrieval)
  - [Single Object Tracking](#Single-Object-Tracking)
  - [Multiple Objects Tracking](#Multiple-Objects-Tracking)
@@ -297,8 +298,7 @@ hierarchies and action splits for unseen action search*
 
 * **MovieNet**: A Holistic Dataset for Movie Understanding (ECCV 2020) </br>
 [[Paper](https://arxiv.org/pdf/2007.10937.pdf)][[Homepage](http://movienet.site/)] </br>
-*1,100 movies, 1.1M characters with bounding boxes and identities, 42K scene boundaries, 2.5K aligned description sentences, 65K tags of place and action, and 92
-K tags of cinematic style*
+*1,100 movies, 1.1M characters with bounding boxes and identities, 42K scene boundaries, 2.5K aligned description sentences, 65K tags of place and action, and 92K tags of cinematic style*
 
 * **MAD**: A Scalable Dataset for Language Grounding in Videos from Movie Audio Descriptions </br>
 [[Paper](https://arxiv.org/pdf/2112.00431.pdf)] </br>
@@ -686,6 +686,24 @@ nouns, 53 verbs and 23 adjectives*
 * **JIGSAWS**: JHU-ISI Gesture and Skill Assessment Working Set (JIGSAWS): A Surgical Activity Dataset for Human Motion Modeling </br>
 [[Paper](https://cirl.lcsr.jhu.edu/wp-content/uploads/2015/11/JIGSAWS.pdf)][[Homepage](https://cirl.lcsr.jhu.edu/research/hmm/datasets/jigsaws_release/)] </br>
 *surgical activities, 3 tasks: “Suturing (S)”, ”Needle Passing (NP)” and “Knot Tying (KT)”, each video is annotated with multiple annotation scores assessing different aspects of a video*
+
+## Action Understanding with Adverbs
+
+* **HowTo100M Adverbs**: Action Modifiers: Learning from Adverbs in Instructional Videos (CVPR 2020) </br>
+[[Paper](https://arxiv.org/abs/1912.06617)][[Homepage](https://hazeldoughty.github.io/Papers/ActionModifiers/)] </br>
+*5,824 clips, 72 actions, 6 adverbs, 263 pairs*
+
+* **VATEX Adverbs**: How Do You Do It? Fine-Grained Action Understanding with Pseudo-Adverbs (CVPR 2022) </br>
+[[Paper](https://hazeldoughty.github.io/Papers/PseudoAdverbs/PseudoAdverbs.pdf)][[Homepage](https://hazeldoughty.github.io/Papers/PseudoAdverbs/)] </br>
+*14,617 cilps, 34 adverbs, 135 actions, 1,550 pairs*
+
+* **MSR-VTT Adverbs**: How Do You Do It? Fine-Grained Action Understanding with Pseudo-Adverbs (CVPR 2022) </br>
+[[Paper](https://hazeldoughty.github.io/Papers/PseudoAdverbs/PseudoAdverbs.pdf)][[Homepage](https://hazeldoughty.github.io/Papers/PseudoAdverbs/)] </br>
+*1,824 cilps, 18 adverbs, 106 actions, 464 pairs*
+
+* **ActivityNet Adverbs**: How Do You Do It? Fine-Grained Action Understanding with Pseudo-Adverbs (CVPR 2022) </br>
+[[Paper](https://hazeldoughty.github.io/Papers/PseudoAdverbs/PseudoAdverbs.pdf)][[Homepage](https://hazeldoughty.github.io/Papers/PseudoAdverbs/)] </br>
+*3,099 cilps, 20 adverbs, 114 actions, 643 pairs*
 
 ## Video Retrieval
 
