@@ -23,6 +23,7 @@
  - [Skill Determination](#Skill-Determination)
  - [Action Understanding with Adverbs](#Action-Understanding-with-Adverbs)
  - [Video Retrieval](#Video-Retrieval)
+ - [Video Domain Adaptation](#Video-Domain-Adaptation)
  - [Single Object Tracking](#Single-Object-Tracking)
  - [Multiple Objects Tracking](#Multiple-Objects-Tracking)
  - [Video Relation Detection](#Video-Relation-Detection)
@@ -729,6 +730,29 @@ nouns, 53 verbs and 23 adjectives*
 * **TVR**: A Large-Scale Dataset for Video-Subtitle Moment Retrieval (ECCV 2020) </br>
 [[Paper](https://arxiv.org/abs/2001.09099)][[Homepage](https://tvr.cs.unc.edu/)] </br>
 *108,965 queries on 21,793 videos from 6 TV shows of diverse genres, where each query is associated with a tight temporal alignment*
+
+## Video Domain Adaptation
+
+* **EPIC-Kitchens**: Multi-Modal Domain Adaptation for Fine-Grained Action Recognition (CVPR 2020) </br>
+[[Paper](http://openaccess.thecvf.com/content_CVPR_2020/html/Munro_Multi-Modal_Domain_Adaptation_for_Fine-Grained_Action_Recognition_CVPR_2020_paper.html)][[Homepage](https://jonmun.github.io/mmsada/)] </br>
+*3 domains, 8 action classes*
+
+* **CharadesEgo**: Actor and Observer: Joint Modeling of First and Third-Person Videos (CVPR 2018) </br>
+[[Paper](https://arxiv.org/pdf/1804.09627.pdf)][[Homepage](https://prior.allenai.org/projects/charades-ego)] </br>
+*2 domains (1st-person and 3rd-person views), 157 action classes, 4,000 paired videos, multi-class classification*
+
+* **UCF-HMDB**: Temporal Attentive Alignment for Large-Scale Video Domain Adaptation (ICCV 2019) </br>
+[[Paper](https://arxiv.org/pdf/1907.12743.pdf)][[Dataset](https://github.com/cmhungsteve/TA3N)] </br>
+*3,209 videos with 12 action classes*
+
+* **Kinetics-NEC-Drone**: Unsupervised and Semi-Supervised Domain Adaptation for Action Recognition from Drones (WACV 2020) </br>
+[[Paper](https://openaccess.thecvf.com/content_WACV_2020/papers/Choi_Unsupervised_and_Semi-Supervised_Domain_Adaptation_for_Action_Recognition_from_Drones_WACV_2020_paper.pdf)][[Homepage](https://www.nec-labs.com/~mas/NEC-Drone/)] </br>
+*Source domain: Kinetics (13 classes), target domain: NEC-Drone (7 classes, 5,250 videos)*
+
+* **ActorShift**: Audio-Adaptive Activity Recognition Across Video Domains (CVPR 2022) </br>
+[[Paper](https://arxiv.org/pdf/2203.14240.pdf)][[Homepage](https://xiaobai1217.github.io/DomainAdaptation/)]</br>
+*source domain: 1,305 videos of 7 human activity classes from Kinetics-700, target domain: 200 videos with animal actors*
+
 
 ## Single Object Tracking
 * **Lingual OTB99 & Lingual ImageNet Videos**: Tracking by Natural Language Specification (CVPR 2017) </br>
