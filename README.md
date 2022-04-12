@@ -184,7 +184,7 @@ hierarchies and action splits for unseen action search*
 *11,827 videos, 180 tasks, 12 domains, 46,354 annotated segments*
 
 * **VideoLT**: Large-scale Long-tailed Video Recognition </br>
-[[Paper](https://arxiv.org/pdf/2105.02668.pdf)][[Homepage]()] </br>
+[[Paper](https://arxiv.org/pdf/2105.02668.pdf)][[Homepage](https://videolt.github.io/)] </br>
 *256,218 untrimmed videos, annotated into 1,004 classes with a long-tailed distribution*
 
 * **Youtube-8M**: A Large-Scale Video Classification Benchmark </br>
