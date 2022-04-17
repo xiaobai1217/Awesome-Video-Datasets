@@ -38,6 +38,7 @@
  - [Person Re-identification](#Person-Re-identification)
  - [Dynamic Texture Classification](#Dynamic-Texture-Classification)
  - [Multimodal Learning](#Multimodal-Learning)
+ - [Copy Detection](#Copy-Detection)
  - [Physics](#Physics)
 
 
@@ -147,6 +148,7 @@
 * **FineGym**: A Hierarchical Video Dataset for Fine-grained Action Understanding (CVPR 2020) </br>
 [[Paper](https://arxiv.org/pdf/2004.06704.pdf)][[Homepage](https://sdolivia.github.io/FineGym/)] </br>
 *10 event categories, including 6 male events and 4 female events, 530 element categories*
+
 
 * **THUMOS**: The THUMOS challenge on action recognition for videos “in the wild” </br>
 [[Paper](https://www.crcv.ucf.edu/papers/thumosCVIU.pdf)][[Homepage](http://crcv.ucf.edu/THUMOS14/)] </br>
@@ -688,6 +690,10 @@ nouns, 53 verbs and 23 adjectives*
 [[Paper](https://cirl.lcsr.jhu.edu/wp-content/uploads/2015/11/JIGSAWS.pdf)][[Homepage](https://cirl.lcsr.jhu.edu/research/hmm/datasets/jigsaws_release/)] </br>
 *surgical activities, 3 tasks: “Suturing (S)”, ”Needle Passing (NP)” and “Knot Tying (KT)”, each video is annotated with multiple annotation scores assessing different aspects of a video*
 
+* **FineDiving**: A Fine-grained Dataset for Procedure-aware Action Quality Assessment (CVPR 2022) </br>
+[[Paper](https://arxiv.org/pdf/2204.03646.pdf)][[Dataset](https://github.com/xujinglin/FineDiving)] </br>
+*3000 video samples, covering 52 action types, 29 sub-action types, and 23 difficulty degree types*
+
 ## Action Understanding with Adverbs
 
 * **HowTo100M Adverbs**: Action Modifiers: Learning from Adverbs in Instructional Videos (CVPR 2020) </br>
@@ -969,6 +975,17 @@ while sitting on the nest, nest building around the nest}; start and end times f
 * **MultiBench**: Multiscale Benchmarks for Multimodal Representation Learning </br>
 [[Homepage](https://cmu-multicomp-lab.github.io/multibench/)] </br>
 *spanning 15 datasets, 10 modalities, 20 prediction tasks, and 6 research areas*
+
+* **M5Product**: Self-harmonized Contrastive Learning for E-commercial Multi-modal Pretraining (CVPR 2022) </br>
+[[Paper](https://arxiv.org/abs/2109.04275)][[Homepage](https://xiaodongsuper.github.io/M5Product_dataset/index.html)] </br>
+*6 Million multi-modal samples, 5k properties with 24 Million values, 5 modalities-image text table video audio, 6 Million category annotations with 6k classes, Wide data source (1 Million merchants provide)*
+
+## Copy Detection
+* **VCSL**: A Large-scale Comprehensive Dataset and Copy-overlap Aware Evaluation Protocol for Segment-level Video Copy Detection (CVPR 2022) </br>
+[[Paper](https://arxiv.org/abs/2203.02654)][[Dataset](https://github.com/alipay/VCSL)] </br>
+*160k realistic video copy pairs containing more than 280k localized copied segment pairs*
+
+
 
 ## Physics
 * **Real-world Flag & FlagSim**: Cloth in the Wind: A Case Study of Physical Measurement through Simulation (CVPR 2020) </br>
