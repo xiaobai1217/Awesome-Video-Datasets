@@ -15,6 +15,7 @@
  - [360 Videos](#360-Videos)
  - [Activity Localization](#Activity-Localization)
  - [Video and Language](#Video-and-Language)
+ - [Fine-grained](#Fine-grained)
  - [Video Question Answering](#Video-Question-Answering)
  - [Action Segmentation](#Action-Segmentation)
  - [Repetition Counting](#Repetition-Counting)
@@ -494,6 +495,26 @@ car and Repotting a plant*
 * **CrossTask**: weakly supervised learning from instructional videos (CVPR 2019) </br>
 [[Paper](https://arxiv.org/abs/1903.08225)][[Homepage](https://github.com/DmZhukov/CrossTask)] </br>
 *4.7K videos, 83 tasks*
+
+## Fine-grained
+
+* **EPIC-Kitchens**: Multi-Modal Domain Adaptation for Fine-Grained Action Recognition (CVPR 2020) </br>
+[[Paper](http://openaccess.thecvf.com/content_CVPR_2020/html/Munro_Multi-Modal_Domain_Adaptation_for_Fine-Grained_Action_Recognition_CVPR_2020_paper.html)][[Homepage](https://jonmun.github.io/mmsada/)] </br>
+*3 domains, 8 action classes*
+
+* **MPII-Cooking**: Recognizing Fine-Grained and Composite Activities Using Hand-Centric Features and Script Data (IJCV 2015) </br>
+[[Paper](https://link.springer.com/content/pdf/10.1007/s11263-015-0851-8.pdf)][[Homepage](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/research/human-activity-recognition/mpii-cooking-2-dataset/)] </br>
+*67 fine-grained activities, 59 composite activities, 14,105 clips, 273 videos*
+
+* **FineGym**: A Hierarchical Video Dataset for Fine-grained Action Understanding (CVPR 2020) </br>
+[[Paper](https://arxiv.org/pdf/2004.06704.pdf)][[Homepage](https://sdolivia.github.io/FineGym/)] </br>
+*10 event categories, including 6 male events and 4 female events, 530 element categories*
+
+
+* **FineAction**: A Fined Video Dataset for Temporal Action Localization </br>
+[[Paper](https://arxiv.org/pdf/2105.11107.pdf)][[Homepage](https://deeperaction.github.io/fineaction/)]</br>
+*139K fined action instances densely annotated in almost 17K untrimmed videos spanning 106 action categories*
+
 
 ## Video Question Answering
 * **SUTD-TrafficQA**: A Question Answering Benchmark and an Efficient Network for Video Reasoning over Traffic Events </br>
