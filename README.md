@@ -887,7 +887,7 @@ Algorithms and Benchmark (CVPR 2021)</br>
 [[Paper](https://arxiv.org/pdf/1801.04264.pdf)][[Homepage](https://www.crcv.ucf.edu/projects/real-world/#:~:text=We%20construct%20a%20new%20large,Stealing%2C%20Shoplifting%2C%20and%20Vandalism.)]</br>
 *1,900 videos*
 
-* **UBnormal**: New Benchmark for Supervised Open-Set Video Anomaly Detection (CVPR 2022)
+* **UBnormal**: New Benchmark for Supervised Open-Set Video Anomaly Detection (CVPR 2022) </br>
 [[Paper](https://arxiv.org/pdf/2111.08644.pdf)][[Homepage](https://github.com/lilygeorgescu/UBnormal)] </br>
 *abnormal events annotated at the pixel level at training time*
 
