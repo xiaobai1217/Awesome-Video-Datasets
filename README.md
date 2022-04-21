@@ -288,6 +288,10 @@ hierarchies and action splits for unseen action search*
 [[Paper](https://arxiv.org/pdf/1511.06040.pdf)][[Homepage](https://github.com/mostafa-saad/deep-activity-rec)] </br>
 *4,830 clips, 8 group activity classes, nine individual actions*
 
+* **NBA**: Social Adaptive Module for Weakly-supervised Group Activity Recognition (ECCV 2020) </br>
+[[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123530205.pdf)][[Homepage](https://ruiyan1995.github.io/SAM.html)] </br>
+*181 videos, 9,172 video clips, 9 activities*
+
 * **Collective**: What are they doing? : Collective activity classification using spatio-temporal relationship among people </br>
 [[Paper](http://vhosts.eecs.umich.edu/vision//paper/Wongun_CollectiveActivityRecognition09.pdf)][[Homepage](http://vhosts.eecs.umich.edu/vision//activity-dataset.html)] </br>
 *5 different collective activities, 44 clips* 
@@ -442,6 +446,10 @@ hierarchies and action splits for unseen action search*
 * **TVSeries**: Online Action Detection (ECCV 2016) </br>
 [[Paper](https://arxiv.org/pdf/1604.06506.pdf)][[Homepage](https://homes.esat.kuleuven.be/psi-archive/rdegeest/TVSeries.html)] </br>
 *27 episodes from 6 popular TV series, 30 action classes, 6,231 action instances*
+
+* **SEAL**: A Large-scale Video Dataset of Multi-grained Spatio-temporally Action Localization </br>
+[[Paper](https://arxiv.org/pdf/2204.02688.pdf)] </br>
+*Tubes: 49.6k atomic actions spanning 172 action categories and 17.7k complex activities spanning 200 activity categories; Clips: 510.4k action labels with multiple labels per person*
 
 ## Video and Language
 * **Lingual OTB99 & Lingual ImageNet Videos**: Tracking by Natural Language Specification (CVPR 2017) </br>
