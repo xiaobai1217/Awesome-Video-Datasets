@@ -38,7 +38,7 @@
  - [Animal Behavior](#Animal-Behavior)
  - [Person Re-identification](#Person-Re-identification)
  - [Dynamic Texture Classification](#Dynamic-Texture-Classification)
- - [Multimodal Learning](#Multimodal-Learning)
+ - [Multi-modal Learning](#Multi-modal-Learning)
  - [Copy Detection](#Copy-Detection)
  - [Physics](#Physics)
 
