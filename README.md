@@ -460,6 +460,10 @@ hierarchies and action splits for unseen action search*
 [[Paper](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Rohrbach_A_Dataset_for_2015_CVPR_paper.pdf)][[Homepage](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/research/vision-and-language/mpii-movie-description-dataset/)] </br>
 *94 videos, 68,337 clips, 68,375 descriptions*
 
+* **DiDeMo**: Localizing Moments in Video with Temporal Language (EMNLP 2018) </br>
+[[Paper](https://arxiv.org/pdf/1809.01337.pdf)][[Homepage](https://github.com/LisaAnne/TemporalLanguageRelease)] </br>
+*training, validation and test sets containing 8,395, 1,065 and 1,004 videos, each video is trimmed to a maximum of 30 seconds*
+
 * **Narrated Instruction Videos**: Unsupervised Learning from Narrated Instruction Videos </br>
 [[Paper](https://www.di.ens.fr/willow/research/instructionvideos/paper.pdf)][[Homepage](https://www.di.ens.fr/willow/research/instructionvideos/)] </br>
 *150 videos, 800,000 frames, five tasks: Making a coffee, Changing car tire, Performing cardiopulmonary resuscitation (CPR), Jumping a
