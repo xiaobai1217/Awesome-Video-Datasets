@@ -175,6 +175,10 @@
 [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Chung_HAA500_Human-Centric_Atomic_Action_Dataset_With_Curated_Videos_ICCV_2021_paper.pdf)][[Homepage](https://www.cse.ust.hk/haa/)] </br>
 *a manually annotated humancentric atomic action dataset for action recognition on 500 classes with over 591K labeled frames*
 
+* **CDAD**: A Common Daily Action Dataset with Collected Hard Negative Samples (CVPR 2022) </br>
+[[Paper](https://keli-sketchx.github.io/files/CVPRW2022.pdf)][[Homepage](https://github.com/MartinXM/CDAD)] </br>
+*57,824 video clips of 23 well-defined common daily actions with rich manual annotations*
+
 * **Hierarchical Action Search**: Searching for Actions on the Hyperbole (CVPR 2020) </br>
 [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Long_Searching_for_Actions_on_the_Hyperbole_CVPR_2020_paper.pdf)][[Homepage](https://github.com/Tenglon/hyperbolic_action)] </br>
 *Hierarchical-ActivityNet, Hierarchical-Kinetics, and Hierarchical-Moments from ActivityNet, mini-Kinetics, and Moments-in-time; provide action
@@ -414,6 +418,10 @@ hierarchies and action splits for unseen action search*
 * **AVA-Kinetics**: The AVA-Kinetics Localized Human Actions Video Dataset </br> 
 [[Paper](https://arxiv.org/pdf/2005.00214.pdf)][[Homepage](http://research.google.com/ava/)]</br>
 *230k clips, 80 AVA action classes*
+
+* **TSU**: Toyota Smarthome Untrimmed: Real-World Untrimmed Videos for Activity Detection (TPAMI 2022) </br>
+[[Paper](https://ieeexplore.ieee.org/document/9762531)][[Homepage](https://project.inria.fr/toyotasmarthome/)] </br>
+*536 videos with an average duration of 21 mins*
 
 * **MultiSports**: A Multi-Person Video Dataset of Spatio-Temporally Localized Sports Actions (ICCV 2021) </br>
 [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Li_MultiSports_A_Multi-Person_Video_Dataset_of_Spatio-Temporally_Localized_Sports_Actions_ICCV_2021_paper.pdf)][[Homepage](https://deeperaction.github.io/multisports/)] </br>
