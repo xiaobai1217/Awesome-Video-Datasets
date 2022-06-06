@@ -258,6 +258,10 @@ hierarchies and action splits for unseen action search*
 [[Paper](https://yu-wu.net/pdf/CVPR21-vspw.pdf)][[Homepage](https://www.vspwdataset.com/)] </br>
 *3,536 videos, 251,632 pixel-level labeled frames, 124 categories, pixel-level annotations are provided at 15 f/s, a complete shot lasting 5 seconds on average*
 
+* **RGB-D in hand manipulation dataset**: In-hand Object Scanning via RGB-D Video Segmentation (ICRA 2019) </br>
+[[Paper](https://motion.cs.illinois.edu/papers/ICRA2019-Wang-InHandScanning.pdf)][[Homepage](https://www.rgbdinhandmanipulation.com/)] </br>
+*13 sequences of in-hand manipulation of objects from the YCB dataset. Each sequence ranges from 300 to 700 frames in length (filmed at 30fps) and contains in-hand manipulation of the objects revealing all sides*
+
 ## Object Detection
 * **ImageNet VID** </br>
 [[Paper](https://link.springer.com/article/10.1007/s11263-015-0816-y?sa_campaign=email/event/articleAuthor/onlineFirst#)][[Homepage](https://image-net.org/challenges/LSVRC/2017/#vid)] </br>
@@ -458,6 +462,10 @@ hierarchies and action splits for unseen action search*
 * **SEAL**: A Large-scale Video Dataset of Multi-grained Spatio-temporally Action Localization </br>
 [[Paper](https://arxiv.org/pdf/2204.02688.pdf)] </br>
 *Tubes: 49.6k atomic actions spanning 172 action categories and 17.7k complex activities spanning 200 activity categories; Clips: 510.4k action labels with multiple labels per person*
+
+* **JRDB-Act**: A Large-scale Dataset for Spatio-temporal Action, Social Group and Activity Detection (CVPR 2022) </br>
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Ehsanpour_JRDB-Act_A_Large-Scale_Dataset_for_Spatio-Temporal_Action_Social_Group_and_CVPR_2022_paper.pdf)][[Homepage](https://jrdb.erc.monash.edu/)] </br>
+*densely annotated with atomic actions, comprises over 2.8M action labels. Each human bounding box is labeled with one pose-based action label and multiple (optional) interaction-based action labels. Moreover JRDB-Act provides social group annotation, conducive to the task of grouping individuals based on their interactions in the scene to infer their social activities (common activities in each social group)*
 
 ## Video and Language
 * **Lingual OTB99 & Lingual ImageNet Videos**: Tracking by Natural Language Specification (CVPR 2017) </br>
