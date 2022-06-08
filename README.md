@@ -529,6 +529,10 @@ car and Repotting a plant*
 [[Paper](https://arxiv.org/abs/1903.08225)][[Homepage](https://github.com/DmZhukov/CrossTask)] </br>
 *4.7K videos, 83 tasks*
 
+* **HD-VILA-100M**: Advancing High-Resolution Video-Language Representation with Large-Scale Video Transcriptions (CVPR 2022) </br>
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Xue_Advancing_High-Resolution_Video-Language_Representation_With_Large-Scale_Video_Transcriptions_CVPR_2022_paper.pdf)][[Homepage](https://github.com/microsoft/XPretrain/blob/main/hd-vila-100m/README.md)] </br>
+*103M video clips with transcriptions*
+
 ## Fine-grained
 
 * **EPIC-Kitchens**: Multi-Modal Domain Adaptation for Fine-Grained Action Recognition (CVPR 2020) </br>
