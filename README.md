@@ -1007,6 +1007,10 @@ Algorithms and Benchmark (CVPR 2021)</br>
 *10 days (254 hours) of continuous wildlife monitoring data; the labels include four unique bird activities, {feeding the chick, incubation/brooding, nest building
 while sitting on the nest, nest building around the nest}; start and end times for each instance of these activities are provided with the annotations*
 
+* **Animal Kingdom**: A Large and Diverse Dataset for Animal Behavior Understanding (CVPR 2022) </br>
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Ng_Animal_Kingdom_A_Large_and_Diverse_Dataset_for_Animal_Behavior_CVPR_2022_paper.pdf)][[Homepage](https://sutdcv.github.io/Animal-Kingdom/)] </br>
+*50 hours of annotated videos to localize relevant animal behavior segments in long videos for the video grounding task, 30K video sequences for the finegrained multi-label action recognition task, and 33K frames for the pose estimation task, which correspond to a diverse range of animals with 850 species across 6 major animal classes.*
+
 ## Person Re-identification
 * **iLIDS-VID**: Person re-identification by video ranking (ECCV 2014) </br>
 [[Paper](https://core.ac.uk/download/pdf/208789091.pdf)][[Homepage](https://xiatian-zhu.github.io/downloads_qmul_iLIDS-VID_ReID_dataset.html)] </br>
