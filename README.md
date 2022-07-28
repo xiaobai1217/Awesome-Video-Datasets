@@ -374,6 +374,10 @@ hierarchies and action splits for unseen action search*
 [[Paper](https://arxiv.org/abs/1604.02748)][[Homepage](http://raingo.github.io/TGIF-Release/)] </br>
 *100K animated GIFs from Tumblr and 120K natural language descriptions*
 
+* **Spoken Moments**: Learning Joint Audio-Visual Representations from Video Descriptions (CVPR 2021) </br>
+[[Paper](https://arxiv.org/pdf/2105.04489.pdf)][[Homepage](http://moments.csail.mit.edu/spoken.html)] </br>
+*a video description dataset with over 500K different short videos depicting a broad range of different events*
+
 
 * **Charades**: Hollywood in Homes: Crowdsourcing Data Collection for Activity Understanding (ECCV 2016)</br> 
 [[Paper](http://ai2-website.s3.amazonaws.com/publications/hollywood-homes.pdf)][[Homepage](https://prior.allenai.org/projects/charades)]</br>
