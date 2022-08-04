@@ -419,6 +419,11 @@ hierarchies and action splits for unseen action search*
 [[Paper](https://dimadamen.github.io/ActionCompletion/ActionCompletion_BMVC2016.pdf)][[Homepage](https://data.bris.ac.uk/data/dataset/66qry08cv1fj1eunwxwob3fjz)] </br>
 *414 complete/incomplete object interaction sequences, spanning six actions and captured using an RGB-D camera*
 
+* **P2A**: A Dataset and Benchmark for Dense Action Detection from
+Table Tennis Match Broadcasting Videos (2022) </br>
+[[Paper](https://arxiv.org/pdf/2207.12730.pdf)] </br>
+*2,721 video clips collected from the broadcasting videos of professional table tennis matches in World Table Tennis Championships and Olympiads, 14 classes, 139,075 segments, recognition \& localization*
+
 * **AVA**: A Video Dataset of Spatio-temporally Localized Atomic Visual Actions </br> 
 [[Paper](https://arxiv.org/abs/1705.08421)][[Homepage](http://research.google.com/ava/)]</br>
 *80 atomic visual actions in 430 15-minute video clips, 1.58M action labels with multiple labels per person occurring frequently*
