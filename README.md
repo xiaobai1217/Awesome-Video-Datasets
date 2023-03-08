@@ -22,6 +22,7 @@
  - [Audiovisual Learning](#Audiovisual-Learning)
  - [Video Indexing](#Video-Indexing)
  - [Skill Determination](#Skill-Determination)
+ - [Video Quality Assessment](#Video-Quality-Assessment)
  - [Action Understanding with Adverbs](#Action-Understanding-with-Adverbs)
  - [Video Retrieval](#Video-Retrieval)
  - [Video Domain Adaptation](#Video-Domain-Adaptation)
@@ -760,6 +761,12 @@ nouns, 53 verbs and 23 adjectives*
 * **FineDiving**: A Fine-grained Dataset for Procedure-aware Action Quality Assessment (CVPR 2022) </br>
 [[Paper](https://arxiv.org/pdf/2204.03646.pdf)][[Dataset](https://github.com/xujinglin/FineDiving)] </br>
 *3000 video samples, covering 52 action types, 29 sub-action types, and 23 difficulty degree types*
+
+## Video Quality Assessment
+* **CVQAD**: Video Compression Dataset and Benchmark of Learning-Based Video-Quality Metrics (NeurIPS 2022 Track Datasets and Benchmarks) </br>
+[[Paper](https://openreview.net/pdf?id=My5AI9aM49R)][[Homepage](https://videoprocessing.ai/datasets/vqa.html)] </br>
+*1,022 compressed videos, 32 encoders of 5 compression standards (H.265/HEVC, H.266/VVC, AV1, H.264/AVC, and VP9), 3 target bitrates (1,000 kbps, 2,000 kbps, and 4,000 kbps)*
+
 
 ## Action Understanding with Adverbs
 
